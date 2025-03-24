@@ -1,0 +1,12 @@
+08-11-2024 11:27:41 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 11:27:43 - INFO - pre-layer-gcodes request successfully sent.
+08-11-2024 11:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 11:27:43 - INFO - pre-layer-gcodes Request successfully executed.
+08-11-2024 11:27:43 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 11:27:45 - INFO - pre-layer-gcodes request successfully sent.
+08-11-2024 11:27:45 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 11:27:45 - INFO - pre-layer-gcodes Request successfully executed.
+08-11-2024 11:27:45 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 11:27:49 - INFO - pre-layer-gcodes request successfully sent.
+08-11-2024 11:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 11:27:49 - INFO - pre-layer-gcodes Request successfully executed.

@@ -1,0 +1,301 @@
+02-12-2024 12:00:38 - INFO - Opening directory D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model...
+02-12-2024 12:00:38 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\27-11-2024.emd...
+02-12-2024 12:00:38 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+02-12-2024 12:00:38 - INFO - Loaded file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+02-12-2024 12:00:38 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model2.emd...
+02-12-2024 12:00:38 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model3.emd...
+02-12-2024 12:00:38 - INFO - Total number of layers: 4
+02-12-2024 12:01:17 - INFO - Opening directory D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model...
+02-12-2024 12:01:17 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\27-11-2024.emd...
+02-12-2024 12:01:17 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+02-12-2024 12:01:17 - INFO - Loaded file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+02-12-2024 12:01:17 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model2.emd...
+02-12-2024 12:01:17 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model3.emd...
+02-12-2024 12:01:17 - INFO - Total number of layers: 4
+02-12-2024 12:07:08 - INFO - Scancard process started for layer 
+02-12-2024 12:07:08 - INFO - Opening file-> Connecting to localhost:50000...
+02-12-2024 12:07:08 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\\test_model1.emd'}} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:08 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+02-12-2024 12:07:08 - INFO - File D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd opened...
+02-12-2024 12:07:08 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+02-12-2024 12:07:08 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:08 - INFO - setting mark parameters by layer-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+02-12-2024 12:07:09 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+02-12-2024 12:07:09 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:10 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+02-12-2024 12:07:11 - INFO - Start marking-> Connecting to localhost:50000...
+02-12-2024 12:07:11 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:11 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+02-12-2024 12:07:12 - INFO - Marking process for Layer  started...
+02-12-2024 12:07:13 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:13 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:13 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:14 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:14 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:14 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:15 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:15 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:15 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:16 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:16 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:16 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:17 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:17 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:17 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:18 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:18 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:18 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:19 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:19 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:19 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:20 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:20 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:20 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:21 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:21 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:21 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:22 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:22 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:22 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:23 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:23 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:23 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:24 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:24 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:24 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:25 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:25 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:25 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:26 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:26 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:26 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:27 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:27 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:27 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:28 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:28 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:28 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:29 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:29 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:29 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}
+02-12-2024 12:07:30 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:07:30 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:30 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+02-12-2024 12:07:30 - INFO - Marking process for Layer  over
+02-12-2024 12:07:30 - INFO - Stop marking-> Connecting to localhost:50000...
+02-12-2024 12:07:30 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:30 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+02-12-2024 12:07:59 - INFO - Scancard process started for layer 
+02-12-2024 12:07:59 - INFO - Opening file-> Connecting to localhost:50000...
+02-12-2024 12:07:59 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\\test_model1.emd'}} to localhost:50000 with timeout of 5s
+02-12-2024 12:07:59 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+02-12-2024 12:07:59 - INFO - File D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd opened...
+02-12-2024 12:07:59 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+02-12-2024 12:07:59 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+02-12-2024 12:08:03 - INFO - setting mark parameters by layer-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+02-12-2024 12:08:04 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+02-12-2024 12:08:04 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+02-12-2024 12:08:05 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+02-12-2024 12:08:06 - INFO - Start marking-> Connecting to localhost:50000...
+02-12-2024 12:08:06 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+02-12-2024 12:08:06 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+02-12-2024 12:08:07 - INFO - Marking process for Layer  started...
+02-12-2024 12:08:08 - INFO - getting working status-> Connecting to localhost:50000...
+02-12-2024 12:08:08 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+02-12-2024 12:08:08 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 1,
+    "data": {
+        "laser_status": 2,
+        "describe": "打标中"
+    }
+}

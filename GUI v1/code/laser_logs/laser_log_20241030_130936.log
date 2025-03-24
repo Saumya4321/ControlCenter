@@ -1,0 +1,59 @@
+30-10-2024 13:09:57 - INFO - Opening directory D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model...
+30-10-2024 13:09:57 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+30-10-2024 13:09:57 - INFO - Loaded file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+30-10-2024 13:09:57 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model2.emd...
+30-10-2024 13:09:57 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model3.emd...
+30-10-2024 13:11:00 - INFO - Scancard process started for layer 
+30-10-2024 13:11:00 - INFO - Opening file-> Connecting to localhost:50000...
+30-10-2024 13:11:00 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\\test_model1.emd'}} to localhost:50000 with timeout of 5s
+30-10-2024 13:11:01 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+30-10-2024 13:11:01 - INFO - File D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd opened...
+30-10-2024 13:11:01 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+30-10-2024 13:11:01 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+30-10-2024 13:11:04 - INFO - setting mark parameters by layer-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+30-10-2024 13:11:05 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+30-10-2024 13:11:05 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+30-10-2024 13:11:05 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+30-10-2024 13:11:06 - INFO - Start marking-> Connecting to localhost:50000...
+30-10-2024 13:11:06 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+30-10-2024 13:11:06 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+30-10-2024 13:11:07 - INFO - Marking process for Layer  started...
+30-10-2024 13:11:08 - INFO - getting working status-> Connecting to localhost:50000...
+30-10-2024 13:11:08 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+30-10-2024 13:11:08 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+30-10-2024 13:11:08 - INFO - Marking process for Layer  over
+30-10-2024 13:11:08 - INFO - Stop marking-> Connecting to localhost:50000...
+30-10-2024 13:11:08 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+30-10-2024 13:11:08 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}

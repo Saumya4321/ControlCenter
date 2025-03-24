@@ -1,0 +1,1470 @@
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/printer.cfg.20240828164549.bak
+Command output: 
+Executing command: sed -i 's/max_power: 0.30/max_power: 0.40/g' /home/pi/printer_data/config/printer.cfg
+Command output: 
+Executing command: sed -i 's/pwm_cycle_time: 0.3/pwm_cycle_time: 0.2/g' /home/pi/printer_data/config/printer.cfg
+Command output: 
+Operation completed successfully.
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/klipper.cfg /home/pi/printer_data/backup/klipper.cfg.20240910155025.bak
+Command failed: cp /home/pi/printer_data/config/klipper.cfg /home/pi/printer_data/backup/klipper.cfg.20240910155025.bak
+Error: cp: cannot stat '/home/pi/printer_data/config/klipper.cfg': No such file or directory
+
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+An error occurred: 'ConfigEditor' object has no attribute 'REMOTE_PATH'
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910155157.bak
+Command output: 
+Executing command: scp ./config.cfg pi@192.168.0.231:/home/pi/printer_data/config/heater.cfg
+Command failed: scp ./config.cfg pi@192.168.0.231:/home/pi/printer_data/config/heater.cfg
+Error: Host key verification failed.
+lost connection
+
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910155629.bak
+Command output: 
+Executing command: ssh pi@192.168.0.231
+Command failed: ssh pi@192.168.0.231
+Error: Pseudo-terminal will not be allocated because stdin is not a terminal.
+Host key verification failed.
+
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+An error occurred: not readable
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910160524.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: with open('/home/pi/printer_data/config/heater.cfg', 'w') as f:
+                    for line in content_list:
+                        f.write(f"{line}
+")
+Command failed: with open('/home/pi/printer_data/config/heater.cfg', 'w') as f:
+                    for line in content_list:
+                        f.write(f"{line}
+")
+Error: bash: -c: line 1: syntax error near unexpected token `('
+bash: -c: line 1: `with open('/home/pi/printer_data/config/heater.cfg', 'w') as f:'
+
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910160752.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "$line" >> "$file_path" for line in content_list for file_path in ["/home/pi/printer_data/config/heater.cfg"]
+Command failed: echo "$line" >> "$file_path" for line in content_list for file_path in ["/home/pi/printer_data/config/heater.cfg"]
+Error: bash: line 1: : No such file or directory
+
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910160908.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [virtual_sdcard]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [virtual_sdcard]
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo #path: /home/dell/printer_1_data/gcodes
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo on_error_gcode: CANCEL_PRINT
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: on_error_gcode: CANCEL_PRINT
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo #######Chamber IR Heater parameters#######
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater1]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater1]
+
+Executing command: echo max_power: 0.15
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.15
+
+Executing command: echo pwm_cycle_time: 0.2
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.2
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater2]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater2]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater3]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater3]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater4]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater4]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater5]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater5]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater6]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater6]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater7]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater7]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater8]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater8]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater9]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater9]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater10]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater10]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater11]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater11]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater12]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater12]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater13]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater13]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [heater_generic chamber_heater14]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [heater_generic chamber_heater14]
+
+Executing command: echo max_power: 0.1
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.1
+
+Executing command: echo pwm_cycle_time: 0.3
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.3
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [extruder]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [extruder]
+
+Executing command: echo max_power: 0.15
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.15
+
+Executing command: echo pwm_cycle_time: 0.2
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.2
+
+Executing command: echo 
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+
+Executing command: echo [extruder1]
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: [extruder1]
+
+Executing command: echo max_power: 0.15
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: max_power: 0.15
+
+Executing command: echo pwm_cycle_time: 0.2
+ >> /home/pi/printer_data/config/heater.cfg
+Command output: pwm_cycle_time: 0.2
+
+Operation completed successfully.
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910161229.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[virtual_sdcard]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#path: /home/dell/printer_1_data/gcodes
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "on_error_gcode: CANCEL_PRINT
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#######Chamber IR Heater parameters#######
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater2]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater3]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater4]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater5]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater6]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater7]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater8]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater9]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater10]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater11]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater12]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater13]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater14]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Operation completed successfully.
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910161543.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[virtual_sdcard]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#path: /home/dell/printer_1_data/gcodes
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "on_error_gcode: CANCEL_PRINT
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#######Chamber IR Heater parameters#######
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater2]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater3]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater4]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater5]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater6]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater7]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater9]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater10]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater11]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater12]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater13]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater14]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Operation completed successfully.
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910161659.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[virtual_sdcard]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#path: /home/dell/printer_1_data/gcodes
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "on_error_gcode: CANCEL_PRINT
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#######Chamber IR Heater parameters###!####
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater2]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater3]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater4]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater5]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater6]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater7]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater9]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater10]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater11]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater12]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater13]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater14]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.3
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.15
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Operation completed successfully.
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910162152.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[virtual_sdcard]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#path: /home/dell/printer_1_data/gcodes
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "on_error_gcode: CANCEL_PRINT
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#######Chamber IR Heater parameters###!####
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater2]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater3]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater4]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater5]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater6]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater7]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater9]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater10]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater11]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater12]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater13]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater14]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 10
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Operation completed successfully.
+SSH connection closed.
+Connected to the remote host.
+Creating backup directory...
+Backup directory created: 
+Backing up and updating file...
+Executing command: cp /home/pi/printer_data/config/printer.cfg /home/pi/printer_data/backup/klipper.cfg.20240910162258.bak
+Command output: 
+Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[virtual_sdcard]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#path: /home/dell/printer_1_data/gcodes
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "on_error_gcode: CANCEL_PRINT
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "#######Chamber IR Heater parameters###!####
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater2]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater3]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater4]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater5]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater6]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater7]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater9]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater10]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater11]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater12]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater13]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[heater_generic chamber_heater14]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "[extruder1]
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+Command output: 
+Operation completed successfully.
+SSH connection closed.

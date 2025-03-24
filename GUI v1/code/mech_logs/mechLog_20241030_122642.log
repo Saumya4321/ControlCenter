@@ -1,0 +1,1708 @@
+30-10-2024 12:26:59 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+30-10-2024 12:26:59 - INFO - Sending request to Setting Chmaber Zones to a= 0.010115999999999965, b= 0.0025289999999999913, c= 0.010115999999999965, d= 0.0025289999999999913 with timeout of 5s...
+30-10-2024 12:26:59 - INFO - Setting Chmaber Zones to a= 0.010115999999999965, b= 0.0025289999999999913, c= 0.010115999999999965, d= 0.0025289999999999913 request successfully sent.
+30-10-2024 12:26:59 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:26:59 - INFO - Setting Chmaber Zones to a= 0.010115999999999965, b= 0.0025289999999999913, c= 0.010115999999999965, d= 0.0025289999999999913 Request successfully executed.
+30-10-2024 12:26:59 - INFO - Setting Chmaber Zones to a= 0.010115999999999965, b= 0.0025289999999999913, c= 0.010115999999999965, d= 0.0025289999999999913 request successfully sent.
+30-10-2024 12:26:59 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:26:59 - INFO - Setting Chmaber Zones to a= 0.010115999999999965, b= 0.0025289999999999913, c= 0.010115999999999965, d= 0.0025289999999999913 Request successfully executed.
+30-10-2024 12:27:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.010031999999999965, b= 0.002507999999999991, c= 0.010031999999999965, d= 0.002507999999999991 with timeout of 5s...
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010031999999999965, b= 0.002507999999999991, c= 0.010031999999999965, d= 0.002507999999999991 request successfully sent.
+30-10-2024 12:27:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010031999999999965, b= 0.002507999999999991, c= 0.010031999999999965, d= 0.002507999999999991 Request successfully executed.
+30-10-2024 12:27:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.010047999999999967, b= 0.0025119999999999917, c= 0.010047999999999967, d= 0.0025119999999999917 with timeout of 5s...
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010047999999999967, b= 0.0025119999999999917, c= 0.010047999999999967, d= 0.0025119999999999917 request successfully sent.
+30-10-2024 12:27:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010047999999999967, b= 0.0025119999999999917, c= 0.010047999999999967, d= 0.0025119999999999917 Request successfully executed.
+30-10-2024 12:27:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.010063999999999967, b= 0.0025159999999999918, c= 0.010063999999999967, d= 0.0025159999999999918 with timeout of 5s...
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010063999999999967, b= 0.0025159999999999918, c= 0.010063999999999967, d= 0.0025159999999999918 request successfully sent.
+30-10-2024 12:27:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010063999999999967, b= 0.0025159999999999918, c= 0.010063999999999967, d= 0.0025159999999999918 Request successfully executed.
+30-10-2024 12:27:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.010079999999999967, b= 0.002519999999999992, c= 0.010079999999999967, d= 0.002519999999999992 with timeout of 5s...
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010079999999999967, b= 0.002519999999999992, c= 0.010079999999999967, d= 0.002519999999999992 request successfully sent.
+30-10-2024 12:27:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010079999999999967, b= 0.002519999999999992, c= 0.010079999999999967, d= 0.002519999999999992 Request successfully executed.
+30-10-2024 12:27:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.010095999999999964, b= 0.002523999999999991, c= 0.010095999999999964, d= 0.002523999999999991 with timeout of 5s...
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010095999999999964, b= 0.002523999999999991, c= 0.010095999999999964, d= 0.002523999999999991 request successfully sent.
+30-10-2024 12:27:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:00 - INFO - Setting Chmaber Zones to a= 0.010095999999999964, b= 0.002523999999999991, c= 0.010095999999999964, d= 0.002523999999999991 Request successfully executed.
+30-10-2024 12:27:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.010111999999999965, b= 0.002527999999999991, c= 0.010111999999999965, d= 0.002527999999999991 with timeout of 5s...
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 0.010111999999999965, b= 0.002527999999999991, c= 0.010111999999999965, d= 0.002527999999999991 request successfully sent.
+30-10-2024 12:27:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 0.010111999999999965, b= 0.002527999999999991, c= 0.010111999999999965, d= 0.002527999999999991 Request successfully executed.
+30-10-2024 12:27:01 - INFO - Sending request to Setting Chmaber Zones to a= 7.999999999999969e-06, b= 1.9999999999999923e-06, c= 7.999999999999969e-06, d= 1.9999999999999923e-06 with timeout of 5s...
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 7.999999999999969e-06, b= 1.9999999999999923e-06, c= 7.999999999999969e-06, d= 1.9999999999999923e-06 request successfully sent.
+30-10-2024 12:27:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 7.999999999999969e-06, b= 1.9999999999999923e-06, c= 7.999999999999969e-06, d= 1.9999999999999923e-06 Request successfully executed.
+30-10-2024 12:27:01 - INFO - Sending request to Setting Chmaber Zones to a= 7.46666666666664e-05, b= 1.86666666666666e-05, c= 7.46666666666664e-05, d= 1.86666666666666e-05 with timeout of 5s...
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 7.46666666666664e-05, b= 1.86666666666666e-05, c= 7.46666666666664e-05, d= 1.86666666666666e-05 request successfully sent.
+30-10-2024 12:27:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 7.46666666666664e-05, b= 1.86666666666666e-05, c= 7.46666666666664e-05, d= 1.86666666666666e-05 Request successfully executed.
+30-10-2024 12:27:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:24 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:24 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:24 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:24 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:24 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:24 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:24 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:24 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:24 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:24 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:24 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:25 - INFO - Count value updated in GUI!
+30-10-2024 12:27:25 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:25 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:25 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:25 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:25 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:25 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:25 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:25 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:25 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:25 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:25 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:26 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:26 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:26 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:26 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:26 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:26 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:26 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:26 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:26 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:26 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:26 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:27 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:27 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:27 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:27 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:27 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:27 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:27 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:27 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:27 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:27 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:27 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:28 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:28 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:28 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:28 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:28 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:28 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:28 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:28 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:28 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:28 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:28 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:29 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:29 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:29 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:29 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:29 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:29 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:29 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:29 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:29 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:29 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:30 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:30 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:30 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:30 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:30 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:30 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:30 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:30 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:30 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:30 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:30 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:30 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:31 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:31 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:31 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:31 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:31 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:31 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:31 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:31 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:31 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:31 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:31 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:32 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:32 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:32 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:32 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:32 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:32 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:32 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:32 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:32 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:32 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:33 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:33 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:33 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:33 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:33 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:33 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:33 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:33 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:33 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:33 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:33 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:34 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:34 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:34 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:34 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:34 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:34 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:34 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:34 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:34 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:34 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:35 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:35 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:35 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:35 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:35 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:35 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:35 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:35 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:35 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:35 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:35 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:35 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:36 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:36 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:36 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:36 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:36 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:37 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:37 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:37 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:37 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:37 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:38 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:38 - INFO - pre-layer-gcodes request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - pre-layer-gcodes Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:38 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:38 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:38 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:38 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:38 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:38 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:39 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:39 - INFO - pre-layer-gcodes request successfully sent.
+30-10-2024 12:27:39 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:39 - INFO - pre-layer-gcodes Request successfully executed.
+30-10-2024 12:27:39 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:39 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:39 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:39 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:39 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:39 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:39 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:39 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:39 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:39 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:39 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:40 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:40 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:40 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:40 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:40 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:41 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:41 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:41 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:41 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:41 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:42 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:42 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:42 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:42 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:42 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - pre-layer-gcodes request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - pre-layer-gcodes Request successfully executed.
+30-10-2024 12:27:43 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Moving left hopper motors 0.1mm - stage 1 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Moving left hopper motors 0.1mm - stage 1 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Dwell for 100.0 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Dwell for 100.0 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Moving left hopper motors - stage 2 request successfully sent.
+30-10-2024 12:27:43 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:43 - INFO - Moving left hopper motors - stage 2 Request successfully executed.
+30-10-2024 12:27:43 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:43 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:44 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:44 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:44 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:44 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:44 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:45 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:45 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:45 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:45 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:45 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:46 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:46 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:46 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:46 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:46 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:47 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:47 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:47 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:47 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:47 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:48 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:48 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:48 - ERROR - E102 : Recoater go RIGHT Request to Moonraker Timed out 
+ Recoater go RIGHT not successful
+30-10-2024 12:27:48 - INFO - Sending request to Turning on heater with timeout of 5s...
+30-10-2024 12:27:48 - ERROR - E102 : Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+30-10-2024 12:27:48 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:48 - ERROR - E102 : Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+30-10-2024 12:27:48 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:48 - ERROR - E102 : Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+30-10-2024 12:27:48 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:49 - ERROR - E102 : Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+30-10-2024 12:27:49 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Turning on heater request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Turning on heater Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:49 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:49 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:49 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:50 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:50 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:50 - INFO - Sending request to Turning off heater with timeout of 5s...
+30-10-2024 12:27:50 - INFO - Turning off heater request successfully sent.
+30-10-2024 12:27:50 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:50 - INFO - Turning off heater Request successfully executed.
+30-10-2024 12:27:50 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:50 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:50 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:50 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:50 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:50 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:50 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:50 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:50 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:51 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:51 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:51 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:51 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:51 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:51 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:51 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:51 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:51 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:51 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:51 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:52 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:52 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:52 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:52 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:52 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:52 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:52 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:52 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:52 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:52 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:52 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:53 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:53 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:53 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:53 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:53 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:53 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:53 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:53 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:53 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:53 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:53 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:54 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:54 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:54 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:54 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:54 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:54 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:54 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:54 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:54 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:54 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:54 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:55 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:55 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:55 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:55 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:55 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:55 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:55 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:55 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:55 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:55 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:56 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:56 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:56 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:56 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:56 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:56 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:56 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:56 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:56 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:56 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:56 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:57 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:57 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:57 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:57 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:57 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:57 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:57 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:57 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:57 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:57 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:57 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:58 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:58 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:58 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:58 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:58 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:58 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:58 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:58 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:58 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:58 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:59 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:59 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:59 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:59 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:59 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:59 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:59 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:59 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:27:59 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:27:59 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:27:59 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:00 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:00 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:00 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:01 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:01 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:01 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:02 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:02 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:02 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:03 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:03 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:03 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:04 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:04 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:04 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:05 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:05 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:05 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:06 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:06 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:06 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:07 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:07 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:07 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:08 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:08 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:08 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:09 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:09 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:09 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:10 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:10 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:10 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:11 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:11 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:11 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:12 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:12 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:12 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:13 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:13 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:13 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:14 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:14 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:14 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:15 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:15 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:15 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:16 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:17 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:17 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:17 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:18 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:18 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:18 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:19 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:19 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:19 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:20 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:20 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:20 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:21 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:21 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:21 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:22 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:22 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:22 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:23 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:23 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+30-10-2024 12:28:23 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+30-10-2024 12:28:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+30-10-2024 12:28:24 - INFO - Response from moonraker: {'result': 'ok'}
+30-10-2024 12:28:24 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.

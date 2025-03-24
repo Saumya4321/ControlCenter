@@ -1,0 +1,8 @@
+07-11-2024 10:45:52 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:45:52 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:45:52 - INFO - Laser Window CLOSE Request successfully executed.
+07-11-2024 10:45:52 - INFO - Laser Window CLOSED!
+07-11-2024 10:46:03 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+07-11-2024 10:46:03 - INFO - Laser Window open request successfully sent.
+07-11-2024 10:46:03 - ERROR - E103: Error while getting/ reading response 
+ Open Laser Window not successful

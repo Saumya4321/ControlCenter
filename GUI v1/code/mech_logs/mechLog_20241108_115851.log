@@ -1,0 +1,1456 @@
+08-11-2024 11:59:21 - INFO - Sending request to Homing Z axis - command 1/4 with timeout of 360s...
+08-11-2024 12:00:21 - ERROR - E104: Error while executing Homing Z axis - command 1/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G28+Z0
+08-11-2024 12:00:21 - INFO - Sending request to Homing Z axis - command 2/4 with timeout of 360s...
+08-11-2024 12:01:21 - ERROR - E104: Error while executing Homing Z axis - command 2/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G90
+08-11-2024 12:01:21 - INFO - Sending request to Homing Z axis - command 3/4 with timeout of 360s...
+08-11-2024 12:02:20 - INFO - Homing Z axis - command 3/4 request successfully sent.
+08-11-2024 12:02:20 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:02:20 - INFO - Homing Z axis - command 3/4 Request successfully executed.
+08-11-2024 12:02:20 - INFO - Sending request to Homing Z axis - command 4/4 with timeout of 360s...
+08-11-2024 12:02:20 - INFO - Homing Z axis - command 4/4 request successfully sent.
+08-11-2024 12:02:20 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:02:20 - INFO - Homing Z axis - command 4/4 Request successfully executed.
+08-11-2024 12:02:20 - INFO - Delay of 105 s
+08-11-2024 12:04:05 - INFO - Sending request to Recoater go LEFT with timeout of 5s...
+08-11-2024 12:04:09 - INFO - Recoater go LEFT request successfully sent.
+08-11-2024 12:04:09 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:09 - INFO - Recoater go LEFT Request successfully executed.
+08-11-2024 12:04:14 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 12:04:16 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+08-11-2024 12:04:16 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:16 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:16 - INFO - pre-layer-gcodes request successfully sent.
+08-11-2024 12:04:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:16 - INFO - pre-layer-gcodes Request successfully executed.
+08-11-2024 12:04:16 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 12:04:16 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:16 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:16 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:16 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:16 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:16 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:16 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:16 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:17 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:17 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:17 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:17 - INFO - pre-layer-gcodes request successfully sent.
+08-11-2024 12:04:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:17 - INFO - pre-layer-gcodes Request successfully executed.
+08-11-2024 12:04:17 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:17 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:17 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:17 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:18 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:18 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:18 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:18 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:18 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:19 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:19 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:19 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:19 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:19 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:20 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:20 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:20 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:20 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:20 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - pre-layer-gcodes request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - pre-layer-gcodes Request successfully executed.
+08-11-2024 12:04:21 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Moving left hopper motors 0.1mm - stage 1 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Moving left hopper motors 0.1mm - stage 1 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - Dwell for 100.0 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Dwell for 100.0 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+08-11-2024 12:04:21 - INFO - Moving left hopper motors - stage 2 request successfully sent.
+08-11-2024 12:04:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:21 - INFO - Moving left hopper motors - stage 2 Request successfully executed.
+08-11-2024 12:04:21 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:22 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:22 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:22 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:22 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:22 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:22 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:23 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:23 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:23 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:23 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:23 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:24 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:24 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:24 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:24 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:24 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:24 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:25 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:25 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:25 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:25 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:25 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:25 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:26 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:26 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:26 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:26 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:26 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:26 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:27 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:27 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:27 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:27 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:27 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:27 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:27 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:27 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:27 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:27 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:27 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:28 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:28 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:28 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:28 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:28 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:28 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:28 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:28 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:28 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:28 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:28 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:29 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:29 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:29 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:29 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:29 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:29 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:29 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:29 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:29 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:29 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:29 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:30 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:30 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:30 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:30 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:30 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:30 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:30 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:30 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:30 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:30 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:30 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:31 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:31 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:31 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:31 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:31 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:31 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:31 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:31 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:31 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:31 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:31 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:31 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+08-11-2024 12:04:32 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:32 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:32 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:32 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:32 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:33 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:33 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:33 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:33 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:33 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:34 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:34 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:34 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:34 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:34 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:35 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:35 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:35 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:35 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:35 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:36 - INFO - Recoater go RIGHT request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Recoater go RIGHT Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:36 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:36 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:36 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:37 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:37 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:37 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:37 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:37 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:37 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:37 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:37 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:37 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:37 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:37 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:38 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:38 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:38 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:38 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:38 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:38 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:38 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:38 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:38 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:38 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:38 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:39 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:39 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:39 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:39 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:39 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:39 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:39 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:39 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:39 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:39 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:39 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:40 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:40 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:40 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:40 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:40 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:40 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:40 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:40 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:40 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:40 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:40 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:41 - INFO - Sending request to Turning on heater with timeout of 5s...
+08-11-2024 12:04:41 - INFO - Turning on heater request successfully sent.
+08-11-2024 12:04:41 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:41 - INFO - Turning on heater Request successfully executed.
+08-11-2024 12:04:41 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:41 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:41 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:41 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:41 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:41 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:41 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:41 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:41 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:41 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:41 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:42 - INFO - Sending request to Turning off heater with timeout of 5s...
+08-11-2024 12:04:42 - INFO - Turning off heater request successfully sent.
+08-11-2024 12:04:42 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:42 - INFO - Turning off heater Request successfully executed.
+08-11-2024 12:04:42 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:42 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:42 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:42 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:42 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:42 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:42 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:42 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:42 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:42 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:42 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:43 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:43 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:43 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:43 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:43 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:43 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:43 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:43 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:43 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:43 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:43 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:44 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:44 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:44 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:44 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:44 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:44 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:44 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:44 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:44 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:44 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:44 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:45 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:45 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:45 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:45 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:45 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:45 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:45 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:45 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:45 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:45 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:45 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:46 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:46 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:46 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:46 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:46 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:46 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:46 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:46 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:46 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:46 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:46 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:47 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:47 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:47 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:47 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:47 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:47 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:47 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:47 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:47 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:47 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:47 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:48 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:48 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:48 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:48 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:48 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:48 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:48 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:48 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:48 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:48 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:48 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:49 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:49 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:49 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:49 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:49 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:49 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:49 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:49 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:49 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:49 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:50 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:50 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:50 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:50 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:50 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:50 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:50 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:50 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:50 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:50 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:50 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:51 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:51 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:51 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:51 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:51 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:51 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:51 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:51 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:51 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:51 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:51 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:52 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:52 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:52 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:52 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:52 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:52 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:52 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:52 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:52 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:52 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:52 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:53 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:53 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:53 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:53 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:53 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:53 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:53 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:53 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:53 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:53 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:54 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:54 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:54 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:54 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:54 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:54 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:54 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:54 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:54 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:54 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:54 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:55 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:55 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:55 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:55 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:55 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:55 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:55 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:55 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:55 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:55 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:55 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:56 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:56 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:56 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:56 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:56 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:56 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:56 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:56 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:56 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:56 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:56 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:57 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:57 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:57 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:57 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:57 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:57 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:57 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:57 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:57 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:57 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:57 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:58 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:58 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:58 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:58 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:58 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:58 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:58 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:58 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:58 - INFO - Sending request to Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 with timeout of 5s...
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 request successfully sent.
+08-11-2024 12:04:58 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:58 - INFO - Setting Chamber Zones to a= 1.0, b= 0.25, c= 1.0, d= 0.25 Request successfully executed.
+08-11-2024 12:04:59 - INFO - Sending request to Setting Chamber Zones to a= 0.9821759999999999, b= 0.24554399999999998, c= 0.9821759999999999, d= 0.24554399999999998 with timeout of 5s...
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9821759999999999, b= 0.24554399999999998, c= 0.9821759999999999, d= 0.24554399999999998 request successfully sent.
+08-11-2024 12:04:59 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9821759999999999, b= 0.24554399999999998, c= 0.9821759999999999, d= 0.24554399999999998 Request successfully executed.
+08-11-2024 12:04:59 - INFO - Sending request to Setting Chamber Zones to a= 0.9780939999999994, b= 0.24452349999999984, c= 0.9780939999999994, d= 0.24452349999999984 with timeout of 5s...
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9780939999999994, b= 0.24452349999999984, c= 0.9780939999999994, d= 0.24452349999999984 request successfully sent.
+08-11-2024 12:04:59 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9780939999999994, b= 0.24452349999999984, c= 0.9780939999999994, d= 0.24452349999999984 Request successfully executed.
+08-11-2024 12:04:59 - INFO - Sending request to Setting Chamber Zones to a= 0.968796, b= 0.242199, c= 0.968796, d= 0.242199 with timeout of 5s...
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.968796, b= 0.242199, c= 0.968796, d= 0.242199 request successfully sent.
+08-11-2024 12:04:59 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.968796, b= 0.242199, c= 0.968796, d= 0.242199 Request successfully executed.
+08-11-2024 12:04:59 - INFO - Sending request to Setting Chamber Zones to a= 0.9645899999999996, b= 0.2411474999999999, c= 0.9645899999999996, d= 0.2411474999999999 with timeout of 5s...
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9645899999999996, b= 0.2411474999999999, c= 0.9645899999999996, d= 0.2411474999999999 request successfully sent.
+08-11-2024 12:04:59 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9645899999999996, b= 0.2411474999999999, c= 0.9645899999999996, d= 0.2411474999999999 Request successfully executed.
+08-11-2024 12:04:59 - INFO - Sending request to Setting Chamber Zones to a= 0.9552679999999996, b= 0.2388169999999999, c= 0.9552679999999996, d= 0.2388169999999999 with timeout of 5s...
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9552679999999996, b= 0.2388169999999999, c= 0.9552679999999996, d= 0.2388169999999999 request successfully sent.
+08-11-2024 12:04:59 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:04:59 - INFO - Setting Chamber Zones to a= 0.9552679999999996, b= 0.2388169999999999, c= 0.9552679999999996, d= 0.2388169999999999 Request successfully executed.
+08-11-2024 12:05:00 - INFO - Sending request to Setting Chamber Zones to a= 0.9409219999999998, b= 0.23523049999999995, c= 0.9409219999999998, d= 0.23523049999999995 with timeout of 5s...
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9409219999999998, b= 0.23523049999999995, c= 0.9409219999999998, d= 0.23523049999999995 request successfully sent.
+08-11-2024 12:05:00 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9409219999999998, b= 0.23523049999999995, c= 0.9409219999999998, d= 0.23523049999999995 Request successfully executed.
+08-11-2024 12:05:00 - INFO - Sending request to Setting Chamber Zones to a= 0.9367179999999999, b= 0.23417949999999998, c= 0.9367179999999999, d= 0.23417949999999998 with timeout of 5s...
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9367179999999999, b= 0.23417949999999998, c= 0.9367179999999999, d= 0.23417949999999998 request successfully sent.
+08-11-2024 12:05:00 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9367179999999999, b= 0.23417949999999998, c= 0.9367179999999999, d= 0.23417949999999998 Request successfully executed.
+08-11-2024 12:05:00 - INFO - Sending request to Setting Chamber Zones to a= 0.9324059999999996, b= 0.2331014999999999, c= 0.9324059999999996, d= 0.2331014999999999 with timeout of 5s...
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9324059999999996, b= 0.2331014999999999, c= 0.9324059999999996, d= 0.2331014999999999 request successfully sent.
+08-11-2024 12:05:00 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9324059999999996, b= 0.2331014999999999, c= 0.9324059999999996, d= 0.2331014999999999 Request successfully executed.
+08-11-2024 12:05:00 - INFO - Sending request to Setting Chamber Zones to a= 0.9280859999999999, b= 0.23202149999999996, c= 0.9280859999999999, d= 0.23202149999999996 with timeout of 5s...
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9280859999999999, b= 0.23202149999999996, c= 0.9280859999999999, d= 0.23202149999999996 request successfully sent.
+08-11-2024 12:05:00 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9280859999999999, b= 0.23202149999999996, c= 0.9280859999999999, d= 0.23202149999999996 Request successfully executed.
+08-11-2024 12:05:00 - INFO - Sending request to Setting Chamber Zones to a= 0.9237580000000001, b= 0.23093950000000002, c= 0.9237580000000001, d= 0.23093950000000002 with timeout of 5s...
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9237580000000001, b= 0.23093950000000002, c= 0.9237580000000001, d= 0.23093950000000002 request successfully sent.
+08-11-2024 12:05:00 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:00 - INFO - Setting Chamber Zones to a= 0.9237580000000001, b= 0.23093950000000002, c= 0.9237580000000001, d= 0.23093950000000002 Request successfully executed.
+08-11-2024 12:05:01 - INFO - Sending request to Setting Chamber Zones to a= 0.914364, b= 0.228591, c= 0.914364, d= 0.228591 with timeout of 5s...
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.914364, b= 0.228591, c= 0.914364, d= 0.228591 request successfully sent.
+08-11-2024 12:05:01 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.914364, b= 0.228591, c= 0.914364, d= 0.228591 Request successfully executed.
+08-11-2024 12:05:01 - INFO - Sending request to Setting Chamber Zones to a= 0.9100619999999996, b= 0.2275154999999999, c= 0.9100619999999996, d= 0.2275154999999999 with timeout of 5s...
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.9100619999999996, b= 0.2275154999999999, c= 0.9100619999999996, d= 0.2275154999999999 request successfully sent.
+08-11-2024 12:05:01 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.9100619999999996, b= 0.2275154999999999, c= 0.9100619999999996, d= 0.2275154999999999 Request successfully executed.
+08-11-2024 12:05:01 - INFO - Sending request to Setting Chamber Zones to a= 0.9006440000000001, b= 0.22516100000000003, c= 0.9006440000000001, d= 0.22516100000000003 with timeout of 5s...
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.9006440000000001, b= 0.22516100000000003, c= 0.9006440000000001, d= 0.22516100000000003 request successfully sent.
+08-11-2024 12:05:01 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.9006440000000001, b= 0.22516100000000003, c= 0.9006440000000001, d= 0.22516100000000003 Request successfully executed.
+08-11-2024 12:05:01 - INFO - Sending request to Setting Chamber Zones to a= 0.8963179999999997, b= 0.22407949999999993, c= 0.8963179999999997, d= 0.22407949999999993 with timeout of 5s...
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.8963179999999997, b= 0.22407949999999993, c= 0.8963179999999997, d= 0.22407949999999993 request successfully sent.
+08-11-2024 12:05:01 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.8963179999999997, b= 0.22407949999999993, c= 0.8963179999999997, d= 0.22407949999999993 Request successfully executed.
+08-11-2024 12:05:01 - INFO - Sending request to Setting Chamber Zones to a= 0.8818179999999998, b= 0.22045449999999994, c= 0.8818179999999998, d= 0.22045449999999994 with timeout of 5s...
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.8818179999999998, b= 0.22045449999999994, c= 0.8818179999999998, d= 0.22045449999999994 request successfully sent.
+08-11-2024 12:05:01 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:01 - INFO - Setting Chamber Zones to a= 0.8818179999999998, b= 0.22045449999999994, c= 0.8818179999999998, d= 0.22045449999999994 Request successfully executed.
+08-11-2024 12:05:02 - INFO - Sending request to Setting Chamber Zones to a= 0.8825679999999998, b= 0.22064199999999995, c= 0.8825679999999998, d= 0.22064199999999995 with timeout of 5s...
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8825679999999998, b= 0.22064199999999995, c= 0.8825679999999998, d= 0.22064199999999995 request successfully sent.
+08-11-2024 12:05:02 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8825679999999998, b= 0.22064199999999995, c= 0.8825679999999998, d= 0.22064199999999995 Request successfully executed.
+08-11-2024 12:05:02 - INFO - Sending request to Setting Chamber Zones to a= 0.8781100000000001, b= 0.21952750000000001, c= 0.8781100000000001, d= 0.21952750000000001 with timeout of 5s...
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8781100000000001, b= 0.21952750000000001, c= 0.8781100000000001, d= 0.21952750000000001 request successfully sent.
+08-11-2024 12:05:02 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8781100000000001, b= 0.21952750000000001, c= 0.8781100000000001, d= 0.21952750000000001 Request successfully executed.
+08-11-2024 12:05:02 - INFO - Sending request to Setting Chamber Zones to a= 0.8736939999999997, b= 0.21842349999999994, c= 0.8736939999999997, d= 0.21842349999999994 with timeout of 5s...
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8736939999999997, b= 0.21842349999999994, c= 0.8736939999999997, d= 0.21842349999999994 request successfully sent.
+08-11-2024 12:05:02 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8736939999999997, b= 0.21842349999999994, c= 0.8736939999999997, d= 0.21842349999999994 Request successfully executed.
+08-11-2024 12:05:02 - INFO - Sending request to Setting Chamber Zones to a= 0.8692699999999999, b= 0.21731749999999997, c= 0.8692699999999999, d= 0.21731749999999997 with timeout of 5s...
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8692699999999999, b= 0.21731749999999997, c= 0.8692699999999999, d= 0.21731749999999997 request successfully sent.
+08-11-2024 12:05:02 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8692699999999999, b= 0.21731749999999997, c= 0.8692699999999999, d= 0.21731749999999997 Request successfully executed.
+08-11-2024 12:05:02 - INFO - Sending request to Setting Chamber Zones to a= 0.8648379999999996, b= 0.2162094999999999, c= 0.8648379999999996, d= 0.2162094999999999 with timeout of 5s...
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8648379999999996, b= 0.2162094999999999, c= 0.8648379999999996, d= 0.2162094999999999 request successfully sent.
+08-11-2024 12:05:02 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:02 - INFO - Setting Chamber Zones to a= 0.8648379999999996, b= 0.2162094999999999, c= 0.8648379999999996, d= 0.2162094999999999 Request successfully executed.
+08-11-2024 12:05:03 - INFO - Sending request to Setting Chamber Zones to a= 0.8603979999999999, b= 0.21509949999999997, c= 0.8603979999999999, d= 0.21509949999999997 with timeout of 5s...
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8603979999999999, b= 0.21509949999999997, c= 0.8603979999999999, d= 0.21509949999999997 request successfully sent.
+08-11-2024 12:05:03 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8603979999999999, b= 0.21509949999999997, c= 0.8603979999999999, d= 0.21509949999999997 Request successfully executed.
+08-11-2024 12:05:03 - INFO - Sending request to Setting Chamber Zones to a= 0.8559500000000001, b= 0.21398750000000002, c= 0.8559500000000001, d= 0.21398750000000002 with timeout of 5s...
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8559500000000001, b= 0.21398750000000002, c= 0.8559500000000001, d= 0.21398750000000002 request successfully sent.
+08-11-2024 12:05:03 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8559500000000001, b= 0.21398750000000002, c= 0.8559500000000001, d= 0.21398750000000002 Request successfully executed.
+08-11-2024 12:05:03 - INFO - Sending request to Setting Chamber Zones to a= 0.846436, b= 0.211609, c= 0.846436, d= 0.211609 with timeout of 5s...
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.846436, b= 0.211609, c= 0.846436, d= 0.211609 request successfully sent.
+08-11-2024 12:05:03 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.846436, b= 0.211609, c= 0.846436, d= 0.211609 Request successfully executed.
+08-11-2024 12:05:03 - INFO - Sending request to Setting Chamber Zones to a= 0.8420139999999995, b= 0.21050349999999987, c= 0.8420139999999995, d= 0.21050349999999987 with timeout of 5s...
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8420139999999995, b= 0.21050349999999987, c= 0.8420139999999995, d= 0.21050349999999987 request successfully sent.
+08-11-2024 12:05:03 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8420139999999995, b= 0.21050349999999987, c= 0.8420139999999995, d= 0.21050349999999987 Request successfully executed.
+08-11-2024 12:05:03 - INFO - Sending request to Setting Chamber Zones to a= 0.8274179999999997, b= 0.2068544999999999, c= 0.8274179999999997, d= 0.2068544999999999 with timeout of 5s...
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8274179999999997, b= 0.2068544999999999, c= 0.8274179999999997, d= 0.2068544999999999 request successfully sent.
+08-11-2024 12:05:03 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:03 - INFO - Setting Chamber Zones to a= 0.8274179999999997, b= 0.2068544999999999, c= 0.8274179999999997, d= 0.2068544999999999 Request successfully executed.
+08-11-2024 12:05:04 - INFO - Sending request to Setting Chamber Zones to a= 0.8230139999999999, b= 0.20575349999999998, c= 0.8230139999999999, d= 0.20575349999999998 with timeout of 5s...
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.8230139999999999, b= 0.20575349999999998, c= 0.8230139999999999, d= 0.20575349999999998 request successfully sent.
+08-11-2024 12:05:04 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.8230139999999999, b= 0.20575349999999998, c= 0.8230139999999999, d= 0.20575349999999998 Request successfully executed.
+08-11-2024 12:05:04 - INFO - Sending request to Setting Chamber Zones to a= 0.82356, b= 0.20589, c= 0.82356, d= 0.20589 with timeout of 5s...
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.82356, b= 0.20589, c= 0.82356, d= 0.20589 request successfully sent.
+08-11-2024 12:05:04 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.82356, b= 0.20589, c= 0.82356, d= 0.20589 Request successfully executed.
+08-11-2024 12:05:04 - INFO - Sending request to Setting Chamber Zones to a= 0.8139399999999998, b= 0.20348499999999994, c= 0.8139399999999998, d= 0.20348499999999994 with timeout of 5s...
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.8139399999999998, b= 0.20348499999999994, c= 0.8139399999999998, d= 0.20348499999999994 request successfully sent.
+08-11-2024 12:05:04 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.8139399999999998, b= 0.20348499999999994, c= 0.8139399999999998, d= 0.20348499999999994 Request successfully executed.
+08-11-2024 12:05:04 - INFO - Sending request to Setting Chamber Zones to a= 0.8044039999999997, b= 0.20110099999999992, c= 0.8044039999999997, d= 0.20110099999999992 with timeout of 5s...
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.8044039999999997, b= 0.20110099999999992, c= 0.8044039999999997, d= 0.20110099999999992 request successfully sent.
+08-11-2024 12:05:04 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.8044039999999997, b= 0.20110099999999992, c= 0.8044039999999997, d= 0.20110099999999992 Request successfully executed.
+08-11-2024 12:05:04 - INFO - Sending request to Setting Chamber Zones to a= 0.7999099999999999, b= 0.19997749999999997, c= 0.7999099999999999, d= 0.19997749999999997 with timeout of 5s...
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.7999099999999999, b= 0.19997749999999997, c= 0.7999099999999999, d= 0.19997749999999997 request successfully sent.
+08-11-2024 12:05:04 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:04 - INFO - Setting Chamber Zones to a= 0.7999099999999999, b= 0.19997749999999997, c= 0.7999099999999999, d= 0.19997749999999997 Request successfully executed.
+08-11-2024 12:05:05 - INFO - Sending request to Setting Chamber Zones to a= 0.8004159999999999, b= 0.20010399999999998, c= 0.8004159999999999, d= 0.20010399999999998 with timeout of 5s...
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.8004159999999999, b= 0.20010399999999998, c= 0.8004159999999999, d= 0.20010399999999998 request successfully sent.
+08-11-2024 12:05:05 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.8004159999999999, b= 0.20010399999999998, c= 0.8004159999999999, d= 0.20010399999999998 Request successfully executed.
+08-11-2024 12:05:05 - INFO - Sending request to Setting Chamber Zones to a= 0.8008719999999999, b= 0.20021799999999998, c= 0.8008719999999999, d= 0.20021799999999998 with timeout of 5s...
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.8008719999999999, b= 0.20021799999999998, c= 0.8008719999999999, d= 0.20021799999999998 request successfully sent.
+08-11-2024 12:05:05 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.8008719999999999, b= 0.20021799999999998, c= 0.8008719999999999, d= 0.20021799999999998 Request successfully executed.
+08-11-2024 12:05:05 - INFO - Sending request to Setting Chamber Zones to a= 0.7962699999999995, b= 0.19906749999999987, c= 0.7962699999999995, d= 0.19906749999999987 with timeout of 5s...
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.7962699999999995, b= 0.19906749999999987, c= 0.7962699999999995, d= 0.19906749999999987 request successfully sent.
+08-11-2024 12:05:05 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.7962699999999995, b= 0.19906749999999987, c= 0.7962699999999995, d= 0.19906749999999987 Request successfully executed.
+08-11-2024 12:05:05 - INFO - Sending request to Setting Chamber Zones to a= 0.7917099999999998, b= 0.19792749999999995, c= 0.7917099999999998, d= 0.19792749999999995 with timeout of 5s...
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.7917099999999998, b= 0.19792749999999995, c= 0.7917099999999998, d= 0.19792749999999995 request successfully sent.
+08-11-2024 12:05:05 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.7917099999999998, b= 0.19792749999999995, c= 0.7917099999999998, d= 0.19792749999999995 Request successfully executed.
+08-11-2024 12:05:05 - INFO - Sending request to Setting Chamber Zones to a= 0.7719679999999995, b= 0.19299199999999989, c= 0.7719679999999995, d= 0.19299199999999989 with timeout of 5s...
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.7719679999999995, b= 0.19299199999999989, c= 0.7719679999999995, d= 0.19299199999999989 request successfully sent.
+08-11-2024 12:05:05 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:05 - INFO - Setting Chamber Zones to a= 0.7719679999999995, b= 0.19299199999999989, c= 0.7719679999999995, d= 0.19299199999999989 Request successfully executed.
+08-11-2024 12:05:06 - INFO - Sending request to Setting Chamber Zones to a= 0.7725759999999995, b= 0.19314399999999987, c= 0.7725759999999995, d= 0.19314399999999987 with timeout of 5s...
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7725759999999995, b= 0.19314399999999987, c= 0.7725759999999995, d= 0.19314399999999987 request successfully sent.
+08-11-2024 12:05:06 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7725759999999995, b= 0.19314399999999987, c= 0.7725759999999995, d= 0.19314399999999987 Request successfully executed.
+08-11-2024 12:05:06 - INFO - Sending request to Setting Chamber Zones to a= 0.7679259999999998, b= 0.19198149999999994, c= 0.7679259999999998, d= 0.19198149999999994 with timeout of 5s...
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7679259999999998, b= 0.19198149999999994, c= 0.7679259999999998, d= 0.19198149999999994 request successfully sent.
+08-11-2024 12:05:06 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7679259999999998, b= 0.19198149999999994, c= 0.7679259999999998, d= 0.19198149999999994 Request successfully executed.
+08-11-2024 12:05:06 - INFO - Sending request to Setting Chamber Zones to a= 0.7633180000000002, b= 0.19082950000000004, c= 0.7633180000000002, d= 0.19082950000000004 with timeout of 5s...
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7633180000000002, b= 0.19082950000000004, c= 0.7633180000000002, d= 0.19082950000000004 request successfully sent.
+08-11-2024 12:05:06 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7633180000000002, b= 0.19082950000000004, c= 0.7633180000000002, d= 0.19082950000000004 Request successfully executed.
+08-11-2024 12:05:06 - INFO - Sending request to Setting Chamber Zones to a= 0.76376, b= 0.19094, c= 0.76376, d= 0.19094 with timeout of 5s...
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.76376, b= 0.19094, c= 0.76376, d= 0.19094 request successfully sent.
+08-11-2024 12:05:06 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.76376, b= 0.19094, c= 0.76376, d= 0.19094 Request successfully executed.
+08-11-2024 12:05:06 - INFO - Sending request to Setting Chamber Zones to a= 0.7540359999999999, b= 0.18850899999999998, c= 0.7540359999999999, d= 0.18850899999999998 with timeout of 5s...
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7540359999999999, b= 0.18850899999999998, c= 0.7540359999999999, d= 0.18850899999999998 request successfully sent.
+08-11-2024 12:05:06 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:06 - INFO - Setting Chamber Zones to a= 0.7540359999999999, b= 0.18850899999999998, c= 0.7540359999999999, d= 0.18850899999999998 Request successfully executed.
+08-11-2024 12:05:07 - INFO - Sending request to Setting Chamber Zones to a= 0.7494539999999995, b= 0.18736349999999988, c= 0.7494539999999995, d= 0.18736349999999988 with timeout of 5s...
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7494539999999995, b= 0.18736349999999988, c= 0.7494539999999995, d= 0.18736349999999988 request successfully sent.
+08-11-2024 12:05:07 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7494539999999995, b= 0.18736349999999988, c= 0.7494539999999995, d= 0.18736349999999988 Request successfully executed.
+08-11-2024 12:05:07 - INFO - Sending request to Setting Chamber Zones to a= 0.7498719999999995, b= 0.18746799999999988, c= 0.7498719999999995, d= 0.18746799999999988 with timeout of 5s...
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7498719999999995, b= 0.18746799999999988, c= 0.7498719999999995, d= 0.18746799999999988 request successfully sent.
+08-11-2024 12:05:07 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7498719999999995, b= 0.18746799999999988, c= 0.7498719999999995, d= 0.18746799999999988 Request successfully executed.
+08-11-2024 12:05:07 - INFO - Sending request to Setting Chamber Zones to a= 0.7502399999999996, b= 0.1875599999999999, c= 0.7502399999999996, d= 0.1875599999999999 with timeout of 5s...
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7502399999999996, b= 0.1875599999999999, c= 0.7502399999999996, d= 0.1875599999999999 request successfully sent.
+08-11-2024 12:05:07 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7502399999999996, b= 0.1875599999999999, c= 0.7502399999999996, d= 0.1875599999999999 Request successfully executed.
+08-11-2024 12:05:07 - INFO - Sending request to Setting Chamber Zones to a= 0.7404920000000002, b= 0.18512300000000004, c= 0.7404920000000002, d= 0.18512300000000004 with timeout of 5s...
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7404920000000002, b= 0.18512300000000004, c= 0.7404920000000002, d= 0.18512300000000004 request successfully sent.
+08-11-2024 12:05:07 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7404920000000002, b= 0.18512300000000004, c= 0.7404920000000002, d= 0.18512300000000004 Request successfully executed.
+08-11-2024 12:05:07 - INFO - Sending request to Setting Chamber Zones to a= 0.7207119999999998, b= 0.18017799999999995, c= 0.7207119999999998, d= 0.18017799999999995 with timeout of 5s...
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7207119999999998, b= 0.18017799999999995, c= 0.7207119999999998, d= 0.18017799999999995 request successfully sent.
+08-11-2024 12:05:07 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:07 - INFO - Setting Chamber Zones to a= 0.7207119999999998, b= 0.18017799999999995, c= 0.7207119999999998, d= 0.18017799999999995 Request successfully executed.
+08-11-2024 12:05:08 - INFO - Sending request to Setting Chamber Zones to a= 0.7212319999999999, b= 0.18030799999999997, c= 0.7212319999999999, d= 0.18030799999999997 with timeout of 5s...
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7212319999999999, b= 0.18030799999999997, c= 0.7212319999999999, d= 0.18030799999999997 request successfully sent.
+08-11-2024 12:05:08 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7212319999999999, b= 0.18030799999999997, c= 0.7212319999999999, d= 0.18030799999999997 Request successfully executed.
+08-11-2024 12:05:08 - INFO - Sending request to Setting Chamber Zones to a= 0.7164940000000002, b= 0.17912350000000005, c= 0.7164940000000002, d= 0.17912350000000005 with timeout of 5s...
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7164940000000002, b= 0.17912350000000005, c= 0.7164940000000002, d= 0.17912350000000005 request successfully sent.
+08-11-2024 12:05:08 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7164940000000002, b= 0.17912350000000005, c= 0.7164940000000002, d= 0.17912350000000005 Request successfully executed.
+08-11-2024 12:05:08 - INFO - Sending request to Setting Chamber Zones to a= 0.7117979999999996, b= 0.1779494999999999, c= 0.7117979999999996, d= 0.1779494999999999 with timeout of 5s...
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7117979999999996, b= 0.1779494999999999, c= 0.7117979999999996, d= 0.1779494999999999 request successfully sent.
+08-11-2024 12:05:08 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7117979999999996, b= 0.1779494999999999, c= 0.7117979999999996, d= 0.1779494999999999 Request successfully executed.
+08-11-2024 12:05:08 - INFO - Sending request to Setting Chamber Zones to a= 0.7020359999999995, b= 0.1755089999999999, c= 0.7020359999999995, d= 0.1755089999999999 with timeout of 5s...
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7020359999999995, b= 0.1755089999999999, c= 0.7020359999999995, d= 0.1755089999999999 request successfully sent.
+08-11-2024 12:05:08 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7020359999999995, b= 0.1755089999999999, c= 0.7020359999999995, d= 0.1755089999999999 Request successfully executed.
+08-11-2024 12:05:08 - INFO - Sending request to Setting Chamber Zones to a= 0.7024239999999996, b= 0.1756059999999999, c= 0.7024239999999996, d= 0.1756059999999999 with timeout of 5s...
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7024239999999996, b= 0.1756059999999999, c= 0.7024239999999996, d= 0.1756059999999999 request successfully sent.
+08-11-2024 12:05:08 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:08 - INFO - Setting Chamber Zones to a= 0.7024239999999996, b= 0.1756059999999999, c= 0.7024239999999996, d= 0.1756059999999999 Request successfully executed.
+08-11-2024 12:05:09 - INFO - Sending request to Setting Chamber Zones to a= 0.6976539999999999, b= 0.17441349999999997, c= 0.6976539999999999, d= 0.17441349999999997 with timeout of 5s...
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6976539999999999, b= 0.17441349999999997, c= 0.6976539999999999, d= 0.17441349999999997 request successfully sent.
+08-11-2024 12:05:09 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6976539999999999, b= 0.17441349999999997, c= 0.6976539999999999, d= 0.17441349999999997 Request successfully executed.
+08-11-2024 12:05:09 - INFO - Sending request to Setting Chamber Zones to a= 0.6979839999999998, b= 0.17449599999999996, c= 0.6979839999999998, d= 0.17449599999999996 with timeout of 5s...
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6979839999999998, b= 0.17449599999999996, c= 0.6979839999999998, d= 0.17449599999999996 request successfully sent.
+08-11-2024 12:05:09 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6979839999999998, b= 0.17449599999999996, c= 0.6979839999999998, d= 0.17449599999999996 Request successfully executed.
+08-11-2024 12:05:09 - INFO - Sending request to Setting Chamber Zones to a= 0.6932060000000001, b= 0.17330150000000002, c= 0.6932060000000001, d= 0.17330150000000002 with timeout of 5s...
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6932060000000001, b= 0.17330150000000002, c= 0.6932060000000001, d= 0.17330150000000002 request successfully sent.
+08-11-2024 12:05:09 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6932060000000001, b= 0.17330150000000002, c= 0.6932060000000001, d= 0.17330150000000002 Request successfully executed.
+08-11-2024 12:05:09 - INFO - Sending request to Setting Chamber Zones to a= 0.6884699999999998, b= 0.17211749999999995, c= 0.6884699999999998, d= 0.17211749999999995 with timeout of 5s...
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6884699999999998, b= 0.17211749999999995, c= 0.6884699999999998, d= 0.17211749999999995 request successfully sent.
+08-11-2024 12:05:09 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.6884699999999998, b= 0.17211749999999995, c= 0.6884699999999998, d= 0.17211749999999995 Request successfully executed.
+08-11-2024 12:05:09 - INFO - Sending request to Setting Chamber Zones to a= 0.683726, b= 0.1709315, c= 0.683726, d= 0.1709315 with timeout of 5s...
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.683726, b= 0.1709315, c= 0.683726, d= 0.1709315 request successfully sent.
+08-11-2024 12:05:09 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:09 - INFO - Setting Chamber Zones to a= 0.683726, b= 0.1709315, c= 0.683726, d= 0.1709315 Request successfully executed.
+08-11-2024 12:05:10 - INFO - Sending request to Setting Chamber Zones to a= 0.6789739999999995, b= 0.16974349999999988, c= 0.6789739999999995, d= 0.16974349999999988 with timeout of 5s...
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6789739999999995, b= 0.16974349999999988, c= 0.6789739999999995, d= 0.16974349999999988 request successfully sent.
+08-11-2024 12:05:10 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6789739999999995, b= 0.16974349999999988, c= 0.6789739999999995, d= 0.16974349999999988 Request successfully executed.
+08-11-2024 12:05:10 - INFO - Sending request to Setting Chamber Zones to a= 0.6742139999999999, b= 0.16855349999999997, c= 0.6742139999999999, d= 0.16855349999999997 with timeout of 5s...
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6742139999999999, b= 0.16855349999999997, c= 0.6742139999999999, d= 0.16855349999999997 request successfully sent.
+08-11-2024 12:05:10 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6742139999999999, b= 0.16855349999999997, c= 0.6742139999999999, d= 0.16855349999999997 Request successfully executed.
+08-11-2024 12:05:10 - INFO - Sending request to Setting Chamber Zones to a= 0.6643879999999998, b= 0.16609699999999994, c= 0.6643879999999998, d= 0.16609699999999994 with timeout of 5s...
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6643879999999998, b= 0.16609699999999994, c= 0.6643879999999998, d= 0.16609699999999994 request successfully sent.
+08-11-2024 12:05:10 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6643879999999998, b= 0.16609699999999994, c= 0.6643879999999998, d= 0.16609699999999994 Request successfully executed.
+08-11-2024 12:05:10 - INFO - Sending request to Setting Chamber Zones to a= 0.6545959999999995, b= 0.16364899999999988, c= 0.6545959999999995, d= 0.16364899999999988 with timeout of 5s...
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6545959999999995, b= 0.16364899999999988, c= 0.6545959999999995, d= 0.16364899999999988 request successfully sent.
+08-11-2024 12:05:10 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6545959999999995, b= 0.16364899999999988, c= 0.6545959999999995, d= 0.16364899999999988 Request successfully executed.
+08-11-2024 12:05:10 - INFO - Sending request to Setting Chamber Zones to a= 0.6549039999999997, b= 0.16372599999999993, c= 0.6549039999999997, d= 0.16372599999999993 with timeout of 5s...
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6549039999999997, b= 0.16372599999999993, c= 0.6549039999999997, d= 0.16372599999999993 request successfully sent.
+08-11-2024 12:05:10 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:10 - INFO - Setting Chamber Zones to a= 0.6549039999999997, b= 0.16372599999999993, c= 0.6549039999999997, d= 0.16372599999999993 Request successfully executed.
+08-11-2024 12:05:11 - INFO - Sending request to Setting Chamber Zones to a= 0.6551119999999997, b= 0.16377799999999992, c= 0.6551119999999997, d= 0.16377799999999992 with timeout of 5s...
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6551119999999997, b= 0.16377799999999992, c= 0.6551119999999997, d= 0.16377799999999992 request successfully sent.
+08-11-2024 12:05:11 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6551119999999997, b= 0.16377799999999992, c= 0.6551119999999997, d= 0.16377799999999992 Request successfully executed.
+08-11-2024 12:05:11 - INFO - Sending request to Setting Chamber Zones to a= 0.6502619999999999, b= 0.16256549999999997, c= 0.6502619999999999, d= 0.16256549999999997 with timeout of 5s...
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6502619999999999, b= 0.16256549999999997, c= 0.6502619999999999, d= 0.16256549999999997 request successfully sent.
+08-11-2024 12:05:11 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6502619999999999, b= 0.16256549999999997, c= 0.6502619999999999, d= 0.16256549999999997 Request successfully executed.
+08-11-2024 12:05:11 - INFO - Sending request to Setting Chamber Zones to a= 0.650512, b= 0.162628, c= 0.650512, d= 0.162628 with timeout of 5s...
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.650512, b= 0.162628, c= 0.650512, d= 0.162628 request successfully sent.
+08-11-2024 12:05:11 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.650512, b= 0.162628, c= 0.650512, d= 0.162628 Request successfully executed.
+08-11-2024 12:05:11 - INFO - Sending request to Setting Chamber Zones to a= 0.6405959999999999, b= 0.16014899999999999, c= 0.6405959999999999, d= 0.16014899999999999 with timeout of 5s...
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6405959999999999, b= 0.16014899999999999, c= 0.6405959999999999, d= 0.16014899999999999 request successfully sent.
+08-11-2024 12:05:11 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6405959999999999, b= 0.16014899999999999, c= 0.6405959999999999, d= 0.16014899999999999 Request successfully executed.
+08-11-2024 12:05:11 - INFO - Sending request to Setting Chamber Zones to a= 0.6408799999999999, b= 0.16021999999999997, c= 0.6408799999999999, d= 0.16021999999999997 with timeout of 5s...
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6408799999999999, b= 0.16021999999999997, c= 0.6408799999999999, d= 0.16021999999999997 request successfully sent.
+08-11-2024 12:05:11 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:11 - INFO - Setting Chamber Zones to a= 0.6408799999999999, b= 0.16021999999999997, c= 0.6408799999999999, d= 0.16021999999999997 Request successfully executed.
+08-11-2024 12:05:12 - INFO - Sending request to Setting Chamber Zones to a= 0.6309479999999997, b= 0.15773699999999993, c= 0.6309479999999997, d= 0.15773699999999993 with timeout of 5s...
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6309479999999997, b= 0.15773699999999993, c= 0.6309479999999997, d= 0.15773699999999993 request successfully sent.
+08-11-2024 12:05:12 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6309479999999997, b= 0.15773699999999993, c= 0.6309479999999997, d= 0.15773699999999993 Request successfully executed.
+08-11-2024 12:05:12 - INFO - Sending request to Setting Chamber Zones to a= 0.6312159999999998, b= 0.15780399999999994, c= 0.6312159999999998, d= 0.15780399999999994 with timeout of 5s...
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6312159999999998, b= 0.15780399999999994, c= 0.6312159999999998, d= 0.15780399999999994 request successfully sent.
+08-11-2024 12:05:12 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6312159999999998, b= 0.15780399999999994, c= 0.6312159999999998, d= 0.15780399999999994 Request successfully executed.
+08-11-2024 12:05:12 - INFO - Sending request to Setting Chamber Zones to a= 0.626326, b= 0.1565815, c= 0.626326, d= 0.1565815 with timeout of 5s...
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.626326, b= 0.1565815, c= 0.626326, d= 0.1565815 request successfully sent.
+08-11-2024 12:05:12 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.626326, b= 0.1565815, c= 0.626326, d= 0.1565815 Request successfully executed.
+08-11-2024 12:05:12 - INFO - Sending request to Setting Chamber Zones to a= 0.6164199999999999, b= 0.15410499999999996, c= 0.6164199999999999, d= 0.15410499999999996 with timeout of 5s...
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6164199999999999, b= 0.15410499999999996, c= 0.6164199999999999, d= 0.15410499999999996 request successfully sent.
+08-11-2024 12:05:12 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6164199999999999, b= 0.15410499999999996, c= 0.6164199999999999, d= 0.15410499999999996 Request successfully executed.
+08-11-2024 12:05:12 - INFO - Sending request to Setting Chamber Zones to a= 0.6166639999999999, b= 0.15416599999999997, c= 0.6166639999999999, d= 0.15416599999999997 with timeout of 5s...
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6166639999999999, b= 0.15416599999999997, c= 0.6166639999999999, d= 0.15416599999999997 request successfully sent.
+08-11-2024 12:05:12 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:12 - INFO - Setting Chamber Zones to a= 0.6166639999999999, b= 0.15416599999999997, c= 0.6166639999999999, d= 0.15416599999999997 Request successfully executed.
+08-11-2024 12:05:13 - INFO - Sending request to Setting Chamber Zones to a= 0.6117500000000002, b= 0.15293750000000006, c= 0.6117500000000002, d= 0.15293750000000006 with timeout of 5s...
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6117500000000002, b= 0.15293750000000006, c= 0.6117500000000002, d= 0.15293750000000006 request successfully sent.
+08-11-2024 12:05:13 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6117500000000002, b= 0.15293750000000006, c= 0.6117500000000002, d= 0.15293750000000006 Request successfully executed.
+08-11-2024 12:05:13 - INFO - Sending request to Setting Chamber Zones to a= 0.6068779999999998, b= 0.15171949999999995, c= 0.6068779999999998, d= 0.15171949999999995 with timeout of 5s...
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6068779999999998, b= 0.15171949999999995, c= 0.6068779999999998, d= 0.15171949999999995 request successfully sent.
+08-11-2024 12:05:13 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6068779999999998, b= 0.15171949999999995, c= 0.6068779999999998, d= 0.15171949999999995 Request successfully executed.
+08-11-2024 12:05:13 - INFO - Sending request to Setting Chamber Zones to a= 0.6019980000000001, b= 0.15049950000000004, c= 0.6019980000000001, d= 0.15049950000000004 with timeout of 5s...
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6019980000000001, b= 0.15049950000000004, c= 0.6019980000000001, d= 0.15049950000000004 request successfully sent.
+08-11-2024 12:05:13 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6019980000000001, b= 0.15049950000000004, c= 0.6019980000000001, d= 0.15049950000000004 Request successfully executed.
+08-11-2024 12:05:13 - INFO - Sending request to Setting Chamber Zones to a= 0.602168, b= 0.150542, c= 0.602168, d= 0.150542 with timeout of 5s...
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.602168, b= 0.150542, c= 0.602168, d= 0.150542 request successfully sent.
+08-11-2024 12:05:13 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.602168, b= 0.150542, c= 0.602168, d= 0.150542 Request successfully executed.
+08-11-2024 12:05:13 - INFO - Sending request to Setting Chamber Zones to a= 0.6022880000000002, b= 0.15057200000000004, c= 0.6022880000000002, d= 0.15057200000000004 with timeout of 5s...
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6022880000000002, b= 0.15057200000000004, c= 0.6022880000000002, d= 0.15057200000000004 request successfully sent.
+08-11-2024 12:05:13 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:13 - INFO - Setting Chamber Zones to a= 0.6022880000000002, b= 0.15057200000000004, c= 0.6022880000000002, d= 0.15057200000000004 Request successfully executed.
+08-11-2024 12:05:14 - INFO - Sending request to Setting Chamber Zones to a= 0.602408, b= 0.150602, c= 0.602408, d= 0.150602 with timeout of 5s...
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.602408, b= 0.150602, c= 0.602408, d= 0.150602 request successfully sent.
+08-11-2024 12:05:14 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.602408, b= 0.150602, c= 0.602408, d= 0.150602 Request successfully executed.
+08-11-2024 12:05:14 - INFO - Sending request to Setting Chamber Zones to a= 0.5924119999999999, b= 0.14810299999999998, c= 0.5924119999999999, d= 0.14810299999999998 with timeout of 5s...
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5924119999999999, b= 0.14810299999999998, c= 0.5924119999999999, d= 0.14810299999999998 request successfully sent.
+08-11-2024 12:05:14 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5924119999999999, b= 0.14810299999999998, c= 0.5924119999999999, d= 0.14810299999999998 Request successfully executed.
+08-11-2024 12:05:14 - INFO - Sending request to Setting Chamber Zones to a= 0.5875580000000002, b= 0.14688950000000006, c= 0.5875580000000002, d= 0.14688950000000006 with timeout of 5s...
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5875580000000002, b= 0.14688950000000006, c= 0.5875580000000002, d= 0.14688950000000006 request successfully sent.
+08-11-2024 12:05:14 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5875580000000002, b= 0.14688950000000006, c= 0.5875580000000002, d= 0.14688950000000006 Request successfully executed.
+08-11-2024 12:05:14 - INFO - Sending request to Setting Chamber Zones to a= 0.5877040000000002, b= 0.14692600000000006, c= 0.5877040000000002, d= 0.14692600000000006 with timeout of 5s...
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5877040000000002, b= 0.14692600000000006, c= 0.5877040000000002, d= 0.14692600000000006 request successfully sent.
+08-11-2024 12:05:14 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5877040000000002, b= 0.14692600000000006, c= 0.5877040000000002, d= 0.14692600000000006 Request successfully executed.
+08-11-2024 12:05:14 - INFO - Sending request to Setting Chamber Zones to a= 0.5827419999999998, b= 0.14568549999999994, c= 0.5827419999999998, d= 0.14568549999999994 with timeout of 5s...
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5827419999999998, b= 0.14568549999999994, c= 0.5827419999999998, d= 0.14568549999999994 request successfully sent.
+08-11-2024 12:05:14 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:14 - INFO - Setting Chamber Zones to a= 0.5827419999999998, b= 0.14568549999999994, c= 0.5827419999999998, d= 0.14568549999999994 Request successfully executed.
+08-11-2024 12:05:15 - INFO - Sending request to Setting Chamber Zones to a= 0.5778220000000002, b= 0.14445550000000004, c= 0.5778220000000002, d= 0.14445550000000004 with timeout of 5s...
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.5778220000000002, b= 0.14445550000000004, c= 0.5778220000000002, d= 0.14445550000000004 request successfully sent.
+08-11-2024 12:05:15 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.5778220000000002, b= 0.14445550000000004, c= 0.5778220000000002, d= 0.14445550000000004 Request successfully executed.
+08-11-2024 12:05:15 - INFO - Sending request to Setting Chamber Zones to a= 0.5678359999999999, b= 0.14195899999999997, c= 0.5678359999999999, d= 0.14195899999999997 with timeout of 5s...
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.5678359999999999, b= 0.14195899999999997, c= 0.5678359999999999, d= 0.14195899999999997 request successfully sent.
+08-11-2024 12:05:15 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.5678359999999999, b= 0.14195899999999997, c= 0.5678359999999999, d= 0.14195899999999997 Request successfully executed.
+08-11-2024 12:05:15 - INFO - Sending request to Setting Chamber Zones to a= 0.568, b= 0.142, c= 0.568, d= 0.142 with timeout of 5s...
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.568, b= 0.142, c= 0.568, d= 0.142 request successfully sent.
+08-11-2024 12:05:15 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.568, b= 0.142, c= 0.568, d= 0.142 Request successfully executed.
+08-11-2024 12:05:15 - INFO - Sending request to Setting Chamber Zones to a= 0.5630060000000002, b= 0.14075150000000006, c= 0.5630060000000002, d= 0.14075150000000006 with timeout of 5s...
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.5630060000000002, b= 0.14075150000000006, c= 0.5630060000000002, d= 0.14075150000000006 request successfully sent.
+08-11-2024 12:05:15 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.5630060000000002, b= 0.14075150000000006, c= 0.5630060000000002, d= 0.14075150000000006 Request successfully executed.
+08-11-2024 12:05:15 - INFO - Sending request to Setting Chamber Zones to a= 0.5631120000000003, b= 0.14077800000000007, c= 0.5631120000000003, d= 0.14077800000000007 with timeout of 5s...
+08-11-2024 12:05:15 - INFO - Setting Chamber Zones to a= 0.5631120000000003, b= 0.14077800000000007, c= 0.5631120000000003, d= 0.14077800000000007 request successfully sent.
+08-11-2024 12:05:15 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5631120000000003, b= 0.14077800000000007, c= 0.5631120000000003, d= 0.14077800000000007 Request successfully executed.
+08-11-2024 12:05:16 - INFO - Sending request to Setting Chamber Zones to a= 0.5581099999999998, b= 0.13952749999999994, c= 0.5581099999999998, d= 0.13952749999999994 with timeout of 5s...
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5581099999999998, b= 0.13952749999999994, c= 0.5581099999999998, d= 0.13952749999999994 request successfully sent.
+08-11-2024 12:05:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5581099999999998, b= 0.13952749999999994, c= 0.5581099999999998, d= 0.13952749999999994 Request successfully executed.
+08-11-2024 12:05:16 - INFO - Sending request to Setting Chamber Zones to a= 0.5582079999999998, b= 0.13955199999999995, c= 0.5582079999999998, d= 0.13955199999999995 with timeout of 5s...
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5582079999999998, b= 0.13955199999999995, c= 0.5582079999999998, d= 0.13955199999999995 request successfully sent.
+08-11-2024 12:05:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5582079999999998, b= 0.13955199999999995, c= 0.5582079999999998, d= 0.13955199999999995 Request successfully executed.
+08-11-2024 12:05:16 - INFO - Sending request to Setting Chamber Zones to a= 0.5531980000000002, b= 0.13829950000000005, c= 0.5531980000000002, d= 0.13829950000000005 with timeout of 5s...
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5531980000000002, b= 0.13829950000000005, c= 0.5531980000000002, d= 0.13829950000000005 request successfully sent.
+08-11-2024 12:05:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5531980000000002, b= 0.13829950000000005, c= 0.5531980000000002, d= 0.13829950000000005 Request successfully executed.
+08-11-2024 12:05:16 - INFO - Sending request to Setting Chamber Zones to a= 0.5482300000000003, b= 0.13705750000000008, c= 0.5482300000000003, d= 0.13705750000000008 with timeout of 5s...
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5482300000000003, b= 0.13705750000000008, c= 0.5482300000000003, d= 0.13705750000000008 request successfully sent.
+08-11-2024 12:05:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5482300000000003, b= 0.13705750000000008, c= 0.5482300000000003, d= 0.13705750000000008 Request successfully executed.
+08-11-2024 12:05:16 - INFO - Sending request to Setting Chamber Zones to a= 0.5483120000000004, b= 0.1370780000000001, c= 0.5483120000000004, d= 0.1370780000000001 with timeout of 5s...
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5483120000000004, b= 0.1370780000000001, c= 0.5483120000000004, d= 0.1370780000000001 request successfully sent.
+08-11-2024 12:05:16 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:16 - INFO - Setting Chamber Zones to a= 0.5483120000000004, b= 0.1370780000000001, c= 0.5483120000000004, d= 0.1370780000000001 Request successfully executed.
+08-11-2024 12:05:17 - INFO - Sending request to Setting Chamber Zones to a= 0.5483440000000003, b= 0.13708600000000007, c= 0.5483440000000003, d= 0.13708600000000007 with timeout of 5s...
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.5483440000000003, b= 0.13708600000000007, c= 0.5483440000000003, d= 0.13708600000000007 request successfully sent.
+08-11-2024 12:05:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.5483440000000003, b= 0.13708600000000007, c= 0.5483440000000003, d= 0.13708600000000007 Request successfully executed.
+08-11-2024 12:05:17 - INFO - Sending request to Setting Chamber Zones to a= 0.5382600000000002, b= 0.13456500000000005, c= 0.5382600000000002, d= 0.13456500000000005 with timeout of 5s...
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.5382600000000002, b= 0.13456500000000005, c= 0.5382600000000002, d= 0.13456500000000005 request successfully sent.
+08-11-2024 12:05:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.5382600000000002, b= 0.13456500000000005, c= 0.5382600000000002, d= 0.13456500000000005 Request successfully executed.
+08-11-2024 12:05:17 - INFO - Sending request to Setting Chamber Zones to a= 0.5333179999999997, b= 0.13332949999999993, c= 0.5333179999999997, d= 0.13332949999999993 with timeout of 5s...
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.5333179999999997, b= 0.13332949999999993, c= 0.5333179999999997, d= 0.13332949999999993 request successfully sent.
+08-11-2024 12:05:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.5333179999999997, b= 0.13332949999999993, c= 0.5333179999999997, d= 0.13332949999999993 Request successfully executed.
+08-11-2024 12:05:17 - INFO - Sending request to Setting Chamber Zones to a= 0.352212, b= 0.088053, c= 0.352212, d= 0.088053 with timeout of 5s...
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.352212, b= 0.088053, c= 0.352212, d= 0.088053 request successfully sent.
+08-11-2024 12:05:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.352212, b= 0.088053, c= 0.352212, d= 0.088053 Request successfully executed.
+08-11-2024 12:05:17 - INFO - Sending request to Setting Chamber Zones to a= 0.35224533333333335, b= 0.08806133333333334, c= 0.35224533333333335, d= 0.08806133333333334 with timeout of 5s...
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.35224533333333335, b= 0.08806133333333334, c= 0.35224533333333335, d= 0.08806133333333334 request successfully sent.
+08-11-2024 12:05:17 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:17 - INFO - Setting Chamber Zones to a= 0.35224533333333335, b= 0.08806133333333334, c= 0.35224533333333335, d= 0.08806133333333334 Request successfully executed.
+08-11-2024 12:05:18 - INFO - Sending request to Setting Chamber Zones to a= 0.3488733333333336, b= 0.0872183333333334, c= 0.3488733333333336, d= 0.0872183333333334 with timeout of 5s...
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3488733333333336, b= 0.0872183333333334, c= 0.3488733333333336, d= 0.0872183333333334 request successfully sent.
+08-11-2024 12:05:18 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3488733333333336, b= 0.0872183333333334, c= 0.3488733333333336, d= 0.0872183333333334 Request successfully executed.
+08-11-2024 12:05:18 - INFO - Sending request to Setting Chamber Zones to a= 0.3455293333333333, b= 0.08638233333333332, c= 0.3455293333333333, d= 0.08638233333333332 with timeout of 5s...
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3455293333333333, b= 0.08638233333333332, c= 0.3455293333333333, d= 0.08638233333333332 request successfully sent.
+08-11-2024 12:05:18 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3455293333333333, b= 0.08638233333333332, c= 0.3455293333333333, d= 0.08638233333333332 Request successfully executed.
+08-11-2024 12:05:18 - INFO - Sending request to Setting Chamber Zones to a= 0.3455519999999999, b= 0.08638799999999998, c= 0.3455519999999999, d= 0.08638799999999998 with timeout of 5s...
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3455519999999999, b= 0.08638799999999998, c= 0.3455519999999999, d= 0.08638799999999998 request successfully sent.
+08-11-2024 12:05:18 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3455519999999999, b= 0.08638799999999998, c= 0.3455519999999999, d= 0.08638799999999998 Request successfully executed.
+08-11-2024 12:05:18 - INFO - Sending request to Setting Chamber Zones to a= 0.3455413333333333, b= 0.08638533333333333, c= 0.3455413333333333, d= 0.08638533333333333 with timeout of 5s...
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3455413333333333, b= 0.08638533333333333, c= 0.3455413333333333, d= 0.08638533333333333 request successfully sent.
+08-11-2024 12:05:18 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.3455413333333333, b= 0.08638533333333333, c= 0.3455413333333333, d= 0.08638533333333333 Request successfully executed.
+08-11-2024 12:05:18 - INFO - Sending request to Setting Chamber Zones to a= 0.34553066666666665, b= 0.08638266666666666, c= 0.34553066666666665, d= 0.08638266666666666 with timeout of 5s...
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.34553066666666665, b= 0.08638266666666666, c= 0.34553066666666665, d= 0.08638266666666666 request successfully sent.
+08-11-2024 12:05:18 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:18 - INFO - Setting Chamber Zones to a= 0.34553066666666665, b= 0.08638266666666666, c= 0.34553066666666665, d= 0.08638266666666666 Request successfully executed.
+08-11-2024 12:05:19 - INFO - Sending request to Setting Chamber Zones to a= 0.34552, b= 0.08638, c= 0.34552, d= 0.08638 with timeout of 5s...
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.34552, b= 0.08638, c= 0.34552, d= 0.08638 request successfully sent.
+08-11-2024 12:05:19 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.34552, b= 0.08638, c= 0.34552, d= 0.08638 Request successfully executed.
+08-11-2024 12:05:19 - INFO - Sending request to Setting Chamber Zones to a= 0.3455093333333334, b= 0.08637733333333335, c= 0.3455093333333334, d= 0.08637733333333335 with timeout of 5s...
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.3455093333333334, b= 0.08637733333333335, c= 0.3455093333333334, d= 0.08637733333333335 request successfully sent.
+08-11-2024 12:05:19 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.3455093333333334, b= 0.08637733333333335, c= 0.3455093333333334, d= 0.08637733333333335 Request successfully executed.
+08-11-2024 12:05:19 - INFO - Sending request to Setting Chamber Zones to a= 0.3454986666666667, b= 0.08637466666666667, c= 0.3454986666666667, d= 0.08637466666666667 with timeout of 5s...
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.3454986666666667, b= 0.08637466666666667, c= 0.3454986666666667, d= 0.08637466666666667 request successfully sent.
+08-11-2024 12:05:19 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.3454986666666667, b= 0.08637466666666667, c= 0.3454986666666667, d= 0.08637466666666667 Request successfully executed.
+08-11-2024 12:05:19 - INFO - Sending request to Setting Chamber Zones to a= 0.345488, b= 0.086372, c= 0.345488, d= 0.086372 with timeout of 5s...
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.345488, b= 0.086372, c= 0.345488, d= 0.086372 request successfully sent.
+08-11-2024 12:05:19 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:19 - INFO - Setting Chamber Zones to a= 0.345488, b= 0.086372, c= 0.345488, d= 0.086372 Request successfully executed.
+08-11-2024 12:05:19 - INFO - Sending request to Setting Chamber Zones to a= 0.34547733333333336, b= 0.08636933333333334, c= 0.34547733333333336, d= 0.08636933333333334 with timeout of 5s...
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.34547733333333336, b= 0.08636933333333334, c= 0.34547733333333336, d= 0.08636933333333334 request successfully sent.
+08-11-2024 12:05:20 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.34547733333333336, b= 0.08636933333333334, c= 0.34547733333333336, d= 0.08636933333333334 Request successfully executed.
+08-11-2024 12:05:20 - INFO - Sending request to Setting Chamber Zones to a= 0.34546666666666676, b= 0.08636666666666669, c= 0.34546666666666676, d= 0.08636666666666669 with timeout of 5s...
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.34546666666666676, b= 0.08636666666666669, c= 0.34546666666666676, d= 0.08636666666666669 request successfully sent.
+08-11-2024 12:05:20 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.34546666666666676, b= 0.08636666666666669, c= 0.34546666666666676, d= 0.08636666666666669 Request successfully executed.
+08-11-2024 12:05:20 - INFO - Sending request to Setting Chamber Zones to a= 0.3454560000000001, b= 0.08636400000000002, c= 0.3454560000000001, d= 0.08636400000000002 with timeout of 5s...
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.3454560000000001, b= 0.08636400000000002, c= 0.3454560000000001, d= 0.08636400000000002 request successfully sent.
+08-11-2024 12:05:20 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.3454560000000001, b= 0.08636400000000002, c= 0.3454560000000001, d= 0.08636400000000002 Request successfully executed.
+08-11-2024 12:05:20 - INFO - Sending request to Setting Chamber Zones to a= 0.3454453333333334, b= 0.08636133333333335, c= 0.3454453333333334, d= 0.08636133333333335 with timeout of 5s...
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.3454453333333334, b= 0.08636133333333335, c= 0.3454453333333334, d= 0.08636133333333335 request successfully sent.
+08-11-2024 12:05:20 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.3454453333333334, b= 0.08636133333333335, c= 0.3454453333333334, d= 0.08636133333333335 Request successfully executed.
+08-11-2024 12:05:20 - INFO - Sending request to Setting Chamber Zones to a= 0.3454346666666667, b= 0.08635866666666668, c= 0.3454346666666667, d= 0.08635866666666668 with timeout of 5s...
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.3454346666666667, b= 0.08635866666666668, c= 0.3454346666666667, d= 0.08635866666666668 request successfully sent.
+08-11-2024 12:05:20 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:20 - INFO - Setting Chamber Zones to a= 0.3454346666666667, b= 0.08635866666666668, c= 0.3454346666666667, d= 0.08635866666666668 Request successfully executed.
+08-11-2024 12:05:20 - INFO - Sending request to Setting Chamber Zones to a= 0.3454240000000002, b= 0.08635600000000004, c= 0.3454240000000002, d= 0.08635600000000004 with timeout of 5s...
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.3454240000000002, b= 0.08635600000000004, c= 0.3454240000000002, d= 0.08635600000000004 request successfully sent.
+08-11-2024 12:05:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.3454240000000002, b= 0.08635600000000004, c= 0.3454240000000002, d= 0.08635600000000004 Request successfully executed.
+08-11-2024 12:05:21 - INFO - Sending request to Setting Chamber Zones to a= 0.3454133333333334, b= 0.08635333333333335, c= 0.3454133333333334, d= 0.08635333333333335 with timeout of 5s...
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.3454133333333334, b= 0.08635333333333335, c= 0.3454133333333334, d= 0.08635333333333335 request successfully sent.
+08-11-2024 12:05:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.3454133333333334, b= 0.08635333333333335, c= 0.3454133333333334, d= 0.08635333333333335 Request successfully executed.
+08-11-2024 12:05:21 - INFO - Sending request to Setting Chamber Zones to a= 0.34540266666666675, b= 0.08635066666666669, c= 0.34540266666666675, d= 0.08635066666666669 with timeout of 5s...
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.34540266666666675, b= 0.08635066666666669, c= 0.34540266666666675, d= 0.08635066666666669 request successfully sent.
+08-11-2024 12:05:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.34540266666666675, b= 0.08635066666666669, c= 0.34540266666666675, d= 0.08635066666666669 Request successfully executed.
+08-11-2024 12:05:21 - INFO - Sending request to Setting Chamber Zones to a= 0.34539200000000014, b= 0.08634800000000004, c= 0.34539200000000014, d= 0.08634800000000004 with timeout of 5s...
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.34539200000000014, b= 0.08634800000000004, c= 0.34539200000000014, d= 0.08634800000000004 request successfully sent.
+08-11-2024 12:05:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.34539200000000014, b= 0.08634800000000004, c= 0.34539200000000014, d= 0.08634800000000004 Request successfully executed.
+08-11-2024 12:05:21 - INFO - Sending request to Setting Chamber Zones to a= 0.3453813333333335, b= 0.08634533333333337, c= 0.3453813333333335, d= 0.08634533333333337 with timeout of 5s...
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.3453813333333335, b= 0.08634533333333337, c= 0.3453813333333335, d= 0.08634533333333337 request successfully sent.
+08-11-2024 12:05:21 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:21 - INFO - Setting Chamber Zones to a= 0.3453813333333335, b= 0.08634533333333337, c= 0.3453813333333335, d= 0.08634533333333337 Request successfully executed.
+08-11-2024 12:05:21 - INFO - Sending request to Setting Chamber Zones to a= 0.34199866666666695, b= 0.08549966666666674, c= 0.34199866666666695, d= 0.08549966666666674 with timeout of 5s...
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34199866666666695, b= 0.08549966666666674, c= 0.34199866666666695, d= 0.08549966666666674 request successfully sent.
+08-11-2024 12:05:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34199866666666695, b= 0.08549966666666674, c= 0.34199866666666695, d= 0.08549966666666674 Request successfully executed.
+08-11-2024 12:05:22 - INFO - Sending request to Setting Chamber Zones to a= 0.34201600000000026, b= 0.08550400000000007, c= 0.34201600000000026, d= 0.08550400000000007 with timeout of 5s...
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34201600000000026, b= 0.08550400000000007, c= 0.34201600000000026, d= 0.08550400000000007 request successfully sent.
+08-11-2024 12:05:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34201600000000026, b= 0.08550400000000007, c= 0.34201600000000026, d= 0.08550400000000007 Request successfully executed.
+08-11-2024 12:05:22 - INFO - Sending request to Setting Chamber Zones to a= 0.34200000000000025, b= 0.08550000000000006, c= 0.34200000000000025, d= 0.08550000000000006 with timeout of 5s...
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34200000000000025, b= 0.08550000000000006, c= 0.34200000000000025, d= 0.08550000000000006 request successfully sent.
+08-11-2024 12:05:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34200000000000025, b= 0.08550000000000006, c= 0.34200000000000025, d= 0.08550000000000006 Request successfully executed.
+08-11-2024 12:05:22 - INFO - Sending request to Setting Chamber Zones to a= 0.34198400000000023, b= 0.08549600000000006, c= 0.34198400000000023, d= 0.08549600000000006 with timeout of 5s...
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34198400000000023, b= 0.08549600000000006, c= 0.34198400000000023, d= 0.08549600000000006 request successfully sent.
+08-11-2024 12:05:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34198400000000023, b= 0.08549600000000006, c= 0.34198400000000023, d= 0.08549600000000006 Request successfully executed.
+08-11-2024 12:05:22 - INFO - Sending request to Setting Chamber Zones to a= 0.34196800000000027, b= 0.08549200000000007, c= 0.34196800000000027, d= 0.08549200000000007 with timeout of 5s...
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34196800000000027, b= 0.08549200000000007, c= 0.34196800000000027, d= 0.08549200000000007 request successfully sent.
+08-11-2024 12:05:22 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:22 - INFO - Setting Chamber Zones to a= 0.34196800000000027, b= 0.08549200000000007, c= 0.34196800000000027, d= 0.08549200000000007 Request successfully executed.
+08-11-2024 12:05:22 - INFO - Sending request to Setting Chamber Zones to a= 0.3419520000000002, b= 0.08548800000000005, c= 0.3419520000000002, d= 0.08548800000000005 with timeout of 5s...
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419520000000002, b= 0.08548800000000005, c= 0.3419520000000002, d= 0.08548800000000005 request successfully sent.
+08-11-2024 12:05:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419520000000002, b= 0.08548800000000005, c= 0.3419520000000002, d= 0.08548800000000005 Request successfully executed.
+08-11-2024 12:05:23 - INFO - Sending request to Setting Chamber Zones to a= 0.3419360000000002, b= 0.08548400000000005, c= 0.3419360000000002, d= 0.08548400000000005 with timeout of 5s...
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419360000000002, b= 0.08548400000000005, c= 0.3419360000000002, d= 0.08548400000000005 request successfully sent.
+08-11-2024 12:05:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419360000000002, b= 0.08548400000000005, c= 0.3419360000000002, d= 0.08548400000000005 Request successfully executed.
+08-11-2024 12:05:23 - INFO - Sending request to Setting Chamber Zones to a= 0.3419200000000002, b= 0.08548000000000006, c= 0.3419200000000002, d= 0.08548000000000006 with timeout of 5s...
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419200000000002, b= 0.08548000000000006, c= 0.3419200000000002, d= 0.08548000000000006 request successfully sent.
+08-11-2024 12:05:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419200000000002, b= 0.08548000000000006, c= 0.3419200000000002, d= 0.08548000000000006 Request successfully executed.
+08-11-2024 12:05:23 - INFO - Sending request to Setting Chamber Zones to a= 0.3419040000000002, b= 0.08547600000000005, c= 0.3419040000000002, d= 0.08547600000000005 with timeout of 5s...
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419040000000002, b= 0.08547600000000005, c= 0.3419040000000002, d= 0.08547600000000005 request successfully sent.
+08-11-2024 12:05:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3419040000000002, b= 0.08547600000000005, c= 0.3419040000000002, d= 0.08547600000000005 Request successfully executed.
+08-11-2024 12:05:23 - INFO - Sending request to Setting Chamber Zones to a= 0.3418880000000002, b= 0.08547200000000005, c= 0.3418880000000002, d= 0.08547200000000005 with timeout of 5s...
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3418880000000002, b= 0.08547200000000005, c= 0.3418880000000002, d= 0.08547200000000005 request successfully sent.
+08-11-2024 12:05:23 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:23 - INFO - Setting Chamber Zones to a= 0.3418880000000002, b= 0.08547200000000005, c= 0.3418880000000002, d= 0.08547200000000005 Request successfully executed.
+08-11-2024 12:05:23 - INFO - Sending request to Setting Chamber Zones to a= 0.33849999999999997, b= 0.08462499999999999, c= 0.33849999999999997, d= 0.08462499999999999 with timeout of 5s...
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33849999999999997, b= 0.08462499999999999, c= 0.33849999999999997, d= 0.08462499999999999 request successfully sent.
+08-11-2024 12:05:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33849999999999997, b= 0.08462499999999999, c= 0.33849999999999997, d= 0.08462499999999999 Request successfully executed.
+08-11-2024 12:05:24 - INFO - Sending request to Setting Chamber Zones to a= 0.338512, b= 0.084628, c= 0.338512, d= 0.084628 with timeout of 5s...
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.338512, b= 0.084628, c= 0.338512, d= 0.084628 request successfully sent.
+08-11-2024 12:05:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.338512, b= 0.084628, c= 0.338512, d= 0.084628 Request successfully executed.
+08-11-2024 12:05:24 - INFO - Sending request to Setting Chamber Zones to a= 0.33849066666666666, b= 0.08462266666666667, c= 0.33849066666666666, d= 0.08462266666666667 with timeout of 5s...
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33849066666666666, b= 0.08462266666666667, c= 0.33849066666666666, d= 0.08462266666666667 request successfully sent.
+08-11-2024 12:05:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33849066666666666, b= 0.08462266666666667, c= 0.33849066666666666, d= 0.08462266666666667 Request successfully executed.
+08-11-2024 12:05:24 - INFO - Sending request to Setting Chamber Zones to a= 0.33846933333333334, b= 0.08461733333333334, c= 0.33846933333333334, d= 0.08461733333333334 with timeout of 5s...
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33846933333333334, b= 0.08461733333333334, c= 0.33846933333333334, d= 0.08461733333333334 request successfully sent.
+08-11-2024 12:05:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33846933333333334, b= 0.08461733333333334, c= 0.33846933333333334, d= 0.08461733333333334 Request successfully executed.
+08-11-2024 12:05:24 - INFO - Sending request to Setting Chamber Zones to a= 0.33844799999999997, b= 0.08461199999999999, c= 0.33844799999999997, d= 0.08461199999999999 with timeout of 5s...
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33844799999999997, b= 0.08461199999999999, c= 0.33844799999999997, d= 0.08461199999999999 request successfully sent.
+08-11-2024 12:05:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:24 - INFO - Setting Chamber Zones to a= 0.33844799999999997, b= 0.08461199999999999, c= 0.33844799999999997, d= 0.08461199999999999 Request successfully executed.
+08-11-2024 12:05:24 - INFO - Sending request to Setting Chamber Zones to a= 0.3384266666666667, b= 0.08460666666666668, c= 0.3384266666666667, d= 0.08460666666666668 with timeout of 5s...
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3384266666666667, b= 0.08460666666666668, c= 0.3384266666666667, d= 0.08460666666666668 request successfully sent.
+08-11-2024 12:05:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3384266666666667, b= 0.08460666666666668, c= 0.3384266666666667, d= 0.08460666666666668 Request successfully executed.
+08-11-2024 12:05:25 - INFO - Sending request to Setting Chamber Zones to a= 0.33840533333333345, b= 0.08460133333333336, c= 0.33840533333333345, d= 0.08460133333333336 with timeout of 5s...
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.33840533333333345, b= 0.08460133333333336, c= 0.33840533333333345, d= 0.08460133333333336 request successfully sent.
+08-11-2024 12:05:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.33840533333333345, b= 0.08460133333333336, c= 0.33840533333333345, d= 0.08460133333333336 Request successfully executed.
+08-11-2024 12:05:25 - INFO - Sending request to Setting Chamber Zones to a= 0.3383840000000001, b= 0.08459600000000002, c= 0.3383840000000001, d= 0.08459600000000002 with timeout of 5s...
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3383840000000001, b= 0.08459600000000002, c= 0.3383840000000001, d= 0.08459600000000002 request successfully sent.
+08-11-2024 12:05:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3383840000000001, b= 0.08459600000000002, c= 0.3383840000000001, d= 0.08459600000000002 Request successfully executed.
+08-11-2024 12:05:25 - INFO - Sending request to Setting Chamber Zones to a= 0.3383626666666668, b= 0.0845906666666667, c= 0.3383626666666668, d= 0.0845906666666667 with timeout of 5s...
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3383626666666668, b= 0.0845906666666667, c= 0.3383626666666668, d= 0.0845906666666667 request successfully sent.
+08-11-2024 12:05:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3383626666666668, b= 0.0845906666666667, c= 0.3383626666666668, d= 0.0845906666666667 Request successfully executed.
+08-11-2024 12:05:25 - INFO - Sending request to Setting Chamber Zones to a= 0.3349693333333336, b= 0.0837423333333334, c= 0.3349693333333336, d= 0.0837423333333334 with timeout of 5s...
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3349693333333336, b= 0.0837423333333334, c= 0.3349693333333336, d= 0.0837423333333334 request successfully sent.
+08-11-2024 12:05:25 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:25 - INFO - Setting Chamber Zones to a= 0.3349693333333336, b= 0.0837423333333334, c= 0.3349693333333336, d= 0.0837423333333334 Request successfully executed.
+08-11-2024 12:05:26 - INFO - Sending request to Setting Chamber Zones to a= 0.3349760000000002, b= 0.08374400000000005, c= 0.3349760000000002, d= 0.08374400000000005 with timeout of 5s...
+08-11-2024 12:05:26 - INFO - Setting Chamber Zones to a= 0.3349760000000002, b= 0.08374400000000005, c= 0.3349760000000002, d= 0.08374400000000005 request successfully sent.
+08-11-2024 12:05:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:26 - INFO - Setting Chamber Zones to a= 0.3349760000000002, b= 0.08374400000000005, c= 0.3349760000000002, d= 0.08374400000000005 Request successfully executed.
+08-11-2024 12:05:26 - INFO - Sending request to Setting Chamber Zones to a= 0.33157733333333383, b= 0.08289433333333346, c= 0.33157733333333383, d= 0.08289433333333346 with timeout of 5s...
+08-11-2024 12:05:26 - INFO - Setting Chamber Zones to a= 0.33157733333333383, b= 0.08289433333333346, c= 0.33157733333333383, d= 0.08289433333333346 request successfully sent.
+08-11-2024 12:05:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:26 - INFO - Setting Chamber Zones to a= 0.33157733333333383, b= 0.08289433333333346, c= 0.33157733333333383, d= 0.08289433333333346 Request successfully executed.
+08-11-2024 12:05:26 - INFO - Sending request to Setting Chamber Zones to a= 0.33157866666666713, b= 0.08289466666666678, c= 0.33157866666666713, d= 0.08289466666666678 with timeout of 5s...
+08-11-2024 12:05:26 - INFO - Setting Chamber Zones to a= 0.33157866666666713, b= 0.08289466666666678, c= 0.33157866666666713, d= 0.08289466666666678 request successfully sent.
+08-11-2024 12:05:26 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 12:05:26 - INFO - Setting Chamber Zones to a= 0.33157866666666713, b= 0.08289466666666678, c= 0.33157866666666713, d= 0.08289466666666678 Request successfully executed.
+08-11-2024 12:05:26 - INFO - Sending request to Setting Chamber Zones to a= 0.33154666666666716, b= 0.08288666666666679, c= 0.33154666666666716, d= 0.08288666666666679 with timeout of 5s...

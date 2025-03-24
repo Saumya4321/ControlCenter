@@ -1,0 +1,45 @@
+08-11-2024 10:24:20 - INFO - Sending request to Homing Z axis - command 1/4 with timeout of 360s...
+08-11-2024 10:24:21 - ERROR - E104: Error while executing Homing Z axis - command 1/4 
+ 400 Client Error: Homing failed due to printer shutdown for url: http://192.168.0.231/printer/gcode/script?script=G28+Z0
+08-11-2024 10:24:21 - INFO - Sending request to Homing Z axis - command 2/4 with timeout of 360s...
+08-11-2024 10:24:21 - ERROR - E104: Error while executing Homing Z axis - command 2/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G90
+08-11-2024 10:24:21 - INFO - Sending request to Homing Z axis - command 3/4 with timeout of 360s...
+08-11-2024 10:24:21 - ERROR - E104: Error while executing Homing Z axis - command 3/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G0+Z0
+08-11-2024 10:24:21 - INFO - Sending request to Homing Z axis - command 4/4 with timeout of 360s...
+08-11-2024 10:24:21 - ERROR - E104: Error while executing Homing Z axis - command 4/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G91
+08-11-2024 10:24:21 - INFO - Delay of 120 s
+08-11-2024 10:24:43 - INFO - Emergency stop request successfully sent.
+08-11-2024 10:24:43 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 10:24:43 - INFO - Emergency stop Request successfully executed.
+08-11-2024 10:25:02 - INFO - Sending request to Homing Z axis - command 1/4 with timeout of 360s...
+08-11-2024 10:25:02 - ERROR - E104: Error while executing Homing Z axis - command 1/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G28+Z0
+08-11-2024 10:25:02 - INFO - Sending request to Homing Z axis - command 2/4 with timeout of 360s...
+08-11-2024 10:25:02 - ERROR - E104: Error while executing Homing Z axis - command 2/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G90
+08-11-2024 10:25:03 - INFO - Sending request to Homing Z axis - command 3/4 with timeout of 360s...
+08-11-2024 10:25:03 - ERROR - E104: Error while executing Homing Z axis - command 3/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G0+Z0
+08-11-2024 10:25:03 - INFO - Sending request to Homing Z axis - command 4/4 with timeout of 360s...
+08-11-2024 10:25:03 - ERROR - E104: Error while executing Homing Z axis - command 4/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G91
+08-11-2024 10:25:03 - INFO - Delay of 120 s
+08-11-2024 10:26:27 - INFO - Emergency stop request successfully sent.
+08-11-2024 10:26:27 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 10:26:27 - INFO - Emergency stop Request successfully executed.
+08-11-2024 10:26:37 - INFO - Sending request to Homing Z axis - command 1/4 with timeout of 360s...
+08-11-2024 10:26:37 - ERROR - E104: Error while executing Homing Z axis - command 1/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G28+Z0
+08-11-2024 10:26:37 - INFO - Sending request to Homing Z axis - command 2/4 with timeout of 360s...
+08-11-2024 10:26:37 - ERROR - E104: Error while executing Homing Z axis - command 2/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G90
+08-11-2024 10:26:37 - INFO - Sending request to Homing Z axis - command 3/4 with timeout of 360s...
+08-11-2024 10:26:37 - ERROR - E104: Error while executing Homing Z axis - command 3/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G0+Z0
+08-11-2024 10:26:38 - INFO - Sending request to Homing Z axis - command 4/4 with timeout of 360s...
+08-11-2024 10:26:38 - ERROR - E104: Error while executing Homing Z axis - command 4/4 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G91
+08-11-2024 10:26:38 - INFO - Delay of 120 s

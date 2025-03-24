@@ -1,0 +1,31 @@
+07-11-2024 10:14:16 - INFO - mechanical Firmware restart request successfully sent.
+07-11-2024 10:14:16 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:14:16 - INFO - mechanical Firmware restart Request successfully executed.
+07-11-2024 10:14:24 - INFO - Emergency stop request successfully sent.
+07-11-2024 10:14:24 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:14:24 - INFO - Emergency stop Request successfully executed.
+07-11-2024 10:14:32 - INFO - mechanical Firmware restart request successfully sent.
+07-11-2024 10:14:32 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:14:32 - INFO - mechanical Firmware restart Request successfully executed.
+07-11-2024 10:15:38 - INFO - Emergency stop request successfully sent.
+07-11-2024 10:15:38 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:15:38 - INFO - Emergency stop Request successfully executed.
+07-11-2024 10:16:00 - INFO - mechanical Firmware restart request successfully sent.
+07-11-2024 10:16:00 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:16:00 - INFO - mechanical Firmware restart Request successfully executed.
+07-11-2024 10:17:22 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:17:22 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:17:22 - ERROR - E103: Error while getting/ reading response 
+ Close Laser Window not successful
+07-11-2024 10:17:34 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:17:34 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:17:35 - ERROR - E103: Error while getting/ reading response 
+ Close Laser Window not successful
+07-11-2024 10:19:10 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:19:10 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:19:10 - ERROR - E103: Error while getting/ reading response 
+ Close Laser Window not successful
+07-11-2024 10:19:24 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:19:24 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:19:24 - ERROR - E103: Error while getting/ reading response 
+ Close Laser Window not successful

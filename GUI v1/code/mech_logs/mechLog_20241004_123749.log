@@ -1,0 +1,353 @@
+04-10-2024 13:08:58 - INFO - Connected to the remote host.
+
+04-10-2024 13:08:59 - INFO - mechanical Firmware restart request successfully sent.
+04-10-2024 13:08:59 - INFO - Response from moonraker: {'result': 'ok'}
+04-10-2024 13:08:59 - INFO - mechanical Firmware restart Request successfully executed.
+04-10-2024 13:09:02 - INFO - Executing command: truncate -s 0 /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "[virtual_sdcard]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "#path: /home/dell/printer_1_data/gcodes
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "on_error_gcode: CANCEL_PRINT
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "#######Chamber IR Heater parameters###!####
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "[heater_generic chamber_heater1]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:02 - INFO - Command output: 
+
+04-10-2024 13:09:02 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "[heater_generic chamber_heater2]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "max_power: 0.6
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "[heater_generic chamber_heater3]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "[heater_generic chamber_heater4]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:03 - INFO - Command output: 
+
+04-10-2024 13:09:03 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "[heater_generic chamber_heater5]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "[heater_generic chamber_heater6]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "[heater_generic chamber_heater7]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "max_power: 0.5
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:04 - INFO - Command output: 
+
+04-10-2024 13:09:04 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "[heater_generic chamber_heater9]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "max_power: 0.1
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "[heater_generic chamber_heater10]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "max_power: 0.8
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "[heater_generic chamber_heater11]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:05 - INFO - Command output: 
+
+04-10-2024 13:09:05 - INFO - Executing command: echo "[heater_generic chamber_heater12]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "[heater_generic chamber_heater13]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "max_power: 0.8
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "[heater_generic chamber_heater14]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "max_power: 0.01
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "[extruder]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "max_power: 0.25
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:06 - INFO - Command output: 
+
+04-10-2024 13:09:06 - INFO - Executing command: echo "
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:07 - INFO - Command output: 
+
+04-10-2024 13:09:07 - INFO - Executing command: echo "[extruder1]
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:07 - INFO - Command output: 
+
+04-10-2024 13:09:07 - INFO - Executing command: echo "max_power: 0.25
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:07 - INFO - Command output: 
+
+04-10-2024 13:09:07 - INFO - Executing command: echo "pwm_cycle_time: 0.2
+" >> /home/pi/printer_data/config/heater.cfg
+
+04-10-2024 13:09:07 - INFO - Command output: 
+
+04-10-2024 13:09:07 - INFO - Operation completed successfully.
+
+04-10-2024 13:09:07 - INFO - SSH connection closed.
+

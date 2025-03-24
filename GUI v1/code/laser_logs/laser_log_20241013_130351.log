@@ -1,0 +1,954 @@
+13-10-2024 13:03:59 - INFO - Opening file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd...
+13-10-2024 13:04:07 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:04:07 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:07 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:04:10 - INFO - Scancard process started for layer 
+13-10-2024 13:04:10 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:04:10 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:10 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:04:10 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:04:10 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:11 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:04:12 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:04:12 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:12 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:04:13 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:04:13 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:13 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:04:18 - INFO - Marking process for Layer  started...
+13-10-2024 13:04:18 - INFO - Marking process for Layer  over
+13-10-2024 13:04:18 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:04:18 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:18 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:04:22 - INFO - Scancard process started for layer 
+13-10-2024 13:04:22 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:04:22 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:22 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:04:22 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:04:22 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:26 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:04:27 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:04:27 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:27 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:04:28 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:04:28 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:28 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:04:33 - INFO - Marking process for Layer  started...
+13-10-2024 13:04:33 - INFO - Marking process for Layer  over
+13-10-2024 13:04:33 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:04:33 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:33 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:04:34 - INFO - Scancard process started for layer 
+13-10-2024 13:04:34 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:04:34 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:34 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:04:34 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:04:34 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:36 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:04:37 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:04:37 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:37 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:04:38 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:04:38 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:38 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:04:43 - INFO - Marking process for Layer  started...
+13-10-2024 13:04:43 - INFO - Marking process for Layer  over
+13-10-2024 13:04:43 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:04:43 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:43 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:04:44 - INFO - Scancard process started for layer 
+13-10-2024 13:04:45 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:04:45 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:45 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:04:45 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:04:45 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:46 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:04:47 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:04:47 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:47 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:04:48 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:04:48 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:48 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:04:53 - INFO - Marking process for Layer  started...
+13-10-2024 13:04:53 - INFO - Marking process for Layer  over
+13-10-2024 13:04:53 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:04:53 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:53 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:04:54 - INFO - Scancard process started for layer 
+13-10-2024 13:04:54 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:04:54 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:55 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:04:55 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:04:55 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:56 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:04:57 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:04:57 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:57 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:04:58 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:04:58 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:04:58 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:05:03 - INFO - Marking process for Layer  started...
+13-10-2024 13:05:03 - INFO - Marking process for Layer  over
+13-10-2024 13:05:03 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:03 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:03 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:04 - INFO - Scancard process started for layer 
+13-10-2024 13:05:04 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:05:04 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:04 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:05:04 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:05:04 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:06 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:05:07 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:05:07 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:07 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:05:08 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:05:08 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:08 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:05:12 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:12 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:12 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:13 - INFO - Marking process for Layer  started...
+13-10-2024 13:05:13 - INFO - Marking process for Layer  over
+13-10-2024 13:05:13 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:13 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:13 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:15 - INFO - Scancard process started for layer 
+13-10-2024 13:05:15 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:05:15 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:15 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:05:15 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:05:15 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:16 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:05:17 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:05:17 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:17 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:05:18 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:05:18 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:18 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:05:18 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:18 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:18 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:19 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:19 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:19 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:19 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:19 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:19 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:20 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:20 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:20 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:20 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:20 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:20 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:23 - INFO - Marking process for Layer  started...
+13-10-2024 13:05:23 - INFO - Marking process for Layer  over
+13-10-2024 13:05:23 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:23 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:23 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:25 - INFO - Scancard process started for layer 
+13-10-2024 13:05:25 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:05:25 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:25 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:05:25 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:05:25 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:26 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:05:27 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:05:27 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:27 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:05:28 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:05:28 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:28 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:05:33 - INFO - Marking process for Layer  started...
+13-10-2024 13:05:33 - INFO - Marking process for Layer  over
+13-10-2024 13:05:33 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:33 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:33 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:35 - INFO - Scancard process started for layer 
+13-10-2024 13:05:35 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:05:35 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:35 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:05:35 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:05:35 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:36 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:05:37 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:05:37 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:37 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:05:38 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:05:38 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:38 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:05:43 - INFO - Marking process for Layer  started...
+13-10-2024 13:05:43 - INFO - Marking process for Layer  over
+13-10-2024 13:05:43 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:43 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:43 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:45 - INFO - Scancard process started for layer 
+13-10-2024 13:05:45 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:05:45 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:45 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:05:45 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:05:45 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:46 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:05:47 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:05:47 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:47 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:05:47 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:47 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:47 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:48 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:05:48 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:48 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:05:53 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:53 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:53 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:53 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:53 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:53 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:53 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:53 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:53 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:53 - INFO - Marking process for Layer  started...
+13-10-2024 13:05:53 - INFO - Marking process for Layer  over
+13-10-2024 13:05:53 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:53 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:53 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:53 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:53 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:53 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:54 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:54 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:54 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:54 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:54 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:54 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:54 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:54 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:54 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:55 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:55 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:55 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:55 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:55 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:55 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:05:59 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:05:59 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:05:59 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:10:30 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:10:30 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:30 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:10:31 - INFO - Scancard process started for layer 
+13-10-2024 13:10:31 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:10:31 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:31 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:10:31 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:10:31 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:31 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xbb in position 85: invalid start byte
+13-10-2024 13:10:32 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:10:32 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:32 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "cmd": "download_parameters",
+    "sid": 0,
+    "ret": 0,
+    "data": {
+        "err_code": 0,
+        "describe": "no error"
+    }
+}
+13-10-2024 13:10:33 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:10:33 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:33 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": -1
+}
+13-10-2024 13:10:38 - INFO - Marking process for Layer  started...
+13-10-2024 13:10:38 - INFO - Marking process for Layer  over
+13-10-2024 13:10:38 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:10:38 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:38 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:10:40 - INFO - Scancard process started for layer 
+13-10-2024 13:10:40 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:10:40 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:40 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:10:40 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:10:40 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:41 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xbb in position 85: invalid start byte
+13-10-2024 13:10:42 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:10:42 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:42 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "cmd": "download_parameters",
+    "sid": 0,
+    "ret": 0,
+    "data": {
+        "err_code": 0,
+        "describe": "no error"
+    }
+}
+13-10-2024 13:10:43 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:10:43 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:43 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": -1
+}
+13-10-2024 13:10:48 - INFO - Marking process for Layer  started...
+13-10-2024 13:10:48 - INFO - Marking process for Layer  over
+13-10-2024 13:10:48 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:10:49 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:10:49 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:11:00 - INFO - Opening file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd...
+13-10-2024 13:11:03 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:11:03 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:03 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:11:04 - INFO - Scancard process started for layer 
+13-10-2024 13:11:04 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:11:04 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:04 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:11:04 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:11:04 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:08 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xbb in position 85: invalid start byte
+13-10-2024 13:11:09 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:11:09 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:09 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "cmd": "download_parameters",
+    "sid": 0,
+    "ret": 0,
+    "data": {
+        "err_code": 0,
+        "describe": "no error"
+    }
+}
+13-10-2024 13:11:10 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:11:10 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:11 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": -1
+}
+13-10-2024 13:11:16 - INFO - Marking process for Layer  started...
+13-10-2024 13:11:16 - INFO - Marking process for Layer  over
+13-10-2024 13:11:16 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:11:16 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:16 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:11:17 - INFO - Scancard process started for layer 
+13-10-2024 13:11:17 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:11:17 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:17 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:11:17 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:11:17 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:18 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xbb in position 85: invalid start byte
+13-10-2024 13:11:19 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:11:19 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:19 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "cmd": "download_parameters",
+    "sid": 0,
+    "ret": 0,
+    "data": {
+        "err_code": 0,
+        "describe": "no error"
+    }
+}
+13-10-2024 13:11:20 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:11:21 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:21 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": -1
+}
+13-10-2024 13:11:26 - INFO - Marking process for Layer  started...
+13-10-2024 13:11:26 - INFO - Marking process for Layer  over
+13-10-2024 13:11:26 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:11:26 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:11:29 - ERROR - E202 - Stop marking not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:14:00 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:14:00 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:00 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:14:03 - INFO - Scancard process started for layer 
+13-10-2024 13:14:03 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:14:03 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:03 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:14:03 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:14:03 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:04 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:14:05 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:14:05 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:05 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:14:06 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:14:06 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:06 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:14:11 - INFO - Marking process for Layer  started...
+13-10-2024 13:14:11 - INFO - Marking process for Layer  over
+13-10-2024 13:14:11 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:14:11 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:11 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:14:13 - INFO - Scancard process started for layer 
+13-10-2024 13:14:13 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:14:13 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:13 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:14:13 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:14:13 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:14 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:14:15 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:14:15 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:15 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:14:16 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:14:16 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:16 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:14:21 - INFO - Marking process for Layer  started...
+13-10-2024 13:14:21 - INFO - Marking process for Layer  over
+13-10-2024 13:14:21 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:14:21 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:21 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:14:36 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:14:36 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:36 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:14:37 - INFO - Scancard process started for layer 
+13-10-2024 13:14:37 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:14:37 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:37 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:14:37 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:14:37 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:39 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:14:40 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:14:40 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:40 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:14:41 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:14:41 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:41 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:14:46 - INFO - Marking process for Layer  started...
+13-10-2024 13:14:46 - INFO - Marking process for Layer  over
+13-10-2024 13:14:46 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:14:46 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:46 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:14:48 - INFO - Scancard process started for layer 
+13-10-2024 13:14:48 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:14:48 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:48 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:14:48 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:14:48 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:49 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:14:50 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:14:50 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:50 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:14:51 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:14:51 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:51 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:14:56 - INFO - Marking process for Layer  started...
+13-10-2024 13:14:56 - INFO - Marking process for Layer  over
+13-10-2024 13:14:56 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:14:56 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:14:56 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:15:19 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:15:19 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:19 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:15:20 - INFO - Scancard process started for layer 
+13-10-2024 13:15:20 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:15:20 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:20 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:15:20 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:15:20 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:24 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:15:25 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:15:25 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:25 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:15:26 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:15:26 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:26 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:15:31 - INFO - Marking process for Layer  started...
+13-10-2024 13:15:31 - INFO - Marking process for Layer  over
+13-10-2024 13:15:31 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:15:31 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:31 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:15:33 - INFO - Scancard process started for layer 
+13-10-2024 13:15:33 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:15:33 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:33 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:15:33 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:15:33 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:34 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:15:35 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:15:35 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:35 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:15:36 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:15:36 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:36 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:15:41 - INFO - Marking process for Layer  started...
+13-10-2024 13:15:41 - INFO - Marking process for Layer  over
+13-10-2024 13:15:41 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:15:41 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:15:41 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:16:11 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:16:11 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:11 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:16:12 - INFO - Scancard process started for layer 
+13-10-2024 13:16:12 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:16:12 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:12 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:16:12 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:16:12 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:14 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:16:15 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:16:15 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:15 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:16:16 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:16:16 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:16 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:16:21 - INFO - Marking process for Layer  started...
+13-10-2024 13:16:21 - INFO - Marking process for Layer  over
+13-10-2024 13:16:21 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:16:22 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:22 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:16:23 - INFO - Scancard process started for layer 
+13-10-2024 13:16:23 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:16:23 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:23 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:16:23 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:16:23 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:24 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:16:25 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:16:25 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:25 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:16:26 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:16:27 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:27 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:16:32 - INFO - Marking process for Layer  started...
+13-10-2024 13:16:32 - INFO - Marking process for Layer  over
+13-10-2024 13:16:32 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:16:32 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:16:32 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:23:08 - INFO - Opening file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd...

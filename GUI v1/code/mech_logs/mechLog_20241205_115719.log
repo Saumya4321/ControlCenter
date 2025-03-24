@@ -1,0 +1,338 @@
+05-12-2024 11:57:42 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:57:47 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:57:49 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:57:52 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:57:54 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:57:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:57:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:03 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:04 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:58:05 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:07 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:58:07 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:08 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:09 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:10 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:11 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:12 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:13 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:14 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:15 - ERROR - E102 : Emergency stop Request to Moonraker Timed out 
+ Emergency stop not successful
+05-12-2024 11:58:16 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:18 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:18 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:20 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:22 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:24 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:26 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:28 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:42 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:42 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:44 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:44 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:44 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:44 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:45 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:45 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:47 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:47 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:47 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:49 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:49 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:49 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:49 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:49 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:50 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:50 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:51 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:51 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:51 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:51 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:51 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:51 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:51 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:52 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:52 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:52 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:52 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:52 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:52 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:53 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:53 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:53 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:54 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:55 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:56 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:56 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:56 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:56 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:56 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:56 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:56 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:58:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:57 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:57 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:57 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:58:57 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+ Initiating firmware restart
+05-12-2024 11:58:57 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:58 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:58 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:58 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:58:59 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:58:59 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:58:59 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:58:59 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:58:59 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:00 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:00 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:00 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:01 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:02 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:02 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:02 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:02 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:03 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:04 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:04 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:05 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:05 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:05 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:59:06 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:06 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:06 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:06 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:06 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:06 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:06 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:06 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:07 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:07 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:07 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:07 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:07 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:07 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:08 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:08 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:08 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:08 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:09 - ERROR - E102 : Emergency stop Request to Moonraker Timed out 
+ Emergency stop not successful
+05-12-2024 11:59:10 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:10 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:10 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:10 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:12 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:12 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:12 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:12 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:14 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:16 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:18 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:18 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:59:18 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:18 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:59:18 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:59:18 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:18 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:59:19 - INFO - Sending request to Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+05-12-2024 11:59:20 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:20 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:20 - ERROR - E102 : Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 not successful
+05-12-2024 11:59:21 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:22 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+05-12-2024 11:59:23 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:23 - ERROR - E102 : Emergency stop Request to Moonraker Timed out 
+ Emergency stop not successful
+05-12-2024 11:59:23 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:23 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:23 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:23 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:24 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:24 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:25 - ERROR - E102 : Emergency stop Request to Moonraker Timed out 
+ Emergency stop not successful
+05-12-2024 11:59:26 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:27 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:29 - INFO - Sending request to Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+05-12-2024 11:59:32 - ERROR - E102 : Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 Request to Moonraker Timed out 
+ Setting Chamber Zones to a= 0, b= 0, c= 0, d= 0 not successful
+ Initiating firmware restart
+05-12-2024 11:59:33 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:33 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:33 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:33 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:33 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:34 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:34 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:34 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+ Initiating firmware restart
+05-12-2024 11:59:36 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:42 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful
+05-12-2024 11:59:44 - ERROR - E102 : mechanical Firmware restart Request to Moonraker Timed out 
+ mechanical Firmware restart not successful

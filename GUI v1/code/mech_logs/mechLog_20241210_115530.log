@@ -1,0 +1,13 @@
+10-12-2024 11:55:53 - INFO - Sending request to Setting Bed heater_bed Temperature to 40.0 with timeout of 5s...
+10-12-2024 11:55:53 - INFO - Setting Bed heater_bed Temperature to 40.0 request successfully sent.
+10-12-2024 11:55:53 - INFO - Response from moonraker: {'result': 'ok'}
+10-12-2024 11:55:53 - INFO - Setting Bed heater_bed Temperature to 40.0 Request successfully executed.
+10-12-2024 11:55:53 - INFO - Sending request to Setting Bed bed_heater1 Temperature to 40.0 with timeout of 5s...
+10-12-2024 11:55:53 - INFO - Setting Bed bed_heater1 Temperature to 40.0 request successfully sent.
+10-12-2024 11:55:53 - INFO - Response from moonraker: {'result': 'ok'}
+10-12-2024 11:55:53 - INFO - Setting Bed bed_heater1 Temperature to 40.0 Request successfully executed.
+10-12-2024 11:55:58 - INFO - Sending request to Setting Bed heater_bed Temperature to 0 with timeout of 5s...
+10-12-2024 11:55:58 - INFO - Sending request to Setting Bed bed_heater1 Temperature to 0 with timeout of 5s...
+10-12-2024 11:55:58 - INFO - Setting Bed bed_heater1 Temperature to 0 request successfully sent.
+10-12-2024 11:55:58 - INFO - Response from moonraker: {'result': 'ok'}
+10-12-2024 11:55:58 - INFO - Setting Bed bed_heater1 Temperature to 0 Request successfully executed.

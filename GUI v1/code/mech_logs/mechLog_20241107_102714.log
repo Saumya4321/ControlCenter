@@ -1,0 +1,5 @@
+07-11-2024 10:33:32 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:33:32 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:33:32 - ERROR - E103: Error while getting/ reading response 
+ Close Laser Window not successful 
+ 'dict' object has no attribute 'json'

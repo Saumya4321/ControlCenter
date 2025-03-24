@@ -1,0 +1,60 @@
+13-10-2024 13:01:01 - INFO - Opening file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd...
+13-10-2024 13:01:06 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:01:06 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:06 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:01:10 - INFO - Scancard process started for layer 
+13-10-2024 13:01:10 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:01:10 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:10 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:01:10 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:01:10 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:10 - ERROR - E202 - setting mark parameters by layer not successful 
+ 'utf-8' codec can't decode byte 0xb5 in position 101: invalid start byte
+13-10-2024 13:01:11 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:01:11 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:11 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:01:11 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+13-10-2024 13:01:11 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:12 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+13-10-2024 13:01:13 - INFO - Start marking-> Connecting to localhost:50000...
+13-10-2024 13:01:13 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:13 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+13-10-2024 13:01:18 - INFO - Marking process for Layer  started...
+13-10-2024 13:01:18 - INFO - Marking process for Layer  over
+13-10-2024 13:01:18 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 13:01:18 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:18 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+13-10-2024 13:01:22 - INFO - Scancard process started for layer 
+13-10-2024 13:01:22 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 13:01:22 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 13:01:22 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 13:01:22 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+13-10-2024 13:01:22 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s

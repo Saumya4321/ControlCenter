@@ -1,0 +1,64 @@
+13-10-2024 13:01:04 - INFO - Count value updated in GUI!
+13-10-2024 13:01:06 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+13-10-2024 13:01:06 - INFO - Moving left hopper motors 0.1mm - stage 1 request successfully sent.
+13-10-2024 13:01:06 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:06 - INFO - Moving left hopper motors 0.1mm - stage 1 Request successfully executed.
+13-10-2024 13:01:06 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+13-10-2024 13:01:07 - INFO - Dwell for 100.0 request successfully sent.
+13-10-2024 13:01:07 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:07 - INFO - Dwell for 100.0 Request successfully executed.
+13-10-2024 13:01:07 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+13-10-2024 13:01:07 - INFO - Moving left hopper motors - stage 2 request successfully sent.
+13-10-2024 13:01:07 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:07 - INFO - Moving left hopper motors - stage 2 Request successfully executed.
+13-10-2024 13:01:07 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+13-10-2024 13:01:09 - INFO - Recoater go RIGHT request successfully sent.
+13-10-2024 13:01:09 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:09 - INFO - Recoater go RIGHT Request successfully executed.
+13-10-2024 13:01:09 - INFO - Sending request to Turning on heater with timeout of 5s...
+13-10-2024 13:01:09 - INFO - Turning on heater request successfully sent.
+13-10-2024 13:01:09 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:09 - INFO - Turning on heater Request successfully executed.
+13-10-2024 13:01:10 - INFO - Sending request to Turning off heater with timeout of 5s...
+13-10-2024 13:01:10 - INFO - Turning off heater request successfully sent.
+13-10-2024 13:01:10 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:10 - INFO - Turning off heater Request successfully executed.
+13-10-2024 13:01:10 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+13-10-2024 13:01:10 - INFO - Laser Window open request successfully sent.
+13-10-2024 13:01:10 - ERROR - E103: Error while getting/ reading response 
+ Open Laser Window not successful
+13-10-2024 13:01:18 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+13-10-2024 13:01:18 - INFO - Laser Window close request successfully sent.
+13-10-2024 13:01:18 - ERROR - E103: Error while getting/ reading response 
+ Close Laser Window not successful
+13-10-2024 13:01:18 - INFO - Sending request to Moving right hopper motor 0.1mm - stage 1 with timeout of 5s...
+13-10-2024 13:01:18 - INFO - Moving right hopper motor 0.1mm - stage 1 request successfully sent.
+13-10-2024 13:01:18 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:18 - INFO - Moving right hopper motor 0.1mm - stage 1 Request successfully executed.
+13-10-2024 13:01:18 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+13-10-2024 13:01:19 - INFO - Dwell for 100.0 request successfully sent.
+13-10-2024 13:01:19 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:19 - INFO - Dwell for 100.0 Request successfully executed.
+13-10-2024 13:01:19 - INFO - Sending request to Moving right hopper motors - stage 2 with timeout of 5s...
+13-10-2024 13:01:19 - INFO - Moving right hopper motors - stage 2 request successfully sent.
+13-10-2024 13:01:19 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:19 - INFO - Moving right hopper motors - stage 2 Request successfully executed.
+13-10-2024 13:01:19 - INFO - Sending request to Recoater go LEFT with timeout of 5s...
+13-10-2024 13:01:21 - INFO - Recoater go LEFT request successfully sent.
+13-10-2024 13:01:21 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:21 - INFO - Recoater go LEFT Request successfully executed.
+13-10-2024 13:01:21 - INFO - Sending request to Turning on heater with timeout of 5s...
+13-10-2024 13:01:21 - INFO - Turning on heater request successfully sent.
+13-10-2024 13:01:21 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:21 - INFO - Turning on heater Request successfully executed.
+13-10-2024 13:01:22 - INFO - Sending request to Turning off heater with timeout of 5s...
+13-10-2024 13:01:22 - INFO - Turning off heater request successfully sent.
+13-10-2024 13:01:22 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:22 - INFO - Turning off heater Request successfully executed.
+13-10-2024 13:01:22 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+13-10-2024 13:01:22 - INFO - Laser Window open request successfully sent.
+13-10-2024 13:01:22 - ERROR - E103: Error while getting/ reading response 
+ Open Laser Window not successful
+13-10-2024 13:01:23 - INFO - Emergency stop request successfully sent.
+13-10-2024 13:01:23 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 13:01:23 - INFO - Emergency stop Request successfully executed.

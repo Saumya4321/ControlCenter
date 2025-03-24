@@ -1,0 +1,12 @@
+08-11-2024 10:27:19 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 10:27:20 - ERROR - E104: Error while executing pre-layer-gcodes 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=FORCE_MOVE+stepper%3Dstepper_z+distance%3D10.12+velocity%3D2.5
+08-11-2024 10:27:20 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 10:27:20 - ERROR - E104: Error while executing pre-layer-gcodes 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=G4+P1000
+08-11-2024 10:27:20 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+08-11-2024 10:27:20 - ERROR - E104: Error while executing pre-layer-gcodes 
+ 502 Server Error: Bad Gateway for url: http://192.168.0.231/printer/gcode/script?script=FORCE_MOVE+stepper%3Dstepper_z+distance%3D-10.0+velocity%3D2.5
+08-11-2024 10:27:24 - INFO - Emergency stop request successfully sent.
+08-11-2024 10:27:24 - INFO - Response from moonraker: {'result': 'ok'}
+08-11-2024 10:27:24 - INFO - Emergency stop Request successfully executed.

@@ -1,0 +1,11 @@
+07-11-2024 11:38:11 - INFO - Count value updated in GUI!
+07-11-2024 11:38:19 - INFO - Sending request to Homing Z axis - command 1/4 with timeout of 360s...
+07-11-2024 11:39:19 - ERROR - E104: Error while executing Homing Z axis - command 1/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G28+Z0
+07-11-2024 11:39:19 - INFO - Sending request to Homing Z axis - command 2/4 with timeout of 360s...
+07-11-2024 11:39:22 - INFO - Emergency stop request successfully sent.
+07-11-2024 11:39:22 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 11:39:22 - INFO - Emergency stop Request successfully executed.
+07-11-2024 11:39:24 - INFO - mechanical Firmware restart request successfully sent.
+07-11-2024 11:39:24 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 11:39:24 - INFO - mechanical Firmware restart Request successfully executed.

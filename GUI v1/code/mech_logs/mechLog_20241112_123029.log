@@ -1,0 +1,7 @@
+12-11-2024 12:31:27 - INFO - Sending request to Setting roller speed with timeout of 5s...
+12-11-2024 12:31:27 - ERROR - E104: Error while executing Setting roller speed 
+ 400 Client Error: The value 'roller_pwm' is not valid for PIN for url: http://192.168.137.178/printer/gcode/script?script=SET_PIN+PIN%3Droller_pwm+VALUE%3D0.88
+12-11-2024 12:31:27 - INFO - Sending request to Roller move COUNTER-CLOCKWISE with timeout of 5s...
+12-11-2024 12:31:27 - INFO - Roller move COUNTER-CLOCKWISE request successfully sent.
+12-11-2024 12:31:27 - INFO - Response from moonraker: {'result': 'ok'}
+12-11-2024 12:31:27 - INFO - Roller move COUNTER-CLOCKWISE Request successfully executed.

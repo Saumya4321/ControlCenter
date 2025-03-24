@@ -1,0 +1,8 @@
+13-10-2024 18:59:16 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+13-10-2024 18:59:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+13-10-2024 18:59:16 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 18:59:16 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.
+13-10-2024 18:59:44 - INFO - Sending request to Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 with timeout of 5s...
+13-10-2024 18:59:44 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 request successfully sent.
+13-10-2024 18:59:44 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 18:59:44 - INFO - Setting Chmaber Zones to a= 0.0, b= 0.0, c= 0.0, d= 0.0 Request successfully executed.

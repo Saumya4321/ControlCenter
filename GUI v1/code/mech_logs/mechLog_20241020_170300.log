@@ -1,0 +1,32 @@
+20-10-2024 17:04:01 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+20-10-2024 17:04:01 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+20-10-2024 17:04:01 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:04:01 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.
+20-10-2024 17:04:16 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+20-10-2024 17:04:16 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+20-10-2024 17:04:16 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:04:16 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.
+20-10-2024 17:04:33 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+20-10-2024 17:04:33 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+20-10-2024 17:04:33 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:04:33 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.
+20-10-2024 17:04:41 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+20-10-2024 17:04:41 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+20-10-2024 17:04:41 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:04:41 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.
+20-10-2024 17:04:52 - INFO - Sending request to Setting Bed bed_heater1 Temperature to 120.0 with timeout of 5s...
+20-10-2024 17:04:52 - INFO - Sending request to Setting Bed bed_heater1 Temperature to 120.0 with timeout of 5s...
+20-10-2024 17:04:52 - INFO - Setting Bed bed_heater1 Temperature to 120.0 request successfully sent.
+20-10-2024 17:04:52 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:04:52 - INFO - Setting Bed bed_heater1 Temperature to 120.0 Request successfully executed.
+20-10-2024 17:04:53 - INFO - Setting Bed bed_heater1 Temperature to 120.0 request successfully sent.
+20-10-2024 17:04:53 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:04:53 - INFO - Setting Bed bed_heater1 Temperature to 120.0 Request successfully executed.
+20-10-2024 17:05:27 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+20-10-2024 17:05:28 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+20-10-2024 17:05:28 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:05:28 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.
+20-10-2024 17:05:35 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+20-10-2024 17:05:35 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+20-10-2024 17:05:35 - INFO - Response from moonraker: {'result': 'ok'}
+20-10-2024 17:05:35 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.

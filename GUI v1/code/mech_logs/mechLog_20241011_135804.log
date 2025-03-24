@@ -1,0 +1,416 @@
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:07 - INFO - Setting chamber_heater2 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:07 - INFO - Setting chamber_heater2 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:07 - INFO - Setting chamber_heater3 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:07 - INFO - Setting chamber_heater3 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:07 - INFO - Setting chamber_heater4 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:07 - INFO - Setting chamber_heater4 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:07 - INFO - Setting chamber_heater5 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:07 - INFO - Setting chamber_heater5 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:07 - INFO - Setting chamber_heater6 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:07 - INFO - Setting chamber_heater6 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:07 - INFO - Setting chamber_heater7 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:07 - INFO - Setting chamber_heater7 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:07 - INFO - Setting chamber_heater11 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:07 - INFO - Setting chamber_heater11 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:07 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 0 for chamber setpoint of 0 with timeout of 5s...
+11-10-2024 13:58:08 - INFO - Setting chamber_heater12 Heater Temp to 0 for chamber setpoint of 0 request successfully sent.
+11-10-2024 13:58:08 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:08 - INFO - Setting chamber_heater12 Heater Temp to 0 for chamber setpoint of 0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 157.2978 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater2 Heater Temp to 157.2978 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater2 Heater Temp to 157.2978 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 157.2978 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater3 Heater Temp to 157.2978 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater3 Heater Temp to 157.2978 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 157.2978 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater4 Heater Temp to 157.2978 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater4 Heater Temp to 157.2978 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 142.5147 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater5 Heater Temp to 142.5147 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater5 Heater Temp to 142.5147 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 142.5147 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater6 Heater Temp to 142.5147 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater6 Heater Temp to 142.5147 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 142.5147 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater7 Heater Temp to 142.5147 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater7 Heater Temp to 142.5147 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 142.5147 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater11 Heater Temp to 142.5147 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater11 Heater Temp to 142.5147 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:10 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 142.5147 for chamber setpoint of 75.0 with timeout of 5s...
+11-10-2024 13:58:10 - INFO - Setting chamber_heater12 Heater Temp to 142.5147 for chamber setpoint of 75.0 request successfully sent.
+11-10-2024 13:58:10 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:10 - INFO - Setting chamber_heater12 Heater Temp to 142.5147 for chamber setpoint of 75.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 173.2058 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater2 Heater Temp to 173.2058 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater2 Heater Temp to 173.2058 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 173.2058 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater3 Heater Temp to 173.2058 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater3 Heater Temp to 173.2058 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 173.2058 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater4 Heater Temp to 173.2058 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater4 Heater Temp to 173.2058 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater5 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater5 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater6 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater6 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater7 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater7 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater11 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater11 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:15 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 with timeout of 5s...
+11-10-2024 13:58:15 - INFO - Setting chamber_heater12 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 request successfully sent.
+11-10-2024 13:58:15 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:15 - INFO - Setting chamber_heater12 Heater Temp to 156.65269999999998 for chamber setpoint of 80.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater2 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater2 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater3 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater3 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater4 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater4 Heater Temp to 189.24379999999996 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 170.9407 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater5 Heater Temp to 170.9407 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater5 Heater Temp to 170.9407 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 170.9407 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater6 Heater Temp to 170.9407 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater6 Heater Temp to 170.9407 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 170.9407 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater7 Heater Temp to 170.9407 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater7 Heater Temp to 170.9407 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 170.9407 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater11 Heater Temp to 170.9407 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater11 Heater Temp to 170.9407 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:20 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 170.9407 for chamber setpoint of 85.0 with timeout of 5s...
+11-10-2024 13:58:20 - INFO - Setting chamber_heater12 Heater Temp to 170.9407 for chamber setpoint of 85.0 request successfully sent.
+11-10-2024 13:58:20 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:20 - INFO - Setting chamber_heater12 Heater Temp to 170.9407 for chamber setpoint of 85.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater2 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater2 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater3 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater3 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater4 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater4 Heater Temp to 205.41179999999997 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater5 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater5 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater6 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater6 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater7 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater7 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater11 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater11 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:25 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 with timeout of 5s...
+11-10-2024 13:58:25 - INFO - Setting chamber_heater12 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 request successfully sent.
+11-10-2024 13:58:25 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:25 - INFO - Setting chamber_heater12 Heater Temp to 185.37870000000004 for chamber setpoint of 90.0 Request successfully executed.
+11-10-2024 13:58:30 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:30 - INFO - Setting chamber_heater2 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:30 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:30 - INFO - Setting chamber_heater2 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:30 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:30 - INFO - Setting chamber_heater3 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:30 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:30 - INFO - Setting chamber_heater3 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:30 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:30 - INFO - Setting chamber_heater4 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:30 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:30 - INFO - Setting chamber_heater4 Heater Temp to 221.70979999999997 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:30 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 199.9667 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:30 - INFO - Setting chamber_heater5 Heater Temp to 199.9667 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:30 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:30 - INFO - Setting chamber_heater5 Heater Temp to 199.9667 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:30 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 199.9667 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:31 - INFO - Setting chamber_heater6 Heater Temp to 199.9667 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:31 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:31 - INFO - Setting chamber_heater6 Heater Temp to 199.9667 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:31 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 199.9667 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:31 - INFO - Setting chamber_heater7 Heater Temp to 199.9667 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:31 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:31 - INFO - Setting chamber_heater7 Heater Temp to 199.9667 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:31 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 199.9667 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:31 - INFO - Setting chamber_heater11 Heater Temp to 199.9667 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:31 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:31 - INFO - Setting chamber_heater11 Heater Temp to 199.9667 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:31 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 199.9667 for chamber setpoint of 95.0 with timeout of 5s...
+11-10-2024 13:58:31 - INFO - Setting chamber_heater12 Heater Temp to 199.9667 for chamber setpoint of 95.0 request successfully sent.
+11-10-2024 13:58:31 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:31 - INFO - Setting chamber_heater12 Heater Temp to 199.9667 for chamber setpoint of 95.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater2 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater2 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater3 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater3 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater4 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater4 Heater Temp to 238.13780000000003 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 214.7047 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater5 Heater Temp to 214.7047 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater5 Heater Temp to 214.7047 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 214.7047 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater6 Heater Temp to 214.7047 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater6 Heater Temp to 214.7047 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 214.7047 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater7 Heater Temp to 214.7047 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater7 Heater Temp to 214.7047 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 214.7047 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater11 Heater Temp to 214.7047 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater11 Heater Temp to 214.7047 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:36 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 214.7047 for chamber setpoint of 100.0 with timeout of 5s...
+11-10-2024 13:58:36 - INFO - Setting chamber_heater12 Heater Temp to 214.7047 for chamber setpoint of 100.0 request successfully sent.
+11-10-2024 13:58:36 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:36 - INFO - Setting chamber_heater12 Heater Temp to 214.7047 for chamber setpoint of 100.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater2 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater2 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater3 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater3 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater4 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater4 Heater Temp to 254.69580000000002 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater5 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater5 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater6 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater6 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater7 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater7 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater11 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater11 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:41 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 with timeout of 5s...
+11-10-2024 13:58:41 - INFO - Setting chamber_heater12 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 request successfully sent.
+11-10-2024 13:58:41 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:41 - INFO - Setting chamber_heater12 Heater Temp to 229.59270000000004 for chamber setpoint of 105.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 271.3838 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater2 Heater Temp to 271.3838 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater2 Heater Temp to 271.3838 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 271.3838 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater3 Heater Temp to 271.3838 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater3 Heater Temp to 271.3838 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 271.3838 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater4 Heater Temp to 271.3838 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater4 Heater Temp to 271.3838 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater5 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater5 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater6 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater6 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater7 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater7 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater11 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater11 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:46 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 with timeout of 5s...
+11-10-2024 13:58:46 - INFO - Setting chamber_heater12 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 request successfully sent.
+11-10-2024 13:58:46 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:46 - INFO - Setting chamber_heater12 Heater Temp to 244.63070000000005 for chamber setpoint of 110.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 288.2018 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater2 Heater Temp to 288.2018 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater2 Heater Temp to 288.2018 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 288.2018 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater3 Heater Temp to 288.2018 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater3 Heater Temp to 288.2018 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 288.2018 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater4 Heater Temp to 288.2018 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater4 Heater Temp to 288.2018 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater5 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater5 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater6 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater6 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater7 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater7 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater11 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater11 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:51 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 with timeout of 5s...
+11-10-2024 13:58:51 - INFO - Setting chamber_heater12 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 request successfully sent.
+11-10-2024 13:58:51 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:51 - INFO - Setting chamber_heater12 Heater Temp to 259.81870000000004 for chamber setpoint of 115.0 Request successfully executed.
+11-10-2024 13:58:56 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 305.1498 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater2 Heater Temp to 305.1498 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater2 Heater Temp to 305.1498 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:58:57 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 305.1498 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater3 Heater Temp to 305.1498 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater3 Heater Temp to 305.1498 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:58:57 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 305.1498 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater4 Heater Temp to 305.1498 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater4 Heater Temp to 305.1498 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:58:57 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 275.1567 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater5 Heater Temp to 275.1567 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater5 Heater Temp to 275.1567 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:58:57 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 275.1567 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater6 Heater Temp to 275.1567 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater6 Heater Temp to 275.1567 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:58:57 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 275.1567 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater7 Heater Temp to 275.1567 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater7 Heater Temp to 275.1567 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:58:57 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 275.1567 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater11 Heater Temp to 275.1567 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater11 Heater Temp to 275.1567 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:58:57 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 275.1567 for chamber setpoint of 120.0 with timeout of 5s...
+11-10-2024 13:58:57 - INFO - Setting chamber_heater12 Heater Temp to 275.1567 for chamber setpoint of 120.0 request successfully sent.
+11-10-2024 13:58:57 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:58:57 - INFO - Setting chamber_heater12 Heater Temp to 275.1567 for chamber setpoint of 120.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 322.2278 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater2 Heater Temp to 322.2278 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater2 Heater Temp to 322.2278 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 322.2278 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater3 Heater Temp to 322.2278 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater3 Heater Temp to 322.2278 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 322.2278 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater4 Heater Temp to 322.2278 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater4 Heater Temp to 322.2278 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 290.6447 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater5 Heater Temp to 290.6447 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater5 Heater Temp to 290.6447 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 290.6447 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater6 Heater Temp to 290.6447 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater6 Heater Temp to 290.6447 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 290.6447 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater7 Heater Temp to 290.6447 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater7 Heater Temp to 290.6447 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 290.6447 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater11 Heater Temp to 290.6447 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater11 Heater Temp to 290.6447 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:02 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 290.6447 for chamber setpoint of 125.0 with timeout of 5s...
+11-10-2024 13:59:02 - INFO - Setting chamber_heater12 Heater Temp to 290.6447 for chamber setpoint of 125.0 request successfully sent.
+11-10-2024 13:59:02 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:02 - INFO - Setting chamber_heater12 Heater Temp to 290.6447 for chamber setpoint of 125.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater2 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater2 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater2 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater3 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater3 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater3 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater4 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater4 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater4 Heater Temp to 339.43580000000003 for chamber setpoint of 130.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater5 Heater Temp to 306.2827 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater5 Heater Temp to 306.2827 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater5 Heater Temp to 306.2827 for chamber setpoint of 130.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater6 Heater Temp to 306.2827 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater6 Heater Temp to 306.2827 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater6 Heater Temp to 306.2827 for chamber setpoint of 130.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater7 Heater Temp to 306.2827 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater7 Heater Temp to 306.2827 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater7 Heater Temp to 306.2827 for chamber setpoint of 130.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater11 Heater Temp to 306.2827 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater11 Heater Temp to 306.2827 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater11 Heater Temp to 306.2827 for chamber setpoint of 130.0 Request successfully executed.
+11-10-2024 13:59:07 - INFO - Sending request to Setting chamber_heater12 Heater Temp to 306.2827 for chamber setpoint of 130.0 with timeout of 5s...
+11-10-2024 13:59:07 - INFO - Setting chamber_heater12 Heater Temp to 306.2827 for chamber setpoint of 130.0 request successfully sent.
+11-10-2024 13:59:07 - INFO - Response from moonraker: {'result': 'ok'}
+11-10-2024 13:59:07 - INFO - Setting chamber_heater12 Heater Temp to 306.2827 for chamber setpoint of 130.0 Request successfully executed.

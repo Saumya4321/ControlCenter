@@ -1,0 +1,98 @@
+07-11-2024 12:15:58 - INFO - Count value updated in GUI!
+07-11-2024 12:16:05 - INFO - Sending request to Homing Z axis - command 1/4 with timeout of 360s...
+07-11-2024 12:17:05 - ERROR - E104: Error while executing Homing Z axis - command 1/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G28+Z0
+07-11-2024 12:17:05 - INFO - Sending request to Homing Z axis - command 2/4 with timeout of 360s...
+07-11-2024 12:18:05 - ERROR - E104: Error while executing Homing Z axis - command 2/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G90
+07-11-2024 12:18:05 - INFO - Sending request to Homing Z axis - command 3/4 with timeout of 360s...
+07-11-2024 12:19:05 - ERROR - E104: Error while executing Homing Z axis - command 3/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G0+Z0
+07-11-2024 12:19:05 - INFO - Sending request to Homing Z axis - command 4/4 with timeout of 360s...
+07-11-2024 12:19:46 - INFO - Homing Z axis - command 4/4 request successfully sent.
+07-11-2024 12:19:46 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:19:46 - INFO - Homing Z axis - command 4/4 Request successfully executed.
+07-11-2024 12:21:46 - INFO - Sending request to Recoater go LEFT with timeout of 5s...
+07-11-2024 12:21:51 - INFO - Recoater go LEFT request successfully sent.
+07-11-2024 12:21:51 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:21:51 - INFO - Recoater go LEFT Request successfully executed.
+07-11-2024 12:21:56 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 12:21:58 - INFO - pre-layer-gcodes request successfully sent.
+07-11-2024 12:21:58 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:21:58 - INFO - pre-layer-gcodes Request successfully executed.
+07-11-2024 12:21:58 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 12:21:59 - INFO - pre-layer-gcodes request successfully sent.
+07-11-2024 12:21:59 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:21:59 - INFO - pre-layer-gcodes Request successfully executed.
+07-11-2024 12:21:59 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 12:22:03 - INFO - pre-layer-gcodes request successfully sent.
+07-11-2024 12:22:03 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:03 - INFO - pre-layer-gcodes Request successfully executed.
+07-11-2024 12:22:03 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+07-11-2024 12:22:03 - INFO - Moving left hopper motors 0.1mm - stage 1 request successfully sent.
+07-11-2024 12:22:03 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:03 - INFO - Moving left hopper motors 0.1mm - stage 1 Request successfully executed.
+07-11-2024 12:22:03 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+07-11-2024 12:22:03 - INFO - Dwell for 100.0 request successfully sent.
+07-11-2024 12:22:03 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:03 - INFO - Dwell for 100.0 Request successfully executed.
+07-11-2024 12:22:03 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+07-11-2024 12:22:03 - INFO - Moving left hopper motors - stage 2 request successfully sent.
+07-11-2024 12:22:03 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:03 - INFO - Moving left hopper motors - stage 2 Request successfully executed.
+07-11-2024 12:22:05 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+07-11-2024 12:22:09 - INFO - Recoater go RIGHT request successfully sent.
+07-11-2024 12:22:09 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:09 - INFO - Recoater go RIGHT Request successfully executed.
+07-11-2024 12:22:14 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 12:22:17 - INFO - pre-layer-gcodes request successfully sent.
+07-11-2024 12:22:17 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:17 - INFO - pre-layer-gcodes Request successfully executed.
+07-11-2024 12:22:17 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 12:22:18 - INFO - pre-layer-gcodes request successfully sent.
+07-11-2024 12:22:18 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:18 - INFO - pre-layer-gcodes Request successfully executed.
+07-11-2024 12:22:18 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 12:22:22 - INFO - pre-layer-gcodes request successfully sent.
+07-11-2024 12:22:22 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:22 - INFO - pre-layer-gcodes Request successfully executed.
+07-11-2024 12:22:22 - INFO - Sending request to Moving right hopper motor 0.1mm - stage 1 with timeout of 5s...
+07-11-2024 12:22:22 - INFO - Moving right hopper motor 0.1mm - stage 1 request successfully sent.
+07-11-2024 12:22:22 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:22 - INFO - Moving right hopper motor 0.1mm - stage 1 Request successfully executed.
+07-11-2024 12:22:22 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+07-11-2024 12:22:22 - INFO - Dwell for 100.0 request successfully sent.
+07-11-2024 12:22:22 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:22 - INFO - Dwell for 100.0 Request successfully executed.
+07-11-2024 12:22:22 - INFO - Sending request to Moving right hopper motors - stage 2 with timeout of 5s...
+07-11-2024 12:22:22 - INFO - Moving right hopper motors - stage 2 request successfully sent.
+07-11-2024 12:22:22 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:22 - INFO - Moving right hopper motors - stage 2 Request successfully executed.
+07-11-2024 12:22:24 - INFO - Sending request to Recoater go LEFT with timeout of 5s...
+07-11-2024 12:22:28 - INFO - Recoater go LEFT request successfully sent.
+07-11-2024 12:22:28 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:28 - INFO - Recoater go LEFT Request successfully executed.
+07-11-2024 12:22:33 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+07-11-2024 12:22:33 - INFO - Moving left hopper motors 0.1mm - stage 1 request successfully sent.
+07-11-2024 12:22:33 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:33 - INFO - Moving left hopper motors 0.1mm - stage 1 Request successfully executed.
+07-11-2024 12:22:33 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+07-11-2024 12:22:33 - INFO - Dwell for 100.0 request successfully sent.
+07-11-2024 12:22:33 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:33 - INFO - Dwell for 100.0 Request successfully executed.
+07-11-2024 12:22:33 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+07-11-2024 12:22:33 - INFO - Moving left hopper motors - stage 2 request successfully sent.
+07-11-2024 12:22:33 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:33 - INFO - Moving left hopper motors - stage 2 Request successfully executed.
+07-11-2024 12:22:35 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+07-11-2024 12:22:39 - INFO - Recoater go RIGHT request successfully sent.
+07-11-2024 12:22:39 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:39 - INFO - Recoater go RIGHT Request successfully executed.
+07-11-2024 12:22:44 - INFO - Sending request to Turning on heater with timeout of 5s...
+07-11-2024 12:22:44 - INFO - Turning on heater request successfully sent.
+07-11-2024 12:22:44 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:44 - INFO - Turning on heater Request successfully executed.
+07-11-2024 12:22:45 - INFO - Sending request to Turning off heater with timeout of 5s...
+07-11-2024 12:22:45 - INFO - Turning off heater request successfully sent.
+07-11-2024 12:22:45 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 12:22:45 - INFO - Turning off heater Request successfully executed.

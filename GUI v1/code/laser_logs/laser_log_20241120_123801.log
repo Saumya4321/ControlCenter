@@ -1,0 +1,220 @@
+20-11-2024 12:41:19 - INFO - Opening directory D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model...
+20-11-2024 12:41:19 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+20-11-2024 12:41:19 - INFO - Loaded file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd...
+20-11-2024 12:41:19 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model2.emd...
+20-11-2024 12:41:19 - INFO - Processing file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model3.emd...
+20-11-2024 12:41:19 - INFO - Total number of layers: 3
+20-11-2024 12:48:51 - INFO - Scancard process started for layer 
+20-11-2024 12:48:51 - INFO - Opening file-> Connecting to localhost:50000...
+20-11-2024 12:48:53 - ERROR - E200 - Opening file not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:48:53 - INFO - File D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model10.emd opened...
+20-11-2024 12:48:53 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+20-11-2024 12:48:55 - ERROR - E200 - setting mark parameters by layer not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:48:56 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+20-11-2024 12:48:58 - ERROR - E200 - Downloading Parameters not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:48:59 - INFO - Start marking-> Connecting to localhost:50000...
+20-11-2024 12:49:01 - ERROR - E200 - Start marking not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:02 - INFO - Marking process for Layer  started...
+20-11-2024 12:49:03 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:05 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:06 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:08 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:09 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:11 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:12 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:14 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:15 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:17 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:18 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:20 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:21 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:23 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:24 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:26 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:27 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:29 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:30 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:32 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:33 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:35 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:36 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:38 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:39 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:41 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:42 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:44 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:45 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:47 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:48 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:50 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:52 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:54 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:55 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:49:57 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:49:58 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:00 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:50:01 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:03 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:50:04 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:06 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:50:07 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:09 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:50:10 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:12 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:50:13 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:15 - ERROR - E200 - getting working status not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+20-11-2024 12:50:16 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:16 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:16 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+20-11-2024 12:50:16 - INFO - Marking process for Layer  over
+20-11-2024 12:50:16 - INFO - Stop marking-> Connecting to localhost:50000...
+20-11-2024 12:50:16 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:16 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+20-11-2024 12:50:46 - INFO - Scancard process started for layer 
+20-11-2024 12:50:46 - INFO - Opening file-> Connecting to localhost:50000...
+20-11-2024 12:50:46 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\\test_model1.emd'}} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:46 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+20-11-2024 12:50:46 - INFO - File D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd opened...
+20-11-2024 12:50:46 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+20-11-2024 12:50:46 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:48 - INFO - setting mark parameters by layer-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+20-11-2024 12:50:49 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+20-11-2024 12:50:49 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:49 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+20-11-2024 12:50:50 - INFO - Start marking-> Connecting to localhost:50000...
+20-11-2024 12:50:50 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:50 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+20-11-2024 12:50:51 - INFO - Marking process for Layer  started...
+20-11-2024 12:50:52 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:50:52 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:52 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+20-11-2024 12:50:52 - INFO - Marking process for Layer  over
+20-11-2024 12:50:52 - INFO - Stop marking-> Connecting to localhost:50000...
+20-11-2024 12:50:52 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+20-11-2024 12:50:52 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}
+20-11-2024 12:51:20 - INFO - Scancard process started for layer 
+20-11-2024 12:51:20 - INFO - Opening file-> Connecting to localhost:50000...
+20-11-2024 12:51:20 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\\test_model1.emd'}} to localhost:50000 with timeout of 5s
+20-11-2024 12:51:20 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+20-11-2024 12:51:20 - INFO - File D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/test_model\test_model1.emd opened...
+20-11-2024 12:51:20 - INFO - setting mark parameters by layer-> Connecting to localhost:50000...
+20-11-2024 12:51:20 - INFO - setting mark parameters by layer-> Sending {'sid': 0, 'cmd': 'set_markparameters_by_layer', 'data': {'layer': 0, 'markSpeed': 3000, 'jumpSpeed': 5000, 'jumpDelay': 100, 'laserOnDelay': 100, 'polygonDelay': 100, 'laserOffDelay': 100, 'polygonKillerTime': 100, 'laserFrequency': 30, 'current': 100, 'firstPulseKillerLength': 100, 'pulseWidth': 100, 'firstPulseWidth': 100, 'incrementStep': 100}} to localhost:50000 with timeout of 5s
+20-11-2024 12:51:21 - INFO - setting mark parameters by layer-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+20-11-2024 12:51:22 - INFO - Downloading Parameters-> Connecting to localhost:50000...
+20-11-2024 12:51:22 - INFO - Downloading Parameters-> Sending {'sid': 0, 'cmd': 'download_parameters'} to localhost:50000 with timeout of 5s
+20-11-2024 12:51:22 - INFO - Downloading Parameters-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "download_parameters",
+    "ret": 1
+}
+20-11-2024 12:51:23 - INFO - Start marking-> Connecting to localhost:50000...
+20-11-2024 12:51:23 - INFO - Start marking-> Sending {'sid': 0, 'cmd': 'start_mark'} to localhost:50000 with timeout of 5s
+20-11-2024 12:51:23 - INFO - Start marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "start_mark",
+    "ret": 1
+}
+20-11-2024 12:51:24 - INFO - Marking process for Layer  started...
+20-11-2024 12:51:25 - INFO - getting working status-> Connecting to localhost:50000...
+20-11-2024 12:51:25 - INFO - getting working status-> Sending {'sid': 0, 'cmd': 'get_working_status'} to localhost:50000 with timeout of 5s
+20-11-2024 12:51:25 - INFO - getting working status-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "get_working_status",
+    "ret": 0,
+    "data": {
+        "laser_status": 2,
+        "describe": "等待"
+    }
+}
+20-11-2024 12:51:25 - INFO - Marking process for Layer  over
+20-11-2024 12:51:25 - INFO - Stop marking-> Connecting to localhost:50000...
+20-11-2024 12:51:25 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+20-11-2024 12:51:25 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}

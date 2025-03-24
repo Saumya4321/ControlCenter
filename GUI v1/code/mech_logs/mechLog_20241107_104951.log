@@ -1,0 +1,62 @@
+07-11-2024 10:50:17 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:50:17 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:50:17 - INFO - Laser Window CLOSE Request successfully executed.
+07-11-2024 10:50:17 - INFO - Laser Window CLOSED!
+07-11-2024 10:50:24 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+07-11-2024 10:50:24 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:50:24 - INFO - Laser Window OPEN Request successfully executed.
+07-11-2024 10:50:24 - INFO - Laser Window OPENED!
+07-11-2024 10:50:36 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:50:36 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:50:36 - INFO - Laser Window CLOSE Request successfully executed.
+07-11-2024 10:50:36 - INFO - Laser Window CLOSED!
+07-11-2024 10:50:42 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+07-11-2024 10:50:42 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:50:42 - INFO - Laser Window OPEN Request successfully executed.
+07-11-2024 10:50:42 - INFO - Laser Window OPENED!
+07-11-2024 10:51:02 - INFO - Count value updated in GUI!
+07-11-2024 10:51:12 - INFO - Sending request to Homing Z axis with timeout of 10s...
+07-11-2024 10:51:22 - ERROR - E102 : Homing Z axis Request to Moonraker Timed out 
+ Homing Z axis not successful
+07-11-2024 10:51:22 - INFO - Sending request to Homing Z axis with timeout of 10s...
+07-11-2024 10:51:32 - ERROR - E102 : Homing Z axis Request to Moonraker Timed out 
+ Homing Z axis not successful
+07-11-2024 10:51:32 - INFO - Sending request to Homing Z axis with timeout of 10s...
+07-11-2024 10:51:42 - ERROR - E102 : Homing Z axis Request to Moonraker Timed out 
+ Homing Z axis not successful
+07-11-2024 10:51:42 - INFO - Sending request to Homing Z axis with timeout of 10s...
+07-11-2024 10:51:52 - ERROR - E102 : Homing Z axis Request to Moonraker Timed out 
+ Homing Z axis not successful
+07-11-2024 10:51:52 - INFO - Sending Z position query to printer...
+07-11-2024 10:51:53 - INFO - Request successful. Parsing JSON response...
+07-11-2024 10:51:53 - INFO - Z position: -268.025
+07-11-2024 10:51:53 - INFO - Sending request to Recoater go LEFT with timeout of 5s...
+07-11-2024 10:51:58 - ERROR - E102 : Recoater go LEFT Request to Moonraker Timed out 
+ Recoater go LEFT not successful
+07-11-2024 10:51:58 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 10:52:03 - ERROR - E102 : pre-layer-gcodes Request to Moonraker Timed out 
+ pre-layer-gcodes not successful
+07-11-2024 10:52:03 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 10:52:08 - ERROR - E102 : pre-layer-gcodes Request to Moonraker Timed out 
+ pre-layer-gcodes not successful
+07-11-2024 10:52:08 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+07-11-2024 10:52:13 - ERROR - E102 : pre-layer-gcodes Request to Moonraker Timed out 
+ pre-layer-gcodes not successful
+07-11-2024 10:52:13 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+07-11-2024 10:52:18 - ERROR - E102 : Moving left hopper motors 0.1mm - stage 1 Request to Moonraker Timed out 
+ Moving left hopper motors 0.1mm - stage 1 not successful
+07-11-2024 10:52:18 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+07-11-2024 10:52:23 - ERROR - E102 : Dwell for 100.0 Request to Moonraker Timed out 
+ Dwell for 100.0 not successful
+07-11-2024 10:52:23 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+07-11-2024 10:52:28 - ERROR - E102 : Moving left hopper motors - stage 2 Request to Moonraker Timed out 
+ Moving left hopper motors - stage 2 not successful
+07-11-2024 10:52:28 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+07-11-2024 10:52:33 - ERROR - E102 : Recoater go RIGHT Request to Moonraker Timed out 
+ Recoater go RIGHT not successful
+07-11-2024 10:56:48 - INFO - Emergency stop request successfully sent.
+07-11-2024 10:56:48 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:56:48 - INFO - Emergency stop Request successfully executed.
+07-11-2024 10:56:56 - INFO - mechanical Firmware restart request successfully sent.
+07-11-2024 10:56:56 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:56:56 - INFO - mechanical Firmware restart Request successfully executed.

@@ -1,0 +1,129 @@
+20-11-2024 12:42:47 - INFO - Sending request to Homing Z axis - command 1/4 with timeout of 360s...
+20-11-2024 12:43:47 - ERROR - E104: Error while executing Homing Z axis - command 1/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G28+Z0
+20-11-2024 12:43:47 - INFO - Sending request to Homing Z axis - command 2/4 with timeout of 360s...
+20-11-2024 12:44:47 - ERROR - E104: Error while executing Homing Z axis - command 2/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G90
+20-11-2024 12:44:47 - INFO - Sending request to Homing Z axis - command 3/4 with timeout of 360s...
+20-11-2024 12:45:47 - ERROR - E104: Error while executing Homing Z axis - command 3/4 
+ 504 Server Error: Gateway Time-out for url: http://192.168.0.231/printer/gcode/script?script=G0+Z0
+20-11-2024 12:45:47 - INFO - Sending request to Homing Z axis - command 4/4 with timeout of 360s...
+20-11-2024 12:46:28 - INFO - Homing Z axis - command 4/4 request successfully sent.
+20-11-2024 12:46:28 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:46:28 - INFO - Homing Z axis - command 4/4 Request successfully executed.
+20-11-2024 12:46:28 - INFO - Delay of 105 s
+20-11-2024 12:48:13 - INFO - Sending request to Recoater go LEFT with timeout of 5s...
+20-11-2024 12:48:17 - INFO - Recoater go LEFT request successfully sent.
+20-11-2024 12:48:17 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:17 - INFO - Recoater go LEFT Request successfully executed.
+20-11-2024 12:48:22 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:48:24 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:48:24 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:24 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:48:24 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:48:25 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:48:25 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:25 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:48:25 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:48:29 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:48:29 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:29 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:48:29 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+20-11-2024 12:48:30 - INFO - Moving left hopper motors 0.1mm - stage 1 request successfully sent.
+20-11-2024 12:48:30 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:30 - INFO - Moving left hopper motors 0.1mm - stage 1 Request successfully executed.
+20-11-2024 12:48:30 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+20-11-2024 12:48:32 - INFO - Dwell for 100.0 request successfully sent.
+20-11-2024 12:48:32 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:32 - INFO - Dwell for 100.0 Request successfully executed.
+20-11-2024 12:48:32 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+20-11-2024 12:48:32 - INFO - Moving left hopper motors - stage 2 request successfully sent.
+20-11-2024 12:48:32 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:32 - INFO - Moving left hopper motors - stage 2 Request successfully executed.
+20-11-2024 12:48:42 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+20-11-2024 12:48:46 - INFO - Recoater go RIGHT request successfully sent.
+20-11-2024 12:48:46 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:48:46 - INFO - Recoater go RIGHT Request successfully executed.
+20-11-2024 12:48:51 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+20-11-2024 12:48:51 - INFO - Laser Window close request successfully sent.
+20-11-2024 12:48:51 - INFO - Laser Window OPEN Request successfully executed.
+20-11-2024 12:48:51 - INFO - Laser Window OPENED!
+20-11-2024 12:50:16 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+20-11-2024 12:50:16 - INFO - Laser Window close request successfully sent.
+20-11-2024 12:50:16 - INFO - Laser Window CLOSE Request successfully executed.
+20-11-2024 12:50:16 - INFO - Laser Window CLOSED!
+20-11-2024 12:50:16 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:50:20 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:50:20 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:20 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:50:20 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:50:21 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:50:21 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:21 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:50:21 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:50:25 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:50:25 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:25 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:50:25 - INFO - Sending request to Moving right hopper motor 0.1mm - stage 1 with timeout of 5s...
+20-11-2024 12:50:25 - INFO - Moving right hopper motor 0.1mm - stage 1 request successfully sent.
+20-11-2024 12:50:25 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:25 - INFO - Moving right hopper motor 0.1mm - stage 1 Request successfully executed.
+20-11-2024 12:50:25 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+20-11-2024 12:50:27 - INFO - Dwell for 100.0 request successfully sent.
+20-11-2024 12:50:27 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:27 - INFO - Dwell for 100.0 Request successfully executed.
+20-11-2024 12:50:27 - INFO - Sending request to Moving right hopper motors - stage 2 with timeout of 5s...
+20-11-2024 12:50:27 - INFO - Moving right hopper motors - stage 2 request successfully sent.
+20-11-2024 12:50:27 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:27 - INFO - Moving right hopper motors - stage 2 Request successfully executed.
+20-11-2024 12:50:37 - INFO - Sending request to Recoater go LEFT with timeout of 5s...
+20-11-2024 12:50:41 - INFO - Recoater go LEFT request successfully sent.
+20-11-2024 12:50:41 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:41 - INFO - Recoater go LEFT Request successfully executed.
+20-11-2024 12:50:46 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+20-11-2024 12:50:46 - INFO - Laser Window close request successfully sent.
+20-11-2024 12:50:46 - INFO - Laser Window OPEN Request successfully executed.
+20-11-2024 12:50:46 - INFO - Laser Window OPENED!
+20-11-2024 12:50:52 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+20-11-2024 12:50:52 - INFO - Laser Window close request successfully sent.
+20-11-2024 12:50:52 - INFO - Laser Window CLOSE Request successfully executed.
+20-11-2024 12:50:52 - INFO - Laser Window CLOSED!
+20-11-2024 12:50:52 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:50:56 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:50:56 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:56 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:50:56 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:50:57 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:50:57 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:50:57 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:50:57 - INFO - Sending request to pre-layer-gcodes with timeout of 5s...
+20-11-2024 12:51:01 - INFO - pre-layer-gcodes request successfully sent.
+20-11-2024 12:51:01 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:51:01 - INFO - pre-layer-gcodes Request successfully executed.
+20-11-2024 12:51:01 - INFO - Sending request to Moving left hopper motors 0.1mm - stage 1 with timeout of 5s...
+20-11-2024 12:51:01 - INFO - Moving left hopper motors 0.1mm - stage 1 request successfully sent.
+20-11-2024 12:51:01 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:51:01 - INFO - Moving left hopper motors 0.1mm - stage 1 Request successfully executed.
+20-11-2024 12:51:01 - INFO - Sending request to Dwell for 100.0 with timeout of 5s...
+20-11-2024 12:51:01 - INFO - Dwell for 100.0 request successfully sent.
+20-11-2024 12:51:01 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:51:01 - INFO - Dwell for 100.0 Request successfully executed.
+20-11-2024 12:51:01 - INFO - Sending request to Moving left hopper motors - stage 2 with timeout of 5s...
+20-11-2024 12:51:01 - INFO - Moving left hopper motors - stage 2 request successfully sent.
+20-11-2024 12:51:01 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:51:01 - INFO - Moving left hopper motors - stage 2 Request successfully executed.
+20-11-2024 12:51:11 - INFO - Sending request to Recoater go RIGHT with timeout of 5s...
+20-11-2024 12:51:15 - INFO - Recoater go RIGHT request successfully sent.
+20-11-2024 12:51:15 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:51:15 - INFO - Recoater go RIGHT Request successfully executed.
+20-11-2024 12:51:20 - INFO - Sending Laser Window OPEN request with timeout of 5s...
+20-11-2024 12:51:20 - INFO - Laser Window close request successfully sent.
+20-11-2024 12:51:20 - INFO - Laser Window OPEN Request successfully executed.
+20-11-2024 12:51:20 - INFO - Laser Window OPENED!
+20-11-2024 12:51:25 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+20-11-2024 12:51:25 - INFO - Laser Window close request successfully sent.
+20-11-2024 12:51:25 - INFO - Laser Window CLOSE Request successfully executed.
+20-11-2024 12:51:25 - INFO - Laser Window CLOSED!
+20-11-2024 12:51:39 - INFO - Emergency stop request successfully sent.
+20-11-2024 12:51:39 - INFO - Response from moonraker: {'result': 'ok'}
+20-11-2024 12:51:39 - INFO - Emergency stop Request successfully executed.

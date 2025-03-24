@@ -1,0 +1,20 @@
+13-10-2024 17:42:18 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+13-10-2024 17:42:18 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+13-10-2024 17:42:18 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 17:42:18 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.
+13-10-2024 17:42:25 - INFO - Sending request to Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 with timeout of 5s...
+13-10-2024 17:42:25 - INFO - Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 request successfully sent.
+13-10-2024 17:42:25 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 17:42:25 - INFO - Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 Request successfully executed.
+13-10-2024 17:42:26 - INFO - Sending request to Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 with timeout of 5s...
+13-10-2024 17:42:26 - INFO - Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 request successfully sent.
+13-10-2024 17:42:26 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 17:42:26 - INFO - Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 Request successfully executed.
+13-10-2024 17:42:27 - INFO - Sending request to Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 with timeout of 5s...
+13-10-2024 17:42:27 - INFO - Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 request successfully sent.
+13-10-2024 17:42:27 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 17:42:27 - INFO - Setting Chmaber Zones to a= 0.7, b= 0.8, c= 0.9, d= 1.0 Request successfully executed.
+13-10-2024 17:42:31 - INFO - Sending request to Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 with timeout of 5s...
+13-10-2024 17:42:31 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 request successfully sent.
+13-10-2024 17:42:31 - INFO - Response from moonraker: {'result': 'ok'}
+13-10-2024 17:42:31 - INFO - Setting Chmaber Zones to a= 0, b= 0, c= 0, d= 0 Request successfully executed.

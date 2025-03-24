@@ -1,0 +1,64 @@
+13-10-2024 12:51:11 - INFO - Opening file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd...
+13-10-2024 12:55:54 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:55:56 - ERROR - E200 - Opening file not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+13-10-2024 12:56:16 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 12:56:18 - ERROR - E200 - Stop marking not successful 
+ [WinError 10061] No connection could be made because the target machine actively refused it
+13-10-2024 12:56:31 - INFO - Opening file D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd...
+13-10-2024 12:56:34 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:56:34 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 12:56:34 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 12:56:48 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:56:48 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 12:56:49 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 12:57:00 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:57:00 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 12:57:00 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 12:57:01 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:57:01 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 12:57:01 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 12:57:02 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:57:02 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 12:57:02 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 12:57:02 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:57:02 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 12:57:02 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 12:57:06 - INFO - Opening file-> Connecting to localhost:50000...
+13-10-2024 12:57:06 - INFO - Opening file-> Sending {'sid': 0, 'cmd': 'open_file', 'data': {'path': 'D:/Users/CP47017-1/Documents/GitHub/GUI/GUI v1/files/20mm square.emd'}} to localhost:50000 with timeout of 5s
+13-10-2024 12:57:06 - INFO - Opening file-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "open_file",
+    "ret": 1
+}
+13-10-2024 12:57:11 - INFO - Stop marking-> Connecting to localhost:50000...
+13-10-2024 12:57:11 - INFO - Stop marking-> Sending {'sid': 0, 'cmd': 'stop_mark'} to localhost:50000 with timeout of 5s
+13-10-2024 12:57:11 - INFO - Stop marking-> Response received from localhost:50000 - {
+    "sid": 0,
+    "cmd": "stop_mark",
+    "ret": 1
+}

@@ -1,0 +1,11 @@
+07-11-2024 10:36:18 - INFO - Emergency stop request successfully sent.
+07-11-2024 10:36:18 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:36:18 - INFO - Emergency stop Request successfully executed.
+07-11-2024 10:36:30 - INFO - mechanical Firmware restart request successfully sent.
+07-11-2024 10:36:30 - INFO - Response from moonraker: {'result': 'ok'}
+07-11-2024 10:36:30 - INFO - mechanical Firmware restart Request successfully executed.
+07-11-2024 10:36:50 - INFO - Sending Laser Window CLOSE request with timeout of 5s...
+07-11-2024 10:36:50 - INFO - Laser Window close request successfully sent.
+07-11-2024 10:36:50 - ERROR - E103: Error while getting/ reading response 
+ Close Laser Window not successful 
+ 'dict' object has no attribute 'json'

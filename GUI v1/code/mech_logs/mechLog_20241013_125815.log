@@ -1,0 +1,3 @@
+13-10-2024 12:58:28 - INFO - Sending request to Setting recoater speed with timeout of 5s...
+13-10-2024 12:58:28 - ERROR - E104: Error while executing Setting recoater speed 
+ 400 Client Error: The value 'recoater_pwm' is not valid for PIN for url: http://192.168.0.231/printer/gcode/script?script=SET_PIN+PIN%3Drecoater_pwm+VALUE%3D0.876
