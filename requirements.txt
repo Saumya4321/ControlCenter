@@ -12,3 +12,4 @@ cmapy
 simple_pid
 pyyaml
 pyqtgraph
+simple-pid

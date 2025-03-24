@@ -16,7 +16,7 @@ class HomeScreen(QWidget):
 
         # Load the UI file
         try:
-            uic.loadUi('src/ui/home_screen/home_screen.ui', self)
+            uic.loadUi('ui/home_screen/home_screen.ui', self)
             print("HomeScreen UI loaded successfully")
         except Exception as e:
             print(f"Failed to load UI file: {e}")
@@ -129,8 +129,20 @@ class HomeScreen(QWidget):
             self.max_temp_data.pop(0)
         self.max_temp_curve.setData(self.max_temp_data)
 
+
+
+###----------------- Loading files with QFileDialog -----------------###
     def load_file(self):
-        options = QFileDialog.Options()
-        file_path, _ = QFileDialog.getOpenFileName(self, "Open File", "", "All Files (*);;EMD Files (*.emd)", options=options)
-        if file_path:
-            self.main_window.open_scancard_file(file_path)
+        # options = QFileDialog.Options()
+        # file_path, _ = QFileDialog.getOpenFileName(self, "Open File", "", "All Files (*);;EMD Files (*.emd)", options=options)
+        # if file_path:
+        #     self.main_window.open_scancard_file(file_path)
+
+        print("Upload directory button clicked")
+        self.dirName = QFileDialog.getExistingDirectory(self, "Select Directory")
+
+        # if a directory is successfully selected
+        if self.dirName:
+            print(f"Opening directory {self.dirName}...")
+            #self.main_window.open_scancard_file(file_path)
+          

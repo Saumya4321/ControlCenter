@@ -51,7 +51,7 @@ class ControlScreen(QWidget):
 
     def load_ui(self):
         try:
-            uic.loadUi('src/ui/control_screen/control_screen.ui', self)
+            uic.loadUi('ui/control_screen/control_screen.ui', self)
             print("ControlScreen UI loaded successfully")
         except Exception as e:
             print(f"Failed to load ControlScreen UI: {e}")
