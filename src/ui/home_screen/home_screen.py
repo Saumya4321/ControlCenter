@@ -144,5 +144,5 @@ class HomeScreen(QWidget):
         # if a directory is successfully selected
         if self.dirName:
             print(f"Opening directory {self.dirName}...")
-            #self.main_window.open_scancard_file(file_path)
+            self.main_window.get_input_directory(self.dirName)
           

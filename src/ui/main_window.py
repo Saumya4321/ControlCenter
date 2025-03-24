@@ -17,6 +17,7 @@ if not Config.DEVELOPMENT_MODE:
 
 import ui.resources.resource_rc  # Ensure resources are loaded
 import traceback
+import os
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -134,6 +135,58 @@ class MainWindow(QMainWindow):
     def open_scancard_file(self, file_path: str):
         close_future = self.scancard.close_file()
         close_future.add_done_callback(lambda f: self._handle_close_file_result_and_open(f, file_path))
+
+    def set_file(self,file_path):
+        try:
+            self.file = file_path
+            if ".emd" not in self.file:
+                raise e
+        except Exception as e:
+            print("Invalid file format given - file is not a .emd file")
+        
+
+
+######## --------- Loading input directory function --------- ########
+
+    def get_input_directory(self, dirName):
+        print(f"Selected directory: {dirName}")
+        # Loop through all files in the selected directory
+        layer_count = 0
+        for filename in os.listdir(dirName):
+            try:
+                
+                file_path = os.path.join(dirName, filename)
+                # Check if it's a file (not a subdirectory)
+                if os.path.isfile(file_path):
+                    print(f"Processing file {file_path}...")
+
+                    # Call get_file or any relevant method to process each file
+
+                    if "emd" in filename:
+                        layer_count += 1
+
+                    # selecting only first layer file and loading it into scancard
+                        # print(filename)
+                        if "1." in filename:
+                            print("Got the first layer file")
+                            self.set_file(file_path)
+                            print(f"Loaded file {file_path}...")
+
+                    else:
+                        print(f"Invalid file format: {file_path}...")
+
+            except Exception as e:
+                print(f"Error: {e}...")
+        
+        # update layer count in parent
+
+        # self.parent.count = layer_count
+        print(f"Total number of layers: {layer_count}")
+
+        # update layer numbers in gui
+        # self.parent.update_layer_numbers()
+
+
 
     def _handle_close_file_result_and_open(self, future, file_path: str):
         try:
