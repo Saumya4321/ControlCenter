@@ -72,6 +72,9 @@ class MainWindow(QMainWindow):
         self.load_loading_screen()
         self.load_tab_screen()
         self.switch_screen(self.loading_screen)
+        self.layer_count = 0
+        self.file = None
+        self.current_layer = 0
 
         # Adjust the size of the main window to fit its contents
         self.adjustSize()
@@ -111,6 +114,11 @@ class MainWindow(QMainWindow):
         if frame is not None:
             self.printer_status.updateRGBFrame(frame)
 
+######## -------- Scancard functions -------- ########
+
+
+
+
     # Add methods to interact with Scancard
     def start_scancard_mark(self):
         self.scancard.start_mark()
@@ -128,7 +136,7 @@ class MainWindow(QMainWindow):
             status = future.result()
             self.printer_status.updateScancardStatus(status)
             self.control_screen.scanCardStatusLabel.setText("Status: " + self.printer_status.scancard_status)
-            # print(f"Scancard status: {self.printer_status.scancard_status}")
+          
         except Exception as e:
             print(f"Failed to update Scancard status: {e}")
 
@@ -139,6 +147,7 @@ class MainWindow(QMainWindow):
     def set_file(self,file_path):
         try:
             self.file = file_path
+            print(f"File: {self.file} has been selected")
             if ".emd" not in self.file:
                 raise e
         except Exception as e:
@@ -151,7 +160,7 @@ class MainWindow(QMainWindow):
     def get_input_directory(self, dirName):
         print(f"Selected directory: {dirName}")
         # Loop through all files in the selected directory
-        layer_count = 0
+        self.layer_count = 0
         for filename in os.listdir(dirName):
             try:
                 
@@ -163,7 +172,7 @@ class MainWindow(QMainWindow):
                     # Call get_file or any relevant method to process each file
 
                     if "emd" in filename:
-                        layer_count += 1
+                        self.layer_count += 1
 
                     # selecting only first layer file and loading it into scancard
                         # print(filename)
@@ -171,6 +180,7 @@ class MainWindow(QMainWindow):
                             print("Got the first layer file")
                             self.set_file(file_path)
                             print(f"Loaded file {file_path}...")
+                            self.current_layer = 1
 
                     else:
                         print(f"Invalid file format: {file_path}...")
@@ -180,11 +190,13 @@ class MainWindow(QMainWindow):
         
         # update layer count in parent
 
-        # self.parent.count = layer_count
-        print(f"Total number of layers: {layer_count}")
 
+        
+        print(f"Total number of layers: {self.layer_count}")
+
+        import time
         # update layer numbers in gui
-        # self.parent.update_layer_numbers()
+        time.sleep(2)
 
 
 
@@ -229,6 +241,24 @@ class MainWindow(QMainWindow):
     def update_file_info_label(self, file_path: str):
         self.home_screen.fileInfoLabel.setText(file_path)
 
+    def open_file(self):
+        self.open_scancard_file(self.file)
+
+
+    def pick_current_file(self):
+        # take layer number to be printed
+        print(f"Loading file for layer {self.present_layer}")
+        # open file
+        if self.current_layer == 1:
+            self.open_file(self.file)
+
+        else:
+            filename = self.file[:-4] + str(int(self.current_layer)+1) + ".emd"
+            print(f"Opening file {filename}")
+            self.open_file(filename)
+            self.current_layer += 1
+        
+
 class MockMoonrakerAPI:
     def __init__(self):
         print("MockMoonrakerAPI initialized")
@@ -255,7 +285,7 @@ class MockScancard:
         print("MockScancard.stop_mark called")
 
     def get_working_status(self):
-        print("MockScancard.get_working_status called")
+        # print("MockScancard.get_working_status called")
         return MockFuture()
 
     def open_file(self, file_path):
@@ -268,11 +298,11 @@ class MockScancard:
 
 class MockFuture:
     def add_done_callback(self, callback):
-        print("MockFuture.add_done_callback called")
+        # print("MockFuture.add_done_callback called")
         callback(self)
 
     def result(self):
-        print("MockFuture.result called")
+        # print("MockFuture.result called")
         return {"ret_value": 1}  # Simulated response
 
 

@@ -86,7 +86,8 @@ class HomeScreen(QWidget):
 
     @run_async  # Apply the run_async decorator
     def start_printing_sequence(self):
-        self.main_window.process_automation_controller.start_printing_sequence()
+        self.main_window.process_automation_controller.start_printing_sequence(self.main_window.layer_count)
+
 
     def toggle_printing(self):
         if self.playPauseButton.isChecked():

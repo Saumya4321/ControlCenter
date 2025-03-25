@@ -1,7 +1,7 @@
 from PyQt5.QtCore import QObject, pyqtSignal
 from utils.helpers import run_async
 import time
-
+from config import Config
 # TBD clean play pause process. use printer printing status to diferentiate between control and main printing sequence
 
 class ProcessAutomationController(QObject):
@@ -24,7 +24,16 @@ class ProcessAutomationController(QObject):
         self.set_motion_control_buttons_enabled(False)
         
         layerHeight = self.main_window.printer_status.layerHeight
+        
+        if Config.DEVELOPMENT_MODE:
+            layerHeight = 0.1
+
         initialLevellingHeight = self.main_window.printer_status.initialLevellingHeight
+        
+        if Config.DEVELOPMENT_MODE:
+            initialLevellingHeight = 0.5
+
+
         recoatCount = int(initialLevellingHeight / layerHeight)
         sequence = self.main_window.printer_status.initialLevellingRecoatingSequence
 
@@ -126,7 +135,7 @@ class ProcessAutomationController(QObject):
         self.set_motion_control_buttons_enabled(True)
 
     @run_async
-    def start_printing_sequence(self):
+    def start_printing_sequence(self, layer_count):
         """Start the main printing sequence."""
         self.set_motion_control_buttons_enabled(False)
         self.progress_update_signal.emit(0)
@@ -141,12 +150,15 @@ class ProcessAutomationController(QObject):
         self.progress_update_signal.emit(20)
         print("Heated Buffer Recoat done")
 
-        # Step 3 and 4: Mark laser and dose recoat layer until partHeight is achieved
-        layerHeight = self.main_window.printer_status.layerHeight
-        partHeight = self.main_window.printer_status.partHeight
-        recoatCount = int(partHeight / layerHeight)
+        ###### ---- Actual Printing Process ------- ######
 
-        for i in range(recoatCount):
+
+        # Step 3 and 4: Mark laser and dose recoat layer until partHeight is achieved
+        
+        # Add no. of layers to be printed
+        # print(layer_count)
+
+        for i in range(layer_count):
             if not self.process_running:
                 self.progress_update_signal.emit(0)
                 break
@@ -159,6 +171,9 @@ class ProcessAutomationController(QObject):
                 time.sleep(1)  # Sleep for a short duration to avoid busy waiting
 
             while True:
+
+                # Wait for the chamber to reach the setpoint temperature
+
                 setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
                 temps = self.main_window.printer_status.chamberTemperatures
                 if all(temps.get(pos, 0) >= setpoint for pos in ['middle-center']):
@@ -173,8 +188,13 @@ class ProcessAutomationController(QObject):
                 self.progress_update_signal.emit(0)
                 break
 
+            #### Marking starts ###### 
+
             print("Marking layer number: ", i)
-            # Mark laser until the command is successfully sent
+            self.main_window.pick_current_layer()
+
+
+            # Actual marking starts
             future = self.main_window.scancard.start_mark()
             response = future.result()
             time.sleep(5)  # Sleep for a short duration to avoid busy waiting \\ to ensure we get latest status
@@ -188,12 +208,13 @@ class ProcessAutomationController(QObject):
                 self.progress_update_signal.emit(0)
                 break
 
-            # Dose recoat layer
+            # Dose recoat layer after marking one layer
             self.dose_recoat_layer()
-            progress = int((i + 1) / recoatCount * 60) + 20
+            print(layer_count)
+            progress = int((i + 1) / layer_count * 60) + 20
             self.progress_update_signal.emit(progress)
 
-        # Step 5: Final Heated Buffer Recoat
+        # Step 5: Final Heated Buffer Recoat --- make this optional
         self.heatedBufferRecoat()
         self.progress_update_signal.emit(100)
 

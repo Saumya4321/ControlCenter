@@ -11,19 +11,13 @@ class LoadingScreen(QWidget):
         # Load the .ui file
         try:
             import os
-            print(f"Current working directory: {os.getcwd()}")
+           
 
             uic.loadUi('ui/loading_screen/loading_screen.ui', self)
             print("UI file loaded successfully")
         except Exception as e:
             print(f"Failed to load UI file: {e}")
 
-
-        # Set up the loading GIF
-        # self.loadingGif = self.findChild(QLabel, 'loadingGif')
-        # self.movie = QMovie(":/Misc/img/loading_animation.gif")
-        # self.loadingGif.setMovie(self.movie)
-        # self.movie.start()
 
         # Set up the timer to switch to the home screen after 20 seconds
         self.timer = QTimer(self)
