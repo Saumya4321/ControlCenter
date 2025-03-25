@@ -18,10 +18,14 @@ if not Config.DEVELOPMENT_MODE:
 import ui.resources.resource_rc  # Ensure resources are loaded
 import traceback
 import os
+import time
 
 class MainWindow(QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
+
+        self.setFixedSize(1936,1048) # set a fixed size for mainwindow
+        
 
         self.printer_status = PrinterStatus()  # Create an instance of the PrinterStatus model
         self.process_automation_controller = ProcessAutomationController(self)  # Initialize ProcessAutomationController
@@ -77,7 +81,7 @@ class MainWindow(QMainWindow):
         self.current_layer = 0
 
         # Adjust the size of the main window to fit its contents
-        self.adjustSize()
+        # self.adjustSize()
 
         self.process_automation_controller.progress_update_signal.connect(self.update_progress_bar)
 
@@ -242,20 +246,26 @@ class MainWindow(QMainWindow):
         self.home_screen.fileInfoLabel.setText(file_path)
 
     def open_file(self):
+        print(f"Opening file {self.file} in scancard")
         self.open_scancard_file(self.file)
 
 
     def pick_current_file(self):
         # take layer number to be printed
-        print(f"Loading file for layer {self.present_layer}")
+        print(f"Loading file for layer {self.current_layer}")
+       
         # open file
         if self.current_layer == 1:
-            self.open_file(self.file)
+            print(f"Opening file {self.file}")
+            self.open_file()
+            self.current_layer += 1
 
         else:
-            filename = self.file[:-4] + str(int(self.current_layer)+1) + ".emd"
+            filename = self.file[:-5] + str(int(self.current_layer)) + ".emd"
+            print(filename)
+            self.set_file(filename)
             print(f"Opening file {filename}")
-            self.open_file(filename)
+            self.open_file()
             self.current_layer += 1
         
 
@@ -280,6 +290,8 @@ class MockScancard:
 
     def start_mark(self):
         print("MockScancard.start_mark called")
+        time.sleep(2)
+        return MockFuture()
 
     def stop_mark(self):
         print("MockScancard.stop_mark called")

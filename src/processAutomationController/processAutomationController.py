@@ -11,6 +11,7 @@ class ProcessAutomationController(QObject):
         super(ProcessAutomationController, self).__init__()
         self.main_window = main_window
         self.process_running = False
+        self.worker_signals = None
 
         # Connect the progress update signal to the slot
         self.progress_update_signal.connect(self.update_progress_bar)
@@ -62,7 +63,15 @@ class ProcessAutomationController(QObject):
         self.set_motion_control_buttons_enabled(False)
         
         layerHeight = self.main_window.printer_status.layerHeight
+
+        if Config.DEVELOPMENT_MODE:
+            layerHeight = 0.1
+
         heatedBufferHeight = self.main_window.printer_status.heatedBufferHeight
+       
+        if Config.DEVELOPMENT_MODE:
+            heatedBufferHeight = 0.5
+
         recoatCount = int(heatedBufferHeight / layerHeight)
         sequence = self.main_window.printer_status.heatedBufferRecoatingSequence
 
@@ -188,10 +197,12 @@ class ProcessAutomationController(QObject):
                 self.progress_update_signal.emit(0)
                 break
 
-            #### Marking starts ###### 
 
-            print("Marking layer number: ", i)
-            self.main_window.pick_current_layer()
+            #### Marking starts ###### 
+            print("-------------------------------------------")
+
+            print("Marking layer number: ", i+1)
+            self.main_window.pick_current_file()
 
 
             # Actual marking starts
@@ -209,16 +220,20 @@ class ProcessAutomationController(QObject):
                 break
 
             # Dose recoat layer after marking one layer
+            print("After Laser Recoating...")
             self.dose_recoat_layer()
-            print(layer_count)
             progress = int((i + 1) / layer_count * 60) + 20
             self.progress_update_signal.emit(progress)
+          
 
+        print("******************************")
         # Step 5: Final Heated Buffer Recoat --- make this optional
         self.heatedBufferRecoat()
         self.progress_update_signal.emit(100)
 
         self.set_motion_control_buttons_enabled(True)
+
+        print("########### PRINTING DONE #############")
 
     def stop_process(self):
         """Stop the recoat process."""
