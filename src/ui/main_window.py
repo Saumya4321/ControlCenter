@@ -24,7 +24,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
 
-        self.setFixedSize(1936,1048) # set a fixed size for mainwindow
+        self.setFixedSize(1920,1030) # set a fixed size for mainwindow
         
 
         self.printer_status = PrinterStatus()  # Create an instance of the PrinterStatus model
