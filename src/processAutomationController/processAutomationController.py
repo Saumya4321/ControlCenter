@@ -162,10 +162,8 @@ class ProcessAutomationController(QObject):
         ###### ---- Actual Printing Process ------- ######
 
 
-        # Step 3 and 4: Mark laser and dose recoat layer until partHeight is achieved
+        # Step 3 and 4: Mark laser and dose recoat layer until all layers are done
         
-        # Add no. of layers to be printed
-        # print(layer_count)
 
         for i in range(layer_count):
             if not self.process_running:
