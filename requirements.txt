@@ -13,3 +13,5 @@ simple_pid
 pyyaml
 pyqtgraph
 simple-pid
+pyautogui
+easygui
