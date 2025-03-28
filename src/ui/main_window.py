@@ -70,7 +70,7 @@ class MainWindow(QMainWindow):
         # Set up a QTimer to periodically check the Scancard status
         self.scancard_timer = QTimer(self)
         self.scancard_timer.timeout.connect(self.handle_scancard_status_change)
-        self.scancard_timer.start(5000)  # Check status every 5000 ms (5 seconds)
+        self.scancard_timer.start(10000)  # Check status every 5000 ms (5 seconds)
 
         # Load sub UIs based on configuration
         self.load_loading_screen()
@@ -138,9 +138,9 @@ class MainWindow(QMainWindow):
     def update_scancard_status(self, future):
         try:
             status = future.result()
+                # print(status)
             self.printer_status.updateScancardStatus(status)
             self.control_screen.scanCardStatusLabel.setText("Status: " + self.printer_status.scancard_status)
-          
         except Exception as e:
             print(f"Failed to update Scancard status: {e}")
 
@@ -182,9 +182,11 @@ class MainWindow(QMainWindow):
                         # print(filename)
                         if "1." in filename:
                             print("Got the first layer file")
-                            self.set_file(file_path)
-                            print(f"Loaded file {file_path}...")
                             self.current_layer = 1
+                            self.set_file(file_path)
+                            self.open_file()
+                            print(f"Loaded file {file_path}...")
+                            # self.current_layer = 1
 
                     else:
                         print(f"Invalid file format: {file_path}...")
@@ -215,6 +217,7 @@ class MainWindow(QMainWindow):
             print(f"Failed to close Scancard file: {e}")
         finally:
             print("Executing finally block")
+
             self._open_scancard_file(file_path)
 
     def _open_scancard_file(self, file_path: str):
@@ -257,7 +260,7 @@ class MainWindow(QMainWindow):
         # open file
         if self.current_layer == 1:
             print(f"Opening file {self.file}")
-            self.open_file()
+            # self.open_file()
             self.current_layer += 1
 
         else:

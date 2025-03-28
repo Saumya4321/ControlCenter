@@ -183,6 +183,7 @@ class Scancard:
     def execute_command(self, cmd: str, data: Optional[Dict[str, Any]] = None) -> Future:
         def task():
             try:
+                print(f"Executing command {cmd} with data {data}")
                 json_string = json.dumps({"sid": 0, "cmd": cmd, "data": data})
                 with socket.create_connection((self.HOST, self.PORT), timeout=self.timeout) as sock:
                     sock.sendall(json_string.encode())
@@ -195,8 +196,18 @@ class Scancard:
             except (socket.timeout, socket.error, json.JSONDecodeError) as e:
                 return {"ret_value": -1}  # Simulated error response
 
+        print(f"Executing command {cmd} with data {data} - INSIDE execute_command")
         self.mutex.lock()
         future = self.executor.submit(task)
+        try:
+            result = future.result()  # Waits for the task to finish and gets the result
+            # Process the result
+            if result["ret_value"] == 1:
+                print("Command executed successfully")
+            else:
+                print("There was an error executing the command")
+        except Exception as e:
+            print(f"An error occurred: {e}")
         future.add_done_callback(lambda f: self.mutex.unlock())
         return future
 
@@ -240,10 +251,12 @@ class Scancard:
         return future
 
     def open_file(self, file_path: str):
+        print(f"Opening file {file_path} - INSIDE SCANCARD CLASS")
         return self.execute_command("open_file", {"path": file_path})
 
     def close_file(self):
         return self.execute_command("close_file")
+        
 
     def save_file(self, file_path: str, cover: bool):
         return self.execute_command("save_file", {"path": file_path, "cover": cover})

@@ -111,5 +111,8 @@ class PrinterStatus(QObject):
         self.maxtemp_updated.emit(value)  # Emit the maxtemp_updated signal
     
     def updateScancardStatus(self, status: str):
-        # print(status['ret_value'])
-        self.scancard_status = str(status['ret_value'])
+        try:
+            self.scancard_status = str(status)
+        except Exception as e:
+            print(e)
+            

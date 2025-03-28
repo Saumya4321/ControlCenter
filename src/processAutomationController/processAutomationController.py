@@ -148,7 +148,6 @@ class ProcessAutomationController(QObject):
         """Start the main printing sequence."""
         self.set_motion_control_buttons_enabled(False)
         self.progress_update_signal.emit(0)
-
         # Step 1: Initial Levelling Recoat
         self.initialLevellingRecoat()
         self.progress_update_signal.emit(10)
