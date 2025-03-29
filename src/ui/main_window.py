@@ -180,7 +180,7 @@ class MainWindow(QMainWindow):
 
                     # selecting only first layer file and loading it into scancard
                         # print(filename)
-                        if "1." in filename:
+                        if "_1." in filename:
                             print("Got the first layer file")
                             self.current_layer = 1
                             self.set_file(file_path)
