@@ -79,6 +79,7 @@ class MainWindow(QMainWindow):
         self.layer_count = 0
         self.file = None
         self.current_layer = 0
+        self.file_template = ""
 
         # Adjust the size of the main window to fit its contents
         # self.adjustSize()
@@ -262,9 +263,14 @@ class MainWindow(QMainWindow):
             print(f"Opening file {self.file}")
             # self.open_file()
             self.current_layer += 1
+            self.file_template = self.file[:-5]
+            print(self.file_template)
+
 
         else:
-            filename = self.file[:-5] + str(int(self.current_layer)) + ".emd"
+            filename = self.file_template + str(int(self.current_layer)) + ".emd"
+            print("INSIDE PICK FILE")
+            # print(f"file template: {self.file[:-5]}")
             print(filename)
             self.set_file(filename)
             print(f"Opening file {filename}")
