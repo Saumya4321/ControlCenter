@@ -12,6 +12,8 @@ class ProcessAutomationController(QObject):
         self.main_window = main_window
         self.process_running = False
         self.worker_signals = None
+        self.file_loaded = False
+        self.main_window.file_loaded_signal.connect(self.check_file_loaded)
 
         # Connect the progress update signal to the slot
         self.progress_update_signal.connect(self.update_progress_bar)
@@ -19,6 +21,11 @@ class ProcessAutomationController(QObject):
     def update_progress_bar(self, value):
         """Slot to update the progress bar value."""
         self.main_window.home_screen.printProgressBar.setValue(value)
+
+    def check_file_loaded(self, value):
+        self.file_loaded = True # sets flag to true on completion of file loading
+
+
 
     def initialLevellingRecoat(self):
         """Perform the initial levelling recoat."""
@@ -163,7 +170,6 @@ class ProcessAutomationController(QObject):
 
         # Step 3 and 4: Mark laser and dose recoat layer until all layers are done
         
-
         for i in range(layer_count):
             if not self.process_running:
                 self.progress_update_signal.emit(0)
@@ -199,8 +205,12 @@ class ProcessAutomationController(QObject):
             print("-------------------------------------------")
 
             print("Marking layer number: ", i+1)
-            self.main_window.pick_current_file()
+            print(f"Marking for file: {self.main_window.file}")
 
+
+            while not self.file_loaded:
+                time.sleep(0.5)  # wait for file to be loaded onto scancard
+                print("Waiting for file to get loaded...")
 
             # Actual marking starts
             future = self.main_window.scancard.start_mark()
@@ -215,6 +225,9 @@ class ProcessAutomationController(QObject):
             if not self.process_running:
                 self.progress_update_signal.emit(0)
                 break
+
+            if i!=layer_count-1:    
+                self.main_window.pick_current_file()
 
             # Dose recoat layer after marking one layer
             print("After Laser Recoating...")

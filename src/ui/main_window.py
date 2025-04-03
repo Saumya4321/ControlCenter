@@ -3,7 +3,7 @@ from ui.loading_screen.loading_screen import LoadingScreen
 from ui.tab_screen.tab_screen import TabScreen
 from config import Config
 from models.printer_status import PrinterStatus
-from PyQt5.QtCore import QTimer
+from PyQt5.QtCore import QTimer, pyqtSignal
 from temperatureController.chamberTemperatureController import ChamberTemperatureController  # Ensure this import is present
 from Feeltek.scanCard import Scancard  # Import Scancard
 from processAutomationController.processAutomationController import ProcessAutomationController
@@ -21,6 +21,8 @@ import os
 import time
 
 class MainWindow(QMainWindow):
+    file_loaded_signal = pyqtSignal(bool)  # Signal emitted when file is loaded
+
     def __init__(self):
         super(MainWindow, self).__init__()
 
@@ -187,7 +189,9 @@ class MainWindow(QMainWindow):
                             self.set_file(file_path)
                             self.open_file()
                             print(f"Loaded file {file_path}...")
-                            # self.current_layer = 1
+                            self.process_automation_controller.file_loaded = True
+                            self.file_template = self.file[:-5]
+                            self.current_layer += 1
 
                     else:
                         print(f"Invalid file format: {file_path}...")
@@ -253,29 +257,22 @@ class MainWindow(QMainWindow):
         print(f"Opening file {self.file} in scancard")
         self.open_scancard_file(self.file)
 
-
+    @run_async
     def pick_current_file(self):
         # take layer number to be printed
+        print("LOADING NEXT LAYER FILE")  
         print(f"Loading file for layer {self.current_layer}")
        
-        # open file
-        if self.current_layer == 1:
-            print(f"Opening file {self.file}")
-            # self.open_file()
-            self.current_layer += 1
-            self.file_template = self.file[:-5]
-            print(self.file_template)
+    
+        filename = self.file_template + str(int(self.current_layer)) + ".emd"
+         
+        # print(filename)
+        self.set_file(filename)
+        # print(f"Opening file {filename}")
+        self.open_file()
+        self.current_layer += 1
 
-
-        else:
-            filename = self.file_template + str(int(self.current_layer)) + ".emd"
-            print("INSIDE PICK FILE")
-            # print(f"file template: {self.file[:-5]}")
-            print(filename)
-            self.set_file(filename)
-            print(f"Opening file {filename}")
-            self.open_file()
-            self.current_layer += 1
+        self.file_loaded_signal.emit(True)
         
 
 class MockMoonrakerAPI:
@@ -283,6 +280,7 @@ class MockMoonrakerAPI:
         print("MockMoonrakerAPI initialized")
 
     def send_gcode(self, cmd):
+        time.sleep(1)
         print(f"MockMoonrakerAPI.send_gcode called with cmd: {cmd}")
 
     def query_status(self):
@@ -310,7 +308,7 @@ class MockScancard:
         return MockFuture()
 
     def open_file(self, file_path):
-        print(f"MockScancard.open_file called with file_path: {file_path}")
+        time.sleep(2)
         return MockFuture()
 
     def close_file(self):

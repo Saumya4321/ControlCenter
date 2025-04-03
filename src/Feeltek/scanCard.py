@@ -251,7 +251,7 @@ class Scancard:
         return future
 
     def open_file(self, file_path: str):
-        print(f"Opening file {file_path} - INSIDE SCANCARD CLASS")
+        # print(f"Opening file {file_path} - INSIDE SCANCARD CLASS")
         return self.execute_command("open_file", {"path": file_path})
 
     def close_file(self):
