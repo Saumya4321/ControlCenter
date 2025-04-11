@@ -1,12 +1,13 @@
 #TBD: incase a gcode is yet to be executed, block the thread from executing another gcode in moonraker api
 
 from PyQt5 import uic
-from PyQt5.QtWidgets import (QWidget, QPushButton, QSpinBox, QProgressBar, QSizePolicy, QVBoxLayout, QMessageBox, QLabel)
+from PyQt5.QtWidgets import (QWidget, QPushButton, QSpinBox, QProgressBar, QSizePolicy, QVBoxLayout, QMessageBox, QLabel, QLineEdit)
 from PyQt5.QtCore import pyqtSlot, pyqtSignal, QTimer
 from PyQt5.QtGui import QImage
 import numpy as np
 from ui.custom_widgets import ImageWidget
 from utils.helpers import run_async
+from temperatureController.heaterBoard import HeaterBoard
 import time
 from processAutomationController.processAutomationController import ProcessAutomationController
 
@@ -25,6 +26,10 @@ class ControlScreen(QWidget):
 
         # Initialize ProcessAutomationController
         self.process_automation_controller = ProcessAutomationController(main_window)
+
+        # Initialize heater board
+        self.board = HeaterBoard()
+        self.testheater = 0
 
         # Setup signal-slot connections
         self.setup_connections()
@@ -101,6 +106,12 @@ class ControlScreen(QWidget):
         self.startMarkingButton = self.findChild(QPushButton, "startMarkingButton")
         self.stopMarkingButton = self.findChild(QPushButton, "stopMarkingButton")
 
+
+        # test frame - temporary
+        self.testHeaterOnButton = self.findChild(QPushButton,"testHeaterOnButton")
+        self.testHeaterOffButton = self.findChild(QPushButton,"testHeaterOffButton")
+        self.testHeaterChannelinput = self.findChild(QLineEdit,"testHeaterChannelinput")
+
     def setup_connections(self):
         self.step = 10
         self.setStep(10)
@@ -134,6 +145,21 @@ class ControlScreen(QWidget):
         # Connect start and stop marking buttons to Scancard functions
         self.startMarkingButton.clicked.connect(self.main_window.scancard.start_mark)
         self.stopMarkingButton.clicked.connect(self.main_window.scancard.stop_mark)
+
+        # test functions
+        self.testHeaterOffButton.clicked.connect(self.board.stopHeaters)
+        self.testHeaterOnButton.clicked.connect(self.onHeaterTest)
+        self.testHeaterChannelinput.returnPressed.connect(self.selectHeater)
+
+
+    def selectHeater(self):
+        text = self.testHeaterChannelinput.text()
+        self.testheater = int(text)
+
+    def onHeaterTest(self):
+        self.board.onHeaterX(int(self.testheater))
+        print(f"Turning on ch{self.testheater} with 50% power")
+
 
     @run_async
     def run_async_send_gcode(self, gcode):

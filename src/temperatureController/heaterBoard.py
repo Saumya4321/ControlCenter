@@ -22,6 +22,13 @@ class HeaterBoard:
         future.add_done_callback(self.handle_response)  # Handle the response when done
         print("Heater stopped")
 
+    def onHeaterX(self,ch):
+        power_list = [1,1,1,1,1,1,1,1]
+        power_list[ch - 1] = 50
+        self.setHeaterPowers(power_list[0],power_list[1],power_list[2], power_list[3], power_list[4], power_list[5],power_list[6],power_list[7])
+        
+
+
     def enableWatchdog(self, event):
         command = f"E"
         future = self.serial_model.send_command_async(command)  # Use the asynchronous method
