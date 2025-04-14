@@ -4,8 +4,8 @@ class HeaterBoard:
     def __init__(self, port="COM19"): #TBD take port as input from frontend
         self.serial_model = SerialProtocol(port="COM19", baudrate=115200, timeout=1)
 
-    def setHeaterPowers(self, ch1, ch2, ch4, ch3, ch5, ch6, ch7, ch8):
-        command = f"8,{ch1},{ch2},{ch3},{ch6},{ch5},{ch4},{ch7},{ch8}"
+    def setHeaterPowers(self, ch8, ch7, ch6, ch5, ch4, ch3, ch2, ch1):
+        command = f"8,{ch8},{ch7},{ch6},{ch5},{ch4},{ch3},{ch2},{ch1}"
         future = self.serial_model.send_command_async(command)  # Use the asynchronous method
         future.add_done_callback(self.handle_response)  # Handle the response when done
 
