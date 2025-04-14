@@ -13,10 +13,10 @@ class ChamberTemperatureController(QThread):
         self.printer_status.temperatures_updated.connect(self.control_heater)
 
         # Initialize PID controllers for each side
-        self.pid_bottom = PID(15, 0.000001, 0.001, setpoint=0)
-        self.pid_right = PID(15, 0.000001, 0.001, setpoint=0)
-        self.pid_top = PID(15, 0.000001, 0.001, setpoint=0)
-        self.pid_left = PID(15, 0.000001, 0.001, setpoint=0)
+        self.pid_bottom = PID(10, 0.000001, 0.001, setpoint=0)
+        self.pid_right = PID(2, 0.000001, 0.001, setpoint=0)
+        self.pid_top = PID(60, 0.000001, 0.001, setpoint=0)
+        self.pid_left = PID(5, 0.000001, 0.001, setpoint=0)
 
         # Set output limits for the PID controllers to clamp the integral factor
         self.pid_bottom.output_limits = (1, 99)
@@ -80,6 +80,6 @@ class ChamberTemperatureController(QThread):
 
         # Apply the control values to the heater board
         # self.heater_board.setHeaterPowers(control_bottom, control_bottom, control_right, control_right // 2, control_top, control_top, control_left, control_left // 2)
-        self.heater_board.setHeaterPowers(control_left, control_left, control_top, control_top, control_right, control_right, control_bottom, control_bottom)  #// Set the heater powers ---CH8, CH7, CH6, CH5, CH4, CH3, CH2, CH1
+        self.heater_board.setHeaterPowers(control_left, 0, control_top, control_top, control_right, 0, control_bottom, control_bottom)  #// Set the heater powers ---CH8, CH7, CH6, CH5, CH4, CH3, CH2, CH1
         # Log the control values for debugging
         # print(f"Control values - Bottom: {control_bottom}, Right: {control_right}, Top: {control_top}, Left: {control_left}")
