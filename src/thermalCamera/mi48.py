@@ -44,8 +44,8 @@ DEFAULT_CTRL_STAT = {
     'FRAME_RATE': 0x04,
     'POWER_DOWN_1': 0x00,
     'POWER_DOWN_2': 0x02,
-    "SENS_FACTOR" : 0x64,  # read from camera module; ideally 0x64 = 1.00
-    'EMISSIVITY': 0x5F,
+    "SENS_FACTOR" : 0x64,#0x64,  # read from camera module; ideally 0x64 = 1.00
+    'EMISSIVITY': 0x5F,#            0x5F,
     'OFFSET_CORR': 0x00,
     'FILTER_CTRL': 0x00,
     'FILTER_1_LSB': 0x32,
@@ -219,6 +219,13 @@ class MI48:
             self.set_fps(fps)
         # set the format of the returned data
         self.read_raw = read_raw
+
+        # Set emissivity
+        #self.set_emissivity(0.55)
+        self.set_emissivity(0.95)
+        # Add debug logging to verify
+        current_emissivity = self.get_emissivity()
+        self.log(logging.DEBUG, f'Current emissivity: {current_emissivity}%')
 
     def bootup(self, verbose=False, powerup=False):
         """Ensure bootup of the mi48 is complete, returning MODE and STATUS.
@@ -927,4 +934,4 @@ def format_framestats(data):
                    data.astype(np.float64).std())
     return s
 
-    
+

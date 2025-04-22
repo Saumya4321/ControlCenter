@@ -173,6 +173,7 @@ class ProcessAutomationController(QObject):
         for i in range(layer_count):
             if not self.process_running:
                 self.progress_update_signal.emit(0)
+                print("ENTRY 1")
                 break
 
             # Pause handling
@@ -188,6 +189,7 @@ class ProcessAutomationController(QObject):
 
                 setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
                 temps = self.main_window.printer_status.chamberTemperatures
+                print("ENTRY 2 - chamber temp check")
                 if all(temps.get(pos, 0) >= setpoint for pos in ['middle-center']):
                     time.sleep(2) #wait 20 secs atleast for layer to heat
                     break
@@ -217,16 +219,21 @@ class ProcessAutomationController(QObject):
             response = future.result()
             time.sleep(5)  # Sleep for a short duration to avoid busy waiting \\ to ensure we get latest status
             while self.main_window.printer_status.scancard_status == "Marking":
+                print(f"ENTRY 5 - {self.main_window.printer_status.scancard_status}")
                 time.sleep(1)
                 if not self.process_running:
                     self.progress_update_signal.emit(0)
                     break
 
+            print("ENTRY 3 - Out of marking loop")
+
             if not self.process_running:
                 self.progress_update_signal.emit(0)
                 break
+            print("ENTRY 4 - Out of pause check loop")
 
             if i!=layer_count-1:    
+                print("ENTRY 5 - Went to pick file")
                 self.main_window.pick_current_file()
 
             # Dose recoat layer after marking one layer
