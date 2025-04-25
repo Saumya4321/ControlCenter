@@ -1,6 +1,6 @@
 from PyQt5.QtCore import QThread, pyqtSlot
 import numpy as np
-# from simple_pid import PID
+from simple_pid import PID
 from .heaterBoard import HeaterBoard
 
 class ChamberTemperatureController(QThread):
@@ -12,11 +12,11 @@ class ChamberTemperatureController(QThread):
         # Connect the temperatures_updated signal to the control_heater slot
         self.printer_status.temperatures_updated.connect(self.control_heater)
 
-        # # Initialize PID controllers for each side
-        # self.pid_bottom = PID(15, 0.000001, 0.001, setpoint=0)
-        # self.pid_right = PID(15, 0.000001, 0.001, setpoint=0)
-        # self.pid_top = PID(15, 0.000001, 0.001, setpoint=0)
-        # self.pid_left = PID(15, 0.000001, 0.001, setpoint=0)
+        # Initialize PID controllers for each side
+        self.pid_bottom = PID(15, 0.000001, 0.001, setpoint=0)
+        self.pid_right = PID(15, 0.000001, 0.001, setpoint=0)
+        self.pid_top = PID(15, 0.000001, 0.001, setpoint=0)
+        self.pid_left = PID(15, 0.000001, 0.001, setpoint=0)
 
         # Set output limits for the PID controllers to clamp the integral factor
         self.pid_bottom.output_limits = (1, 99)
