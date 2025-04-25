@@ -91,7 +91,7 @@ class MainWindow(QMainWindow):
 
         # Adjust the size of the main window to fit its contents
         # self.adjustSize()
-        self.logger.info("Logging done")
+        # self.logger.info("Logging done") #to test if logger works
 
         self.process_automation_controller.progress_update_signal.connect(self.update_progress_bar)
 
@@ -173,6 +173,7 @@ class MainWindow(QMainWindow):
 
     def get_input_directory(self, dirName):
         print(f"Selected directory: {dirName}")
+        self.logger.info("New folder given as input")
         # Loop through all files in the selected directory
         self.layer_count = 0
         for filename in os.listdir(dirName):
@@ -211,6 +212,7 @@ class MainWindow(QMainWindow):
 
         
         print(f"Total number of layers: {self.layer_count}")
+        self.logger.info(f"Total number of layers: {self.layer_count}")
 
         import time
         # update layer numbers in gui
