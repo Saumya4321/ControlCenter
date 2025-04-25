@@ -8,6 +8,7 @@ from temperatureController.chamberTemperatureController import ChamberTemperatur
 from Feeltek.scanCard import Scancard  # Import Scancard
 from processAutomationController.processAutomationController import ProcessAutomationController
 from utils.helpers import run_async
+from logger.param_logger import ParamLogger
 
 if not Config.DEVELOPMENT_MODE:
     from temperatureController.heaterBoard import HeaterBoard
@@ -19,6 +20,7 @@ import ui.resources.resource_rc  # Ensure resources are loaded
 import traceback
 import os
 import time
+
 
 class MainWindow(QMainWindow):
     file_loaded_signal = pyqtSignal(bool)  # Signal emitted when file is loaded
@@ -40,6 +42,8 @@ class MainWindow(QMainWindow):
 
         self.stacked_widget = QStackedWidget()
         self.layout.addWidget(self.stacked_widget)
+
+        self.logger = ParamLogger()
         
         if not Config.DEVELOPMENT_MODE:
             self.thermal_camera = ThermalCamera(roi=(2, 13, 59, 64))
@@ -51,7 +55,7 @@ class MainWindow(QMainWindow):
             # self.rgb_camera.rgb_camera_frame_ready.connect(self.update_rgb_frame)
             # self.rgb_camera.start()
             #self.thermal_camera = None
-            self.rgb_camera = None
+            # self.rgb_camera = None
         else:
             self.thermal_camera = None
             self.rgb_camera = None
@@ -87,6 +91,7 @@ class MainWindow(QMainWindow):
 
         # Adjust the size of the main window to fit its contents
         # self.adjustSize()
+        self.logger.info("Logging done")
 
         self.process_automation_controller.progress_update_signal.connect(self.update_progress_bar)
 
