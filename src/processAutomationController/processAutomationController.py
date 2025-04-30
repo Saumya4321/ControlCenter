@@ -182,9 +182,10 @@ class ProcessAutomationController(QObject):
                     break
                 time.sleep(1)  # Sleep for a short duration to avoid busy waiting
 
-            while True:
 
-                # Wait for the chamber to reach the setpoint temperature
+            while True:
+                ## ----------- CHANGE HERE --------------- 
+                # Wait for the chamber to reach the setpoint temperature 
 
                 setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
                 temps = self.main_window.printer_status.chamberTemperatures
@@ -195,6 +196,8 @@ class ProcessAutomationController(QObject):
                     self.progress_update_signal.emit(0)
                     break
                 time.sleep(1)  # Sleep for a short duration to avoid busy waiting
+            
+            ## -------------------------------------------------
 
             if not self.process_running:
                 self.progress_update_signal.emit(0)
