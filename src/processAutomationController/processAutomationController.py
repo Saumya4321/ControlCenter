@@ -14,6 +14,8 @@ class ProcessAutomationController(QObject):
         self.worker_signals = None
         self.file_loaded = False
         self.main_window.file_loaded_signal.connect(self.check_file_loaded)
+        self.tempStep = 0
+        self.pwmStep = 0.2
 
         # Connect the progress update signal to the slot
         self.progress_update_signal.connect(self.update_progress_bar)
@@ -165,6 +167,8 @@ class ProcessAutomationController(QObject):
         self.progress_update_signal.emit(20)
         print("Heated Buffer Recoat done")
 
+        self.tempStep = 10 / (layer_count - 50)
+
         ###### ---- Actual Printing Process ------- ######
 
 
@@ -185,17 +189,46 @@ class ProcessAutomationController(QObject):
 
             while True:
                 ## ----------- CHANGE HERE --------------- 
-                # Wait for the chamber to reach the setpoint temperature 
 
-                setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
-                temps = self.main_window.printer_status.chamberTemperatures
-                if all(temps.get(pos, 0) >= setpoint for pos in ['middle-center']):
-                    time.sleep(2) #wait 20 secs atleast for layer to heat
-                    break
-                if not self.process_running:
-                    self.progress_update_signal.emit(0)
-                    break
-                time.sleep(1)  # Sleep for a short duration to avoid busy waiting
+                ### CODE FOR DECREASING TEMP AFTER 50 LAYERS
+
+                # Gradual temperature increase after 50th layer
+                if i >= 50:
+                    temp_step = self.tempStep
+                    min_temp = 160.0  # Lower safety limit
+                    current_setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
+                    new_setpoint = max(current_setpoint - temp_step, min_temp)
+                    self.main_window.printer_status.chamberTemperatureSetpoint = new_setpoint
+                    print(f"Layer {i+1}: Decreasing chamber setpoint to {new_setpoint}°C")
+
+                    # Wait for the chamber to reach the setpoint temperature 
+
+                    setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
+                    temps = self.main_window.printer_status.chamberTemperatures
+                    if all(temps.get(pos, 0) <= setpoint for pos in ['middle-center']):
+                        time.sleep(2) #wait 20 secs atleast for layer to heat
+                        break
+                    if not self.process_running:
+                        self.progress_update_signal.emit(0)
+                        break
+                    time.sleep(1)  # Sleep for a short duration to avoid busy waiting
+            
+
+
+                #### --------------------------------------------
+
+                # Wait for the chamber to reach the setpoint temperature 
+                if i <= 49:
+
+                    setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
+                    temps = self.main_window.printer_status.chamberTemperatures
+                    if all(temps.get(pos, 0) >= setpoint for pos in ['middle-center']):
+                        time.sleep(2) #wait 20 secs atleast for layer to heat
+                        break
+                    if not self.process_running:
+                        self.progress_update_signal.emit(0)
+                        break
+                    time.sleep(1)  # Sleep for a short duration to avoid busy waiting
             
             ## -------------------------------------------------
 
