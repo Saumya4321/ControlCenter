@@ -133,6 +133,7 @@ class Scancard:
             self.file_path = ""
             self.formatted_response = {}
             self.layer_id = 0
+            self.pulseWidthStatus = 0
 
             self.executor = ThreadPoolExecutor(max_workers=1)
             self.mutex = QMutex()
@@ -196,7 +197,6 @@ class Scancard:
             except (socket.timeout, socket.error, json.JSONDecodeError) as e:
                 return {"ret_value": -1}  # Simulated error response
 
-        print(f"Executing command {cmd} with data {data} - INSIDE execute_command")
         self.mutex.lock()
         future = self.executor.submit(task)
         try:

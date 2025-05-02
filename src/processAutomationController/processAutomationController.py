@@ -168,6 +168,8 @@ class ProcessAutomationController(QObject):
         print("Heated Buffer Recoat done")
 
         self.tempStep = 10 / (layer_count - 50)
+        self.pwmCounter = self.pwmStep
+      
 
         ###### ---- Actual Printing Process ------- ######
 
@@ -250,13 +252,22 @@ class ProcessAutomationController(QObject):
 
             print("ENTRY 1 - After file loaded")
 
+           
+           ######---- INCREASING PULSE WIDTH AFTER 50 LAYERS ------
+
+            if i >=50:
+                current_pwm = self.main_window.get_scancard_pwm()
+                new_pwm = float(min(round(current_pwm * 1.002, 2), 100))
+                self.main_window.set_scancard_pwm(new_pwm)
+           
+           
+           
             # Actual marking starts
-            print("ENTRY 2 - About to send marking command")
             future = self.main_window.scancard.start_mark()
-            print("ENTRY 3 - After sending marking command")
+      
             response = future.result()
             time.sleep(5)  # Sleep for a short duration to avoid busy waiting \\ to ensure we get latest status
-            print("ENTRY 4 - checking scancard status")
+           
             while self.main_window.printer_status.scancard_status == "Marking":
                 print("Marking in progress...")
                 time.sleep(1)
@@ -264,17 +275,15 @@ class ProcessAutomationController(QObject):
                     self.progress_update_signal.emit(0)
                     break
 
-            print("ENTRY 5 - After marking done")
+     
 
             if not self.process_running:
                 self.progress_update_signal.emit(0)
                 break
 
-            print("ENTRY 6 - Beofre loading file at end of marking")
+       
             if i!=layer_count-1:    
                 self.main_window.pick_current_file()
-
-            print("ENTRY 7 - After loading file at end of marking")
 
             # Dose recoat layer after marking one layer
             print("After Laser Recoating...")

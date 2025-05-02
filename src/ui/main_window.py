@@ -166,7 +166,37 @@ class MainWindow(QMainWindow):
                 raise e
         except Exception as e:
             print("Invalid file format given - file is not a .emd file")
-        
+
+    # def get_scancard_pwm(self):
+    #     result = self.scancard.get_markParameters_by_layer(0)
+    #     current_pwm = result["ret_value"]["data"]["pulseWidth"]
+    #     self.scancard.pulseWidthStatus = float(current_pwm)
+    #     return self.scancard.pulseWidthStatus
+    
+    def get_scancard_pwm(self):
+        future = self.scancard.get_markParameters_by_layer(0)
+        result = future.result()  # wait for the command to complete
+
+        if result["ret_value"] == -1:
+            print("Failed to fetch pulseWidth")
+            return None
+
+        current_pwm = result["ret_value"]["data"]["pulseWidth"]
+        print(f"Current pulse width {current_pwm}")
+        self.scancard.pulseWidthStatus = float(current_pwm)
+        return self.scancard.pulseWidthStatus
+
+    
+
+    def set_scancard_pwm(self, newVal):
+        laser_params = {"pulseWidth": newVal}
+        future = self.scancard.set_markParameters_by_layer(0, laser_params)
+        result = future.result()
+        if result.get("ret_value") == 1:
+            print(f"Changing laser pulseWidth to {newVal} successful!")
+            self.logger.logger.info(f"Pulse width changed to {newVal}")
+        else:
+            print(f"Failed to change pulseWidth to {newVal}")
 
 
 ######## --------- Loading input directory function --------- ########
