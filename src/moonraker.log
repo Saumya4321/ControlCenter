@@ -6464,3 +6464,13 @@ M400
 2025-05-05 14:27:51,719 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=bed_heater_right TARGET=0
 2025-05-05 14:28:01,734 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
 2025-05-05 14:28:01,734 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:42:24,046 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0
+2025-05-05 14:42:24,660 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=bed_heater_front TARGET=0
+2025-05-05 14:42:34,049 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:42:34,049 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:42:44,057 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:42:44,057 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:42:44,057 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=bed_heater_left TARGET=0
+2025-05-05 14:42:54,077 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:42:54,077 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:42:54,077 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=bed_heater_right TARGET=0
