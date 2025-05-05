@@ -22,7 +22,7 @@ class ParamLogger:
 
         # Create a filename with timestamp
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        self.log_file_path = os.path.join(log_dir, f"log_{timestamp}.txt")
+        self.log_file_path = os.path.join(log_dir, f"log.txt")
 
         # Create a file handler
         file_handler = logging.FileHandler(self.log_file_path, mode="a", encoding="utf-8")

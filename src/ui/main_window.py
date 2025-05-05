@@ -8,7 +8,7 @@ from temperatureController.chamberTemperatureController import ChamberTemperatur
 from Feeltek.scanCard import Scancard  # Import Scancard
 from processAutomationController.processAutomationController import ProcessAutomationController
 from utils.helpers import run_async
-from logger.param_logger import ParamLogger
+# from logger.param_logger import ParamLogger
 
 if not Config.DEVELOPMENT_MODE:
     from temperatureController.heaterBoard import HeaterBoard
@@ -43,7 +43,7 @@ class MainWindow(QMainWindow):
         self.stacked_widget = QStackedWidget()
         self.layout.addWidget(self.stacked_widget)
 
-        self.logger = ParamLogger()
+        # self.logger = ParamLogger()
         
         if not Config.DEVELOPMENT_MODE:
             self.thermal_camera = ThermalCamera(roi=(2, 13, 59, 64))
@@ -194,7 +194,7 @@ class MainWindow(QMainWindow):
         result = future.result()
         if result.get("ret_value") == 1:
             print(f"Changing laser pulseWidth to {newVal} successful!")
-            self.logger.logger.info(f"Pulse width changed to {newVal}")
+            # self.logger.info(f"Pulse width changed to {newVal}")
         else:
             print(f"Failed to change pulseWidth to {newVal}")
 
@@ -203,7 +203,7 @@ class MainWindow(QMainWindow):
 
     def get_input_directory(self, dirName):
         print(f"Selected directory: {dirName}")
-        self.logger.info("New folder given as input")
+        # self.logger.info("New folder given as input")
         # Loop through all files in the selected directory
         self.layer_count = 0
         for filename in os.listdir(dirName):
@@ -242,7 +242,7 @@ class MainWindow(QMainWindow):
 
         
         print(f"Total number of layers: {self.layer_count}")
-        self.logger.info(f"Total number of layers: {self.layer_count}")
+        # self.logger.info(f"Total number of layers: {self.layer_count}")
 
         import time
         # update layer numbers in gui
