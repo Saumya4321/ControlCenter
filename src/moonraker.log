@@ -6449,3 +6449,18 @@ M400
 2025-04-22 11:42:51,059 - moonrakerClient.moonrakerClient - INFO - Response from Moonraker: {'result': 'ok'}
 2025-04-22 11:42:53,709 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0
 2025-04-22 11:42:53,731 - moonrakerClient.moonrakerClient - INFO - Response from Moonraker: {'result': 'ok'}
+2025-05-05 14:25:57,305 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0
+2025-05-05 14:26:07,310 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:26:07,310 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:27:21,671 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0
+2025-05-05 14:27:26,877 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=bed_heater_front TARGET=0
+2025-05-05 14:27:31,685 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:27:31,685 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:27:41,707 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:27:41,707 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:27:41,707 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=bed_heater_left TARGET=0
+2025-05-05 14:27:51,719 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:27:51,719 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
+2025-05-05 14:27:51,719 - moonrakerClient.moonrakerClient - INFO - Sending G-code command: SET_HEATER_TEMPERATURE HEATER=bed_heater_right TARGET=0
+2025-05-05 14:28:01,734 - moonrakerClient.moonrakerClient - ERROR - Request to Moonraker timed out.
+2025-05-05 14:28:01,734 - moonrakerClient.moonrakerClient - INFO - Reconnected to Moonraker server.
