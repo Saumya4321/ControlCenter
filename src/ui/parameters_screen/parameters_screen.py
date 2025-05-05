@@ -160,21 +160,21 @@ class ParametersScreen(QWidget):
             yaml.dump(parameters, file)
 
 
-        # log all of the parameters too
-        self.main_window.logger.info(f"""Parameters in PARAMETERS screen updated\n
-            layerHeight: {self.layerHeightLineEdit.text()}\n
-            initialLevellingHeight: {self.initialLevellingHeightLineEdit.text()}\n
-            heatedBufferHeight: {self.heatedBufferHeightLineEdit.text()}\n
-            powderLoadingExtraHeightGap: {self.powderLoadingExtraHeightGapLineEdit.text()}\n
-            bedTemperature: {self.bedTemperatureLineEdit.text()}\n
-            volumeTemperature: {self.volumeTemberatureLineEdit.text()}\n
-            chamberTemperature: {self.chamberTemperatureLineEdit.text()}\n
-            p: {self.pLineEdit.text()}\n
-            i: {self.iLineEdit.text()}\n
-            d: {self.dLineEdit.text()}\n
-            partHeight: {self.partHeightLineEdit.text()}\n
-            dosingHeight: {self.dosingHeightLineEdit.text()}\n 
-                                     """)
+        # # log all of the parameters too
+        # self.main_window.logger.info(f"""Parameters in PARAMETERS screen updated\n
+        #     layerHeight: {self.layerHeightLineEdit.text()}\n
+        #     initialLevellingHeight: {self.initialLevellingHeightLineEdit.text()}\n
+        #     heatedBufferHeight: {self.heatedBufferHeightLineEdit.text()}\n
+        #     powderLoadingExtraHeightGap: {self.powderLoadingExtraHeightGapLineEdit.text()}\n
+        #     bedTemperature: {self.bedTemperatureLineEdit.text()}\n
+        #     volumeTemperature: {self.volumeTemberatureLineEdit.text()}\n
+        #     chamberTemperature: {self.chamberTemperatureLineEdit.text()}\n
+        #     p: {self.pLineEdit.text()}\n
+        #     i: {self.iLineEdit.text()}\n
+        #     d: {self.dLineEdit.text()}\n
+        #     partHeight: {self.partHeightLineEdit.text()}\n
+        #     dosingHeight: {self.dosingHeightLineEdit.text()}\n 
+        #                              """)
 
     def revert_changes(self):
         # Load from YAML file

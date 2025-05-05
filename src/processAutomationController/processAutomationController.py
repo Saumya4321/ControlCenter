@@ -195,7 +195,7 @@ class ProcessAutomationController(QObject):
                 ### CODE FOR DECREASING TEMP AFTER 50 LAYERS
 
                 # Gradual temperature increase after 50th layer
-                if i >= 50:
+                if i >=2:
                     temp_step = self.tempStep
                     min_temp = 160.0  # Lower safety limit
                     current_setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
@@ -220,7 +220,7 @@ class ProcessAutomationController(QObject):
                 #### --------------------------------------------
 
                 # Wait for the chamber to reach the setpoint temperature 
-                if i <= 49:
+                if i <=2:
 
                     setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
                     temps = self.main_window.printer_status.chamberTemperatures
@@ -255,7 +255,7 @@ class ProcessAutomationController(QObject):
            
            ######---- INCREASING PULSE WIDTH AFTER 50 LAYERS ------
 
-            if i >=50:
+            if i >=2:
                 current_pwm = self.main_window.get_scancard_pwm()
                 new_pwm = float(min(round(current_pwm * 1.002, 2), 100))
                 self.main_window.set_scancard_pwm(new_pwm)
