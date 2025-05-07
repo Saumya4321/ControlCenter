@@ -36,7 +36,8 @@ class MoonrakerAPI:
             self.logger.error(f"Failed to reconnect: {e}")
 
     def send_gcode(self, cmd):
-        self.logger.info(f"Sending G-code command: {cmd}")
+        # self.logger.info(f"Sending G-code command: {cmd}")
+        print(f"Sending G-code command: {cmd}")
         try:
             self.api_mutex.acquire()
             response = requests.post(
@@ -46,21 +47,25 @@ class MoonrakerAPI:
             )
             response.raise_for_status()
             response_data = response.json()
-            self.logger.info(f"Response from Moonraker: {response_data}")
+            # self.logger.info(f"Response from Moonraker: {response_data}")
+            print(f"Response from Moonraker: {response_data}")
             return response_data
         except requests.exceptions.Timeout:
-            self.logger.error("Request to Moonraker timed out.")
+            # self.logger.error("Request to Moonraker timed out.")
+            print("Request to Moonraker timed out.")
             self.reconnect()
             return "Timeout"
         except requests.exceptions.RequestException as e:
-            self.logger.error(f"Error sending G-code: {e}")
+            # self.logger.error(f"Error sending G-code: {e}")
+            print(f"Error sending G-code: {e}")
             self.reconnect()
             return str(e)
         finally:
             self.api_mutex.release()
 
     def query_status(self):
-        self.logger.info("Querying printer status.")
+        print("Querying printer status.")
+    
         try:
             self.api_mutex.acquire()
             response = requests.get(
@@ -69,21 +74,21 @@ class MoonrakerAPI:
             )
             response.raise_for_status()
             response_data = response.json()
-            self.logger.info(f"Response from Moonraker: {response_data}")
+            print(f"Response from Moonraker: {response_data}")
             return response_data
         except requests.exceptions.Timeout:
-            self.logger.error("Request to Moonraker timed out.")
+            print("Request to Moonraker timed out.")
             self.reconnect()
             return "Timeout"
         except requests.exceptions.RequestException as e:
-            self.logger.error(f"Error querying status: {e}")
+            print(f"Error querying status: {e}")
             self.reconnect()
             return str(e)
         finally:
             self.api_mutex.release()
 
     def query_temperatures(self):
-        self.logger.info("Querying printer temperatures.")
+        print("Querying printer temperatures.")
         try:
             self.api_mutex.acquire()
             response = requests.get(
@@ -92,14 +97,15 @@ class MoonrakerAPI:
             )
             response.raise_for_status()
             response_data = response.json()
-            self.logger.info(f"Response from Moonraker: {response_data}")
+            print(f"Response from Moonraker: {response_data}")
             return response_data
         except requests.exceptions.Timeout:
-            self.logger.error("Request to Moonraker timed out.")
+            print("Request to Moonraker timed out.")
             self.reconnect()
             return "Timeout"
         except requests.exceptions.RequestException as e:
-            self.logger.error(f"Error querying temperatures: {e}")
+            
+            print(f"Error querying temperatures: {e}")
             self.reconnect()
             return str(e)
         finally:
