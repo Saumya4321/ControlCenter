@@ -138,7 +138,7 @@ class ControlScreen(QWidget):
 
 
     def updateBedTemp(self, value):
-        self.main_window.logger.info(f"Bed temperature target set to {value}")
+        print(f"Bed temperature target set to {value}")
 
     @run_async
     def run_async_send_gcode(self, gcode):
@@ -202,13 +202,13 @@ class ControlScreen(QWidget):
         self.main_window.moonraker_api.send_gcode(f"SET_HEATER_TEMPERATURE HEATER=bed_heater_front TARGET={target_temp}")
         self.main_window.moonraker_api.send_gcode(f"SET_HEATER_TEMPERATURE HEATER=bed_heater_left TARGET={target_temp}")
         self.main_window.moonraker_api.send_gcode(f"SET_HEATER_TEMPERATURE HEATER=bed_heater_right TARGET={target_temp}")
-        self.main_window.logger.info(f"Volume heater temperature set to {target_temp}")
+        print(f"Volume heater temperature set to {target_temp}")
 
     def update_setpoint(self, value):
         """Update the chamber temperature setpoint in the PrinterStatus model."""
         self.main_window.printer_status.chamberTemperatureSetpoint = value
         print(f"Chamber temperature setpoint updated to {value}")
-        self.main_window.logger.info(f"Chamber temperature setpoint updated to {value}")
+        print(f"Chamber temperature setpoint updated to {value}")
 
     @pyqtSlot(np.ndarray, dict)
     def update_thermal_camera_widget(self, frame, temps):
@@ -230,7 +230,7 @@ class ControlScreen(QWidget):
         """Cooldown the chamber."""
         self.main_window.printer_status.chamberTemperatureSetpoint = 0
         self.chamberTempSpinBox.setValue(0)
-        self.main_window.logger.info("Chamber cooldown button clicked")
+        print("Chamber cooldown button clicked")
 
     def setStep(self, stepRate):
         """Set the step rate for movement."""

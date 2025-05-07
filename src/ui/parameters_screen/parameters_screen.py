@@ -161,7 +161,7 @@ class ParametersScreen(QWidget):
 
 
         # log all of the parameters too
-        self.main_window.logger.info(f"""Parameters in PARAMETERS screen updated\n
+        print(f"""Parameters in PARAMETERS screen updated\n
             layerHeight: {self.layerHeightLineEdit.text()}\n
             initialLevellingHeight: {self.initialLevellingHeightLineEdit.text()}\n
             heatedBufferHeight: {self.heatedBufferHeightLineEdit.text()}\n

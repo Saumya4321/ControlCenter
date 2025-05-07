@@ -25,7 +25,7 @@ class ParamLogger:
         self.log_file_path = os.path.join(log_dir, f"log_{timestamp}.txt")
 
         # Create a file handler
-        file_handler = logging.FileHandler(self.log_file_path, mode="a", encoding="utf-8")
+        file_handler = logging.FileHandler('debug.txt', mode="a", encoding="utf-8")
         formatter = logging.Formatter(
             fmt="[{asctime}] [{levelname}] {message}",
             style="{",

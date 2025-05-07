@@ -8,7 +8,7 @@ from temperatureController.chamberTemperatureController import ChamberTemperatur
 from Feeltek.scanCard import Scancard  # Import Scancard
 from processAutomationController.processAutomationController import ProcessAutomationController
 from utils.helpers import run_async
-from logger.param_logger import ParamLogger
+# from logger.param_logger import ParamLogger
 
 if not Config.DEVELOPMENT_MODE:
     from temperatureController.heaterBoard import HeaterBoard
@@ -43,19 +43,19 @@ class MainWindow(QMainWindow):
         self.stacked_widget = QStackedWidget()
         self.layout.addWidget(self.stacked_widget)
 
-        self.logger = ParamLogger()
+        # self.logger = ParamLogger()
         
         if not Config.DEVELOPMENT_MODE:
-            # self.thermal_camera = ThermalCamera(roi=(2, 13, 59, 64))
-            # self.thermal_camera.thermal_camera_frame_ready.connect(self.update_frame)
-            # self.thermal_camera.max_temp_signal.connect(self.update_max_temp)  # Connect max_temp_signal to update_max_temp
-            # self.thermal_camera.start()
+            self.thermal_camera = ThermalCamera(roi=(2, 13, 59, 64))
+            self.thermal_camera.thermal_camera_frame_ready.connect(self.update_frame)
+            self.thermal_camera.max_temp_signal.connect(self.update_max_temp)  # Connect max_temp_signal to update_max_temp
+            self.thermal_camera.start()
 
-            # self.rgb_camera = RGBCamera()
-            # self.rgb_camera.rgb_camera_frame_ready.connect(self.update_rgb_frame)
-            # self.rgb_camera.start()
-            self.thermal_camera = None
-            self.rgb_camera = None
+            self.rgb_camera = RGBCamera()
+            self.rgb_camera.rgb_camera_frame_ready.connect(self.update_rgb_frame)
+            self.rgb_camera.start()
+            # self.thermal_camera = None
+            # self.rgb_camera = None
         else:
             self.thermal_camera = None
             self.rgb_camera = None
@@ -68,7 +68,7 @@ class MainWindow(QMainWindow):
 
         # Initialize MoonrakerAPI if not in development mode
         if not Config.DEVELOPMENT_MODE:
-            self.moonraker_api = MoonrakerAPI('http://10.20.1.135')
+            self.moonraker_api = MoonrakerAPI('http://10.20.1.116')
         else:
             self.moonraker_api = MockMoonrakerAPI()
 
@@ -91,7 +91,7 @@ class MainWindow(QMainWindow):
 
         # Adjust the size of the main window to fit its contents
         # self.adjustSize()
-        self.logger.info("Logging done") #to test if logger works
+        # self.logger.info("Logging done") #to test if logger works
 
         self.process_automation_controller.progress_update_signal.connect(self.update_progress_bar)
 
@@ -177,8 +177,9 @@ class MainWindow(QMainWindow):
         future = self.scancard.get_markParameters_by_layer(0)
         result = future.result()  # wait for the command to complete
 
+        print(result)
         if result["ret_value"] == -1:
-            print("Failed to fetch pulseWidth")
+            print("Failed to fetch pulseWidth {e}")
             return None
 
         current_pwm = result["ret_value"]["data"]["pulseWidth"]
@@ -194,7 +195,7 @@ class MainWindow(QMainWindow):
         result = future.result()
         if result.get("ret_value") == 1:
             print(f"Changing laser pulseWidth to {newVal} successful!")
-            self.logger.info(f"Pulse width changed to {newVal}")
+            # self.logger.info(f"Pulse width changed to {newVal}")
         else:
             print(f"Failed to change pulseWidth to {newVal}")
 
@@ -203,7 +204,7 @@ class MainWindow(QMainWindow):
 
     def get_input_directory(self, dirName):
         print(f"Selected directory: {dirName}")
-        self.logger.info("New folder given as input")
+        # self.logger.info("New folder given as input")
         # Loop through all files in the selected directory
         self.layer_count = 0
         for filename in os.listdir(dirName):
@@ -242,7 +243,7 @@ class MainWindow(QMainWindow):
 
         
         print(f"Total number of layers: {self.layer_count}")
-        self.logger.info(f"Total number of layers: {self.layer_count}")
+        # self.logger.info(f"Total number of layers: {self.layer_count}")
 
         import time
         # update layer numbers in gui
