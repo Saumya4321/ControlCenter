@@ -1,7 +1,7 @@
 # Define paths
 $desktopPath = [Environment]::GetFolderPath('Desktop')
 $shortcutPath = Join-Path $desktopPath "RunMyPythonScript.lnk"
-$targetScript = "C:\Users\SLS Machine\Downloads\ControlCenterOld_updated\ControlCenterOld_updated\src\script.ps1"
+$targetScript = "C:\Users\SLS Machine\Documents\GitHub\ControlCenter\ControlCenter\src\script.ps1"
 
 # Create a WScript.Shell COM object
 $wShell = New-Object -ComObject WScript.Shell
