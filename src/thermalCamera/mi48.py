@@ -29,6 +29,9 @@ def logger_wrapper(name, level, msg, exc_info=None, logger=None):
 KELVIN_0 = -273.15  # in Celsius
 T_OFFSET_UNIT = 0.05  # increment unit for OFFSET_CORR register in K
 
+MANUAL_TEMP_CORRECTION_C = 17.0  # Manual correction for temperature readings (in Celsius)
+
+
 # Word index in SPI header field indexing referenced to SPI header base index
 SPIHDR_FRCNT = 0
 SPIHDR_SXVDD = 1
@@ -350,33 +353,20 @@ class MI48:
         size_in_words = data_size
         if not self.capture_no_header:
             size_in_words += self.cols
-        # print('Reading {} words'.format(size_in_words))
 
-        # The spi device must provide read(number-of-bytes) function
         response = self.interfaces[1].read(size_in_words)
 
-        # Obtain the data but do NOT convert to degrees C yet,
-        # because we have to calculate CRC on it first.
-        # Assume the interfaces[1].read() returns 16-bit integers
-        # Recall that the temperature data frame is after the
-        # optional header
         try:
             data = response[-data_size:]
         except TypeError:
-            # if interface.read() yields None we've got an error
             return None, None
 
-        # Parse the optional header; else return the data
-        # If the MI48 is not on the core-development board, do not parse
         if self.capture_no_header or not self.parse_header:
             header = None
         else:
             _header = response[:-data_size]
             header = self.parse_frame_header(_header)
             self.crc_error = False
-            # check crc
-            # note that MI48 implements CRC-16/CCITT-FALSE which
-            # must be initialised with 0xFFFF
             _crc = crc16(data)
             if not header['crc'] == hex(_crc):
                 self.crc_error = True
@@ -389,7 +379,20 @@ class MI48:
         if self.read_raw:
             return data, header
         else:
+            # --- Correction block start ---
+            emissivity = self.get_emissivity()
+            sens_factor = self.get_sens_factor()
+            offset_corr = self.get_offset_corr_K()
+            # Convert register values to usable numbers
+            if emissivity > 1:
+                emissivity = emissivity / 100.0
+            if sens_factor > 3:
+                sens_factor = sens_factor / 100.0
+            # Convert to Celsius
             data = data / 10. + KELVIN_0
+            # Correction: (measured / emissivity / sens_factor) + offset + manual_correction
+            data = (data / emissivity / sens_factor) + offset_corr + MANUAL_TEMP_CORRECTION_C
+            # --- Correction block end ---
             return data.astype(np.float16), header
 
     def has_evk_bridge(self):
@@ -927,4 +930,4 @@ def format_framestats(data):
                    data.astype(np.float64).std())
     return s
 
-    
+
