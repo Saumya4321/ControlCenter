@@ -201,7 +201,7 @@ class ThermalCamera(QThread):
             # Overlay text for each section
             for section, temp in temps.items():
                 x, y = positions[section]
-                cv.putText(frame, f"{temp:.2f}C", (x, y), cv.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 1)
+                cv.putText(frame, f"{temp:.2f}C", (x, y), cv.FONT_HERSHEY_SIMPLEX, 1, (100, 100, 100), 1)
 
             #  # Draw section labels
             # for i, (section, (x, y)) in enumerate(positions.items(), 1):
