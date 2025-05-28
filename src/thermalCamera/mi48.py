@@ -29,7 +29,7 @@ def logger_wrapper(name, level, msg, exc_info=None, logger=None):
 KELVIN_0 = -273.15  # in Celsius
 T_OFFSET_UNIT = 0.05  # increment unit for OFFSET_CORR register in K
 
-MANUAL_TEMP_CORRECTION_C = 17.0  # Manual correction for temperature readings (in Celsius)
+MANUAL_TEMP_CORRECTION_C = 19.0  # Manual correction for temperature readings (in Celsius)
 
 
 # Word index in SPI header field indexing referenced to SPI header base index
