@@ -88,6 +88,7 @@ class ProcessAutomationController(QObject):
 
             while True:
                 setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
+                #setpoint = setpoint - 2 # changed 
                 temps = self.main_window.printer_status.chamberTemperatures
                 if all(temps.get(pos, 0) >= setpoint for pos in ['middle-center']):
                     time.sleep(2) #wait 20 secs atleast for layer to heat
@@ -188,6 +189,7 @@ class ProcessAutomationController(QObject):
 
                 setpoint = self.main_window.printer_status.chamberTemperatureSetpoint
                 temps = self.main_window.printer_status.chamberTemperatures
+                #setpoint = setpoint - 2 # changed
                 if all(temps.get(pos, 0) >= setpoint for pos in ['middle-center']):
                     time.sleep(2) #wait 20 secs atleast for layer to heat
                     break
