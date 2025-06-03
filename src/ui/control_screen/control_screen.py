@@ -93,6 +93,7 @@ class ControlScreen(QWidget):
         self.prepareForPartRemovalButton = self.findChild(QPushButton, "prepareForPartRemovalButton")  
 
         self.maxTempLabel = self.findChild(QLabel, "maxTempLabel")  # Find the maxTempLabel
+        self.dieTempLabel = self.findChild(QLabel, "dieTempLabel")
 
         # Initialize scanCardStatusLabel
         self.scanCardStatusLabel = self.findChild(QLabel, "scanCardStatusLabel")
