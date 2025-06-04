@@ -3213,7 +3213,7 @@ QPushButton:focus {
              <number>0</number>
             </property>
             <item>
-             <widget class="QLabel" name="fileInfoLabel_12">
+             <widget class="QLabel" name="dieTempLabel">
               <property name="maximumSize">
                <size>
                 <width>16777215</width>
@@ -3232,7 +3232,7 @@ QPushButton:focus {
                <string notr="true">color:  grey;</string>
               </property>
               <property name="text">
-               <string>Thermal Camera</string>
+               <string>DieTemp</string>
               </property>
              </widget>
             </item>
@@ -3262,22 +3262,6 @@ QPushButton:focus {
             </item>
            </layout>
           </widget>
-         </item>
-         <item>
-          <spacer name="verticalSpacer_8">
-           <property name="orientation">
-            <enum>Qt::Vertical</enum>
-           </property>
-           <property name="sizeType">
-            <enum>QSizePolicy::Fixed</enum>
-           </property>
-           <property name="sizeHint" stdset="0">
-            <size>
-             <width>20</width>
-             <height>10</height>
-            </size>
-           </property>
-          </spacer>
          </item>
          <item>
           <widget class="QWidget" name="rgbCameraWidget" native="true">
