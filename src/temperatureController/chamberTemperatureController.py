@@ -86,8 +86,10 @@ class ChamberTemperatureController(QThread):
         # Apply the control values to the heater board
         # self.heater_board.setHeaterPowers(control_bottom, control_bottom, control_right, control_right // 2, control_top, control_top, control_left, control_left // 2)
         # OLD LINE
-        self.heater_board.setHeaterPowers(control_left//2, control_left, control_top//2, control_top, control_right//2, control_right, control_bottom//2, control_bottom)  #// Set the heater powers ---CH8, CH7, CH6, CH5, CH4, CH3, CH2, CH1
+        #self.heater_board.setHeaterPowers(control_left, control_left//2, control_top, control_top, control_right, control_right//2, control_bottom, control_bottom)  #// Set the heater powers ---CH8, CH7, CH6, CH5, CH4, CH3, CH2, CH1
         # NEW
+        # Test
+        self.heater_board.setHeaterPowers(control_right, control_right//3, control_top, control_top, control_left, control_left, control_bottom, control_bottom)
         # self.heater_board.setHeaterPowers(0, 0, control_top, control_top, 0, 0, control_bottom, control_bottom)  #// Set the heater powers ---CH8, CH7, CH6, CH5, CH4, CH3, CH2, CH1
         # self.heater_board.setHeaterPowers(control_left, control_left , control_top, control_top, control_right//2, control_right, control_bottom, control_bottom//2)  #// Set the heater powers ---CH8, CH7, CH6, CH5, CH4, CH3, CH2, CH1
         

@@ -41,9 +41,9 @@ class MainWindow(QMainWindow):
                 self.thermal_camera.start()
 
                 # Initialize RGB camera
-                self.rgb_camera = RGBCamera()
-                self.rgb_camera.rgb_camera_frame_ready.connect(self.update_rgb_frame)
-                self.rgb_camera.start()
+                # self.rgb_camera = RGBCamera()
+                # self.rgb_camera.rgb_camera_frame_ready.connect(self.update_rgb_frame)
+                # self.rgb_camera.start()
             except Exception as e:
                 print(f"Error initializing cameras: {e}")
                 self.thermal_camera = None
