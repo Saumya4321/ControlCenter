@@ -30,6 +30,8 @@ def replace_dead_pixels(frame, min_val=0, max_val=220):
 class ThermalCamera(QThread):
     thermal_camera_frame_ready = pyqtSignal(np.ndarray, dict)
     max_temp_signal = pyqtSignal(float)  # Add a new signal for the maximum temperature
+    chip_temp_signal = pyqtSignal(float)  # new signal for die temperature
+
 
     def __init__(self, roi=(0, 0, 80, 80), com_port=None):
         """
@@ -73,6 +75,11 @@ class ThermalCamera(QThread):
             data, header = self.mi48.read()
             if data is None:
                 return
+            
+            # ---- update: for getting die temperature
+            if header and 'senxor_temperature' in header:
+                chip_temp = header['senxor_temperature']
+                self.chip_temp_signal.emit(chip_temp)
 
             # Calculate min/max temperatures
             min_temp = self.dminav(data.min())

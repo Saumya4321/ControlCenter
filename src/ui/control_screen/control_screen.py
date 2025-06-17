@@ -161,6 +161,14 @@ class ControlScreen(QWidget):
         self.main_window.printer_status.temperatures_updated.connect(self.update_thermal_camera_widget)
         self.main_window.printer_status.rgb_frame_updated.connect(self.update_rgb_camera_widget)
         self.main_window.printer_status.maxtemp_updated.connect(self.update_max_temp_label)  # Connect the maxtemp_updated signal
+        if self.main_window.thermal_camera:
+            self.main_window.thermal_camera.chip_temp_signal.connect(self.update_die_temp_label)
+
+    def update_die_temp_label(self, temp):
+        self.dieTempLabel.setText(f"{temp:.2f} °C")
+        print(f"Chip/Die Temp: {temp:.2f} °C") 
+
+
 
     @pyqtSlot(float)
     def update_max_temp_label(self, max_temp):
