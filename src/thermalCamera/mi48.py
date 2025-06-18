@@ -29,7 +29,7 @@ def logger_wrapper(name, level, msg, exc_info=None, logger=None):
 KELVIN_0 = -273.15  # in Celsius
 T_OFFSET_UNIT = 0.05  # increment unit for OFFSET_CORR register in K
 
-MANUAL_TEMP_CORRECTION_C = -30 #19.0  # Manual correction for temperature readings (in Celsius)
+MANUAL_TEMP_CORRECTION_C = 8.0 #19.0  # Manual correction for temperature readings (in Celsius)
 
 
 # Word index in SPI header field indexing referenced to SPI header base index
@@ -380,7 +380,7 @@ class MI48:
             return data, header
         else:
             # --- Correction block start ---
-            emissivity = self.get_emissivity()
+            emissivity = self.get_emissivity() # enter value as integer %
             sens_factor = self.get_sens_factor()
             offset_corr = self.get_offset_corr_K()
             # Convert register values to usable numbers

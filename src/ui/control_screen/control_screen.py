@@ -165,7 +165,7 @@ class ControlScreen(QWidget):
             self.main_window.thermal_camera.chip_temp_signal.connect(self.update_die_temp_label)
 
     def update_die_temp_label(self, temp):
-        self.dieTempLabel.setText(f"{temp:.2f} °C")
+        self.dieTempLabel.setText(f"Die temp : {temp:.2f} °C")
         print(f"Chip/Die Temp: {temp:.2f} °C") 
 
 
