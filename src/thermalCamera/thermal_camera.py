@@ -31,7 +31,7 @@ class ThermalCamera(QThread):
     thermal_camera_frame_ready = pyqtSignal(np.ndarray, dict)
     max_temp_signal = pyqtSignal(float)  # Add a new signal for the maximum temperature
     chip_temp_signal = pyqtSignal(float)  # new signal for die temperature
-
+    change_param_request = pyqtSignal(str, object) 
 
     def __init__(self, roi=(0, 0, 80, 80), com_port=None):
         """
@@ -64,10 +64,33 @@ class ThermalCamera(QThread):
         self.dminav = RollingAverageFilter(N=10)
         self.dmaxav = RollingAverageFilter(N=10)
 
+        self.change_param_request.connect(self._on_change_param)
+
     def run(self):
         """Runs the camera processing loop asynchronously."""
         while self.running:
             self.process_frame()
+
+    def _on_change_param(self, param, value):
+        """Executed in the camera thread; safe to touch MI48 here."""
+        method_map = {
+            "offset_corr": self.mi48.set_offset_corr,  
+            "sens_factor": self.mi48.set_sens_factor,   
+            "emissivity":  self.mi48.set_emissivity,    
+        }
+
+        try:
+            setter = method_map[param]
+        except KeyError:
+            print("Unknown camera parameter: %s", param)
+            return
+
+        try:
+            setter(value)
+            print(f"ThermalCam: {param} set to {str(value)}")
+        except Exception as e:
+            print(f"Failed to set {param}: {e}")
+
 
     def process_frame(self):
         """Processes a frame: crops ROI, calculates temperatures, overlays grid and text."""
