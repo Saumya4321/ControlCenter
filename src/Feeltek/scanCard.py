@@ -207,6 +207,7 @@ class Scancard:
                 print("Command executed successfully")
             else:
                 print("There was an error executing the command")
+                print(result)
         except Exception as e:
             print(f"An error occurred: {e}")
         future.add_done_callback(lambda f: self.mutex.unlock())
